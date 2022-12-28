@@ -1,0 +1,1 @@
+pandoc ../src/sidgwick.md -f markdown+definition_lists+pipe_tables --toc --toc-depth=2 --template rouse.html -o ../docs/sidgwick.html

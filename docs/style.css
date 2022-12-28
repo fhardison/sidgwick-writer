@@ -1,0 +1,107 @@
+@font-face {
+  font-family: "Garamond";
+  src:  url("CormorantGaramond-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Garamond";
+  src:  url("CormorantGaramond-MediumItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Garamond";
+  src:  url("CormorantGaramond-SemiBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bodoni";
+  src:  url("bodoni_[allfont.net].woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  max-width: 70ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.75;
+  font-size: 1.25em;
+}
+
+h1,h2,h3 {
+  font-family: "Bodoni";
+}
+body {
+  font-family: 'Garamond', serif;
+  display: flex;
+  justify-content: center;
+  background-color: #fffff8;
+  color: #111;
+  max-width: 38rem;
+  padding: 2rem;
+  margin: auto;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 3em 0 1em;
+}
+
+p,ul,ol {
+  margin-bottom: 2em;
+  color: #1d1d1d;
+  font-family: sans-serif;
+}
+
+nav {
+  font-size: 120%;
+  text-align: center;
+}
+a {
+  color: #C00;
+  text-decoration: none;
+}
+a:hover {
+  color: #F33;
+  text-decoration: underline;
+}
+h1 {
+  text-align: center;
+}
+body.index h1 {
+  font-size: 2em;
+  margin-bottom: 0;
+}
+body.index h2 {
+  font-size: 1.7em;
+  margin-top: 0;
+  font-weight: normal;
+  text-align: center;
+}
+body.index h3 {
+  font-size: 1.4em;
+  margin: 0 0 2em;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+p.lead {
+  font-size: 120%;
+  margin-top: 1em;
+}
+/* ul {
+  margin: 0 1em;
+}
+li {
+  font-size: 1.2em;
+  line-height: 1.5em;
+} */
+
+ul li {
+  list-style-type: none;
+}
