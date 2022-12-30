@@ -1,6 +1,6 @@
 ---
 title: A FIRST GREEK WRITER WITH EXERCISES AND VOCABULARIES
-author: Author Sidgwick, M.A.
+author: Arthur Sidgwick, M.A.
 about: TUTOR OF CORPUS CHRISTI COLLEGE, OXFORD, LATE ASSISTANT MASTER AT EUGBY SCHOOL,
   AND FELLOW OF TRINITY COLLEGE, CAMBRIDGE
 publisher: RIVINGTONS
@@ -699,7 +699,8 @@ This is so familiar from Latin and other languages that no more need be said.. S
 
 (b.) To express extent of space or time (like Latin).
 
-- I was ill for three days. <br />τρεῖς ἡμέρας ἐνόσουν. - It is five furlongs off. <br />πέντε σταδίους ἀπέχει.
+- I was ill for three days. <br />τρεῖς ἡμέρας ἐνόσουν.
+- It is five furlongs off. <br />πέντε σταδίους ἀπέχει.
 
 So, Prepositions which have notion of movement along :--- παρὰ, alongside of, and metaphorically aside of, contrary to. κατὰ, down along, and metaphorically according to, opposite to. ava, up along, and metaphorically according w. περὶ, round along, and metaphorically concerned with.
 
@@ -880,7 +881,7 @@ The case of the Participle naturally varies. Sometimes it agrees with the Substa
 
 - He came and spoke. <br />ἐλθὼν ἔλεξε.
 - I stayed behind and worked. <br />ὑπομένων ἐπόνουν.
-- He asked her to take it and break it. <br />λαβοῦσαν διαρρῆξαι. 
+- He asked her to take it and break it. <br />λαβοῦσαν διαρρῆξαι.
 
 So Genitive Absolute, with subject changed :---
 
@@ -888,13 +889,13 @@ So Genitive Absolute, with subject changed :---
 
 (2.) Where in English Participles are employed, but often with prepositions, as on, after, in, or conjunctions, as wihile, when, the tense is determined by the sense; see Tenses,
 
-- I saw him in passing. <br />παριὼν εἶδον. 
-- When working I am happy. <br />ἐν ἔργῳ ὧν εὖ ἔχω, or ἥδομαι. 
-- While wandering he fell in with me. <br />ἀλώμενος περιέτυχέ μοι. 
-- On hearing this she fell down. <br />τοῦτο ἀκούσασα κατέπεσε. 
+- I saw him in passing. <br />παριὼν εἶδον.
+- When working I am happy. <br />ἐν ἔργῳ ὧν εὖ ἔχω, or ἥδομαι.
+- While wandering he fell in with me. <br />ἀλώμενος περιέτυχέ μοι.
+- On hearing this she fell down. <br />τοῦτο ἀκούσασα κατέπεσε.
 - After waiting some time, I ran off. <br />χρόνον τινὰ ἐπισχὼν ἀπέδραμον.
 
-So Genitive Absolute, with new subject :--- 
+So Genitive Absolute, with new subject :---
 
 - On their assenting he swore. <br />συναινεσάντων ἐκείνων ὥὦμοσε.
 - He marched with his soldiers following. <br />ἑπομένων τῶν στρατιωτῶν ἐπορεύετο.
@@ -904,21 +905,20 @@ So Genitive Absolute, with new subject :---
 - As he saw it he was pleased. <br />ἰδὼν ἤσθη.
 - He was at a loss when he heard. <br />ἀκούσας ἠπόρει.
 
-So with Genitive Absolute, subject changed :--- 
+So with Genitive Absolute, subject changed :---
 
 - When three days had elapsed they came back. <br />τριῶν ἡμερῶν γενομένων ἧκον.
-- When night arrived. <br />νυκτὸς ἐπιγενομένης. 
+- When night arrived. <br />νυκτὸς ἐπιγενομένης.
 - He departed while it was still night. <br />άπγηει VUKTOS ETL οὔσης.
 
 (4.) Where in English Abstract Substantives are used with Prepositions.
 
-
- - He waited in the hope. <br />ἐλπίζων περιέμενε.
- - In great alarm she cried out. <br />ἡ δὲ μέγα φοβουμένη ἐβόησε. 
+- He waited in the hope. <br />ἐλπίζων περιέμενε.
+- In great alarm she cried out. <br />ἡ δὲ μέγα φοβουμένη ἐβόησε.
 - At the sight she fled. <br />ἰδοῦσα ἔφυγε.
 - We watch you at work. <br />πονοῦντα θεωροῦμέν σε.
 
-So with Genitive Absolute, subject changed :--- 
+So with Genitive Absolute, subject changed :---
 
 - On their departure she died. <br />ἀπελθόντων ἐκείνων ἐτελεύτησε.
 - Amid the silence of all he departed. <br />σιγώντων ἁπάντων ἀπηει.
@@ -929,12 +929,12 @@ In English a variety of ways adopted to express it, the commonest being a Partic
 
 ## § 46. c. Comparative.
 
-The Comparison is commonly made in English by a clause with a Subordinate Verb, the clause being introduced by as, as if, as though. In Greek, ws or ὥσπερ would be used with Participle. 
+The Comparison is commonly made in English by a clause with a Subordinate Verb, the clause being introduced by as, as if, as though. In Greek, ws or ὥσπερ would be used with Participle.
 
-- He descended as if to retire. <br />κατέβη ὡς ἀποχωρήσων. 
+- He descended as if to retire. <br />κατέβη ὡς ἀποχωρήσων.
 - He staggered as if he were drunk. <br />ὡς μεθύων ὀλίγου κατέπεσε.
 
-So Genitive Absolute, with change of subject :---  
+So Genitive Absolute, with change of subject :---
 
 - He ran as though a lion were after him. <br />ὥσπερ λέοντος διώκοντος ἀπέδραμε.
 
@@ -943,7 +943,7 @@ So Genitive Absolute, with change of subject :---
 - I will go with you, as I want to see. <br />συνέψομαί σοι, ws ἰδεῖν βουλόμενος.
 - He was afraid, as he knew he was guilty. <br />ἐφοβεῖτο, ὡς ξυνειδὼς ἑαυτῷ, etc.
 
-So Genitive Absolute, with change of subject :--- 
+So Genitive Absolute, with change of subject :---
 
 - Come, for I am ready to receive you. <br />ἐλθέ, ὡς ἐμοῦ θέλοντος δέξασθαι.
 - As he stood near I moved away. <br />τοῦ δὲ παρεστῶτος, ἐγὼ ἀπῳχόμην.
@@ -958,7 +958,7 @@ In English, often a variety of expressions may be turned with ws and the causal 
 
 The Future Participle is used in Greek to express purpose, often with ws, sometimes with the Article.
 
-- He sent a soldier to inquire. <br />ἐρωτήσοντα ἀπέπεμψε στρατιώτην. 
+- He sent a soldier to inquire. <br />ἐρωτήσοντα ἀπέπεμψε στρατιώτην.
 - They started to overtake him. <br />ἀπεχώρησαν WS καταληψόμενοι,
 - I shall send messengers to inform you. <br />πέμψω τοὺς ἀγγελοῦντας.
 
@@ -966,34 +966,34 @@ The Future Participle is used in Greek to express purpose, often with ws, someti
 
 Often the Participial Clause stands for a supposition : the Participle often being followed not unnaturally by the enclitic *γε*, which means 'at least.'
 
-- Ιf you go away, you will find. <br />ἀπιὼν εὑρήσεις. 
-- If he is here, I shall rescue him. <br />σώσω αὐτὸν παρόντα γε. 
+- Ιf you go away, you will find. <br />ἀπιὼν εὑρήσεις.
+- If he is here, I shall rescue him. <br />σώσω αὐτὸν παρόντα γε.
 
-So Genitive Absolute, with changed subject :--- 
+So Genitive Absolute, with changed subject :---
 
-- If you help me, I can accomplish it. <br />σοῦ ye ἐπαρκοῦντος οἷός τ᾽ εἰμὶ δρᾶν. 
+- If you help me, I can accomplish it. <br />σοῦ ye ἐπαρκοῦντος οἷός τ᾽ εἰμὶ δρᾶν.
 
-N.B.---In this use the Negative is μή. 
+N.B.---In this use the Negative is μή.
 
-- If you are not present, I shall be helpless. <br />σοῦ μὴ παρόντος ἀμήχανος ἔσομαι. 
+- If you are not present, I shall be helpless. <br />σοῦ μὴ παρόντος ἀμήχανος ἔσομαι.
 - If I do not do it, I shall be put to death. <br />μὴ δρῶν ἀποθανοῦμαι.
 
 ## § 50. Concessive Use.
 
 Where in English we use 'though' and a verb, in Greek often the Participle and καίπερ, 'even,' is used, referring to a noun or pronoun already in the sentence, with no alteration of the case.
 
-- Though old, he ran. <br />καίπερ γέρων ὧν ἔτρεχε. 
-- He killed her, though she was his mother. <br />ἔκτεινεν αὐτὴν καίπερ μητέρα οὖσαν. 
+- Though old, he ran. <br />καίπερ γέρων ὧν ἔτρεχε.
+- He killed her, though she was his mother. <br />ἔκτεινεν αὐτὴν καίπερ μητέρα οὖσαν.
 - Though they were strong, he gave them orders. <br />ἐπέτασσεν αὐτοῖς καίπερ ἰσχυροῖς οὖσιν.
 
-So Genitive Absolute, with subject changed :--- 
+So Genitive Absolute, with subject changed :---
 
 - Though many were present, he bathed. <br />καίπερ πολλῶν παρόντων ἐλούετο.
 
 **§ 51.** Observe also that a Participle is used for the dependent clause after verbs of knowing and feeling (just as Infinitives are used for dependent clauses after verbs of saying and thinking). See § 40.
 
-- I know that she is present. <br />ἐπίσταμαι αὐτὴν παροῦσαν. 
-- Do you not perceive it is disgraceful? <br />οὐκ αἰσθάνει αἰσχρὸν ὄν; 
+- I know that she is present. <br />ἐπίσταμαι αὐτὴν παροῦσαν.
+- Do you not perceive it is disgraceful? <br />οὐκ αἰσθάνει αἰσχρὸν ὄν;
 
 And the same rule holds here too, that the Nominative is used and not the Accusative, where the subject, of the two clauses is the same.
 
@@ -1011,9 +1011,9 @@ The Participle (especially ὦν, being) is sometimes required in Greek where in
 - The Chians, men always without faith, revolted. <br />ἀπέστησαν οἱ Χῖοι, ἄνθρωποι ὄντες ἀεὶ ἄπιστοι.
 - Together we are strong: separate, weak. <br />συνειλεγμένοι μὲν ἰσχυροί ἐσμεν, καθ´ ἕκαστον δὲ γενόμενοι, ἀσθενεῖς.
 
-\[In many cases of apposition the clause can be turned in Greek eifher with Article or with Participle, as--- 
+\[In many cases of apposition the clause can be turned in Greek eifher with Article or with Participle, as---
 
-- The lion, the father of the cubs... <br />ὁ λέων, ὁ πατὴρ TOV σκύμνων, OF πατὴρ ὦν. 
+- The lion, the father of the cubs... <br />ὁ λέων, ὁ πατὴρ TOV σκύμνων, OF πατὴρ ὦν.
 - The Getae, the remotest of savages...<br />οἱ Γέται, of ἔσχατοι τῶν βαρβάρων, or ἔσχατοι Byres. \]
 
 ## § 53. Relative and Participle.
@@ -1050,7 +1050,7 @@ Note, however, that sometimes when the act spoken of is *just over*, English use
 
 ## § 55. English Imperfect.
 
-This is the same in Greek as in English. 
+This is the same in Greek as in English.
 
 - I was learning. <br />ἐμάνθανον.
 
@@ -1060,13 +1060,11 @@ Note, however, that the English Imperfect is sometimes due to *oratio obliqua*; 
 
 - I asked why he was sick. (What I asked was, 'Why are you sick'?)<br />ἠρομῆν τί νοσεῖ.
 
-[^2]: Or, by strict oratio obliqua sequence, νοσοίη: but the tense (which is all we are concerned with) is still Present.
-
 ## § 56. English Perfect.
 
 Greeks use Perfect much less and Aorist much more than we do: the Perfect in English therefore often corresponds to the Aorist in Greek, chiefly when there is no emphasis on the *effect still lαsting*. 'Thus :---
 
-- Look at the book I have bought. <br />ἰδοὺ τὸ βιβλίον ὅπερ ἐωνησάμην. 
+- Look at the book I have bought. <br />ἰδοὺ τὸ βιβλίον ὅπερ ἐωνησάμην.
 - I approve what you have said. <br />ἐπαινῶ ὅσα ἔλεξας.
 - We have found it useful. <br />ὠφέλιμον εὕρομεν.
 
@@ -1094,7 +1092,7 @@ So again the English Pluperfect is often due to orativ dbliqua (see § 55): and 
 
 Thus, turning the clauses in § 56 into the oblique :---
 
-- He asked me to look at the book he HAD bought. <br />ἤτησε pe τὸ βιβλίον σκοπεῖν ὅπερ ἐωνήσατο. 
+- He asked me to look at the book he HAD bought. <br />ἤτησε pe τὸ βιβλίον σκοπεῖν ὅπερ ἐωνήσατο.
 - He said he approved what I HAD said. <br />ἐπαινεῖν ἔφη ὅσα ἔλεξα.
 - I told him we HAD found it useful. <br />ἔλεξα ὅτι ὠφέλιμον εὕρομεν.
 
@@ -1104,10 +1102,10 @@ The English Past Tense corresponds commonly to the Greek Aorist, and then there 
 
 | | Aorist.|
 |:----|:-----|
-| Having said this he went away. I came, I saw, I conquered.|ταῦτα εἰπὼν ἀπεχώρησε. ἦλθον, εἶδον, ἐνίκησα. | 
-| | Imperfiect.| 
-|I negotiated with the Athenians while he conversed thus.| ἔπρασσον πρὸς τοὺς ᾿Αθηναίους ἕως τοιαῦτα διελέγετο. | 
-| I went to sophists to learn philosophy. | παρὰ σοφιστὰς ἐφοίτων ἵνα φιλοσοφίαν μάθοιμι. | 
+| Having said this he went away. I came, I saw, I conquered.|ταῦτα εἰπὼν ἀπεχώρησε. ἦλθον, εἶδον, ἐνίκησα. |
+| | Imperfiect.|
+|I negotiated with the Athenians while he conversed thus.| ἔπρασσον πρὸς τοὺς ᾿Αθηναίους ἕως τοιαῦτα διελέγετο. |
+| I went to sophists to learn philosophy. | παρὰ σοφιστὰς ἐφοίτων ἵνα φιλοσοφίαν μάθοιμι. |
 | He paid me every week my salary. | δι' ἑπτὰ ἡμερῶν ἀπεδίδον μοι τὸν μισθόν.|
 
 ## § 59. Special Use of Greek Imperfect.
@@ -1122,37 +1120,39 @@ The Imperfect in Greck, describing the protracted or extended process in the pas
 
 The Aorist is used sometimes to describe not merely the Act as opposed to the State, but the act as an entrance into the state. Thus compare the two Verbs contrasted in the following pairs :---
 
-He was ill. ἐνόσει.
+| | |
+|:---|:---|
+| He was ill. | ἐνόσει. |
+| He fell ill. | ἐνόσησε. |
+| He was afraid. | ἐφοβεῖτο. |
+| He became alarmed. | ἐφοβήθη. |
+| He was prosperous. | εὐτύχει. |
+| He rose to prosperity. | εὐτύχησε.|
 
-He fell ii. ἐνόσησε.; He was afraid. ἐφοβεῖτο. He became alarmed. ἐφοβήθη. } He was prosperous. εὐτύχει.
-
-He rose to prosperity. εὐτύχησε.\\
-
-§61. English Present Infinitive and Greek Aorist Infinitive.
+## § 61. English Present Infinitive and Greek Aorist Infinitive.
 
 A common mistake is made by beginners in supposing the Aorist Infinitive to describe a past action. This is only so where the Infinitive is in oblique statement (oratio obliqua), and stands for a Finite Verb.
 
-Thus, he said that he came (or had come) is ἔφη ἐλθεῖν.
+Thus, *he said that he came (or had come)* is *ἔφη ἐλθεῖν*.
 
-But in sentences like I wish to know, able to conquer, so as to Jind, it is quite as good Greek to use Aorist as Present, and we might naturally say βούλομαι γνῶναι, δυνατὸς νικῆσαι, ὥστε εὑρεῖν, no less than γιγνώσκειν, νικᾶν, and εὑρίσκειν.
+But in sentences like *I wish to know, able to conquer, so as to find,* it is quite as good Greek to use Aorist as Present, and we might naturally say *βούλομαι γνῶναι, δυνατὸς νικῆσαι, ὥστε εὑρεῖν*, no less than *γιγνώσκειν, νικᾶν, and εὑρίσκειν*.
 
-SPECIAL IDIOM.
+# SPECIAL IDIOM.
 
-After ὑπισχνεῖσθαι, to promise, ἐλπίζω, to hope, μέλλω, to be going, the Future Infinitive is often used in Greek. See § 42.
+After *ὑπισχνεῖσθαι, to promise, ἐλπίζω, to hope, μέλλω, to be going,* the Future Infinitive is often used in Greek. See § 42.
 
 ## § 62. Greek Aorist in Imperative, Subjunctive, and Optative.
 
 In all these three Moods the Greeks have two tenses corresponding to the English one. Thus :---
 
-Learn this. μάνθανε τοῦτο.  Imper. μαθὲ τοῦτο.
-
-In order that I may learn. ἵνα μανθάνω. ) Subj
-
-σ , ἵνα μάθω.
-
-Ln order that I might learn. ἵνα μανθάνοιμι.  Opt
-
-Φ Ld tva μα θο μι,
+| | | |
+|:---|:---|:---|
+| Learn this. | μάνθανε τοῦτο.  | Imper.  |
+| | μαθὲ τοῦτο. | |
+| In order that I may learn. | ἵνα μανθάνω. | Subj. |
+| | ἵνα μάθω. | |
+| In order that I might learn. | ἵνα μανθάνοιμι. | Opt. |
+| | ἵνα μάθοιμι. | |
 
 The distinction between the Present and Aorist in each of these pairs is a very fine one (Aorist, expressing the act; Present, extended act or process), and as it is not observed in English it need not be attended to in the early stages of composition.
 
@@ -1164,29 +1164,37 @@ The Aorist in the Participle and Infinitive is for practical convenience treated
 
 The Present Passive in English corresponds to two different Greek tenses according to circumstances, the Present and the Perfect.
 
-(1.) Where is-done means is being done or is repeatedly done, the Present is used. The salt 1s brought down in ships. ναυσὶ τὸ ἅλας κατακομίζεται.
+(1.) Where *is-done* means is being done or is repeatedly done, the Present is used.
 
-The officers are elected by show of ot λοχαγοὶ χειροτονοῦνται. hands. I am grieved to find. λυποῦμαι αἰσθόμενος.
+- The salt 1s brought down in ships. <br />ναυσὶ τὸ ἅλας κατακομίζεται.
+- The officers are elected by show of hands. <br />λοχαγοὶ χειροτονοῦνται.
+- I am grieved to find. <br />λυποῦμαι αἰσθόμενος.
 
-(2.) Where is-done means 1s already done, use the Perfect. 1 am beaten in the fight. τῃ μάχῃ νενίκημαι. In the book it ts written. ἐν τῇ συγγραφὴ εἴρηται.
+(2.) Where is-done means 1s already done, use the Perfect.
+
+- I am beaten in the fight. <br />τῃ μάχῃ νενίκημαι.
+- In the book it ts written. <br />ἐν τῇ συγγραφὴ εἴρηται.
 
 ## § 64. English Past Tense Passive.
 
-So 'was done' in English may mean three things :--- (1.) 'Was being done' or ' was often done.' Greek Imperfect.
+So 'was done' in English may mean three things :---
 
-The salt was brought down. τὸ ἅλας κατεκομίζετο. They were governed by kings. ὑπὸ βασιλέων ἤρχοντο. The children were taught by the δημοσίᾳ ἐδιδάσκοντο οἱ παῖδες. State. (2.) 'Was done,' single act: in Greek use the Aorist. The battle was won. ἐνικήθησαν μάχῃ. The town was taken. ἑάλω ἡ πόλις;
+(1.) 'Was being done' or ' was often done.' Greek Imperfect.
 
-(3.) ' Was already done, 'were previously done:' in Greek use the Pluperfect.
+- The salt was brought down. <br />τὸ ἅλας κατεκομίζετο.
+- They were governed by kings. <br />ὑπὸ βασιλέων ἤρχοντο.
+- The children were taught by the State. <br />δημοσίᾳ ἐδιδάσκοντο οἱ παῖδες.
 
-When I got there the enemy were ἀφικομένου ἐμοῦ ἐνενίκηντο οἱ
+(2.) 'Was done,' single act: in Greek use the Aorist.
 
-defeated. πολέμιοι.
+- The battle was won. <br />ἐνικήθησαν μάχῃ.
+- The town was taken. <br />ἑάλω ἡ πόλις;
 
-They did as they were told. ἔδρασαν ὥσπερ εἴρητο.
+(3.) 'Was already done,' 'were previously done:' in Greek use the Pluperfect.
 
-Before he left the peace was πρὶν ἀπιέναι ἐκεῖνον διελέλυντο broken. al σπονδαὶ,
-
-s.G.W.\] D
+- When I got there the enemy were defeated. <br />ἀφικομένου ἐμοῦ ἐνενίκηντο οἱ πολέμιοι.
+- They did as they were told. <br />ἔδρασαν ὥσπερ εἴρητο.
+- Before he left the peace was broken.<br />πρὶν ἀπιέναι ἐκεῖνον διελέλυντο αἳ σπονδαὶ.
 
 ## § 65. Future Passives.
 
@@ -1198,21 +1206,26 @@ There are two Future Passives in Greek :---
 
 The difference between them corresponds to the difference between the Perfect and Aorist; Perfect describing the state, Aorist the act. Thus :---
 
-1 shall be abandoned. λειφθήσομαι. i 1 shall find myself alone or bereft. λελείψομαι.
-
-1 shall get a beating. τυφθήσομαι. ᾿ 1 shall be black and blue. τετύψομαι.
-
-1 shall be set free. λυθήσομαι. i 1 shall be free. λελύσομαι.
+| | |
+|:---|:---|
+| I shall be abandoned. | λειφθήσομαι. |
+| I shall find myself alone or bereft. | λελείψομαι.|
+| | |
+| I shall get a beating. | τυφθήσομαι. |
+| I shall be black and blue. | τετύψομαι. |
+| | |
+| I shall be set free. | λυθήσομαι. |
+| I shall be free. | λελύσομαι. |
 
 Often in English the simple Future is used for both, with exactly the same ambiguity that we have noticed in the Present and Past of the Passive voice. The student will, however, find no difficulty if he will always think of the sense, and ask the simple question, Does it describe the future act or the future state?
 
-If the ships go out, the treaty will be broken. \[Act\] λυθήσονται αἱ σπονδαί,
+- If the ships go out, the treaty will be broken. <br />\[Act\] λυθήσονται αἱ σπονδαί,
 
-By the time you get home the treaty will be broken. \[State\] λελύσονται.
+- By the time you get home the treaty will be broken. <br />\[State\] λελύσονται.
 
-When he dies he shall be buried. \[Act\] ταφήσεται.
+- When he dies he shall be buried. <br />\[Act\] ταφήσεται.
 
-Leave him here; he will be buried among his kindred. \[State\] τεθάψεται. TENSES. SI
+- Leave him here; he will be buried among his kindred. <br />\[State\] τεθάψεται.
 
 ## § 66. English Participle Perfect = Greek Aorist and Perfect.
 
@@ -1220,131 +1233,130 @@ We should observe that in Greek there are two Participles, the Perfect and Aoris
 
 The fact is, δράσας describes the mere act of doing, δεδρακώς the state of having done; and which we use will, therefore, depend on the meaning of the English. Thus :---
 
-Aorist. Having shut the door, he went out. κλείσας τὴν θύραν ἐξῆλθε.
+| | |
+|:--|:--|
+| | Aorist. |
+| Having shut the door, he went out. | κλείσας τὴν θύραν ἐξῆλθε. |
+| Having been struck, he defended himself.| πληγεὶς ἠμύνατο. |
+| Having prepared his plan, he marched. | παρασκευασάμενος τὸ βούλευμα ἐπορεύετο. |
+| The girl fell wounded. | τρωθεῖσα κατέπεσεν ἡ κόρη. |
 
-Having been struck, he defended πληγεὶς ἠμύνατο,
+But---
 
-himself.
-
-Having prepared his plan, he παρασκευασάμενος τὸ βού- marched. λευμα ἐπορεύετο.
-
-The girl fell wounded. τρωθεῖσα κατέπεσεν ἡ κόρη.
-
-But--- Perfect. Having been brought up softly. μαλθακῶς τεθραμμένος.
-
-Having suffered many years πολλὰ ἔτη δεινότατα πε-
-
-much outrage. πονθώς. Twenty years old. εἰκόσιν ἔτη γεγονώς. He came with his mind madeup. βεβουλευμένος ἦλθε. We found the girl wounded. εὕρομεν τὴν κόρην τετρω- μενην.
+| | |
+|:--|:--|
+| | Perfect. |
+| Having been brought up softly. | μαλθακῶς τεθραμμένος. |
+| Having suffered many years much outrage. | πολλὰ ἔτη δεινότατα πεπονθώς. |
+| Twenty years old. | εἰκόσιν ἔτη γεγονώς. |
+| He came with his mind madeup. | βεβουλευμένος ἦλθε. |
+| We found the girl wounded. | εὕρομεν τὴν κόρην τετρωμενην. |
 
 \[On the same principle, always Perfect when qualities, or personal description is given. \]
 
-Inclined to drunkenness. πρὸς μέθην τετραμμένος. Shod in Persian slippers. Περσικὰς ὑποδεδεμένος.
+| | |
+|:--|:--|
+| Inclined to drunkenness. | πρὸς μέθην τετραμμένος. |
+| Shod in Persian slippers. | Περσικὰς ὑποδεδεμένος. |
 
 ## § 67. English Participle Perfect = Greek Present.
 
 On the other hand, the Greek Present Participle may be used where in English we should use the Past. This will follow from the same principle mentioned before, namely that in Greck the
 
-Aorist describes act simply, Present describes act extended, or state of doing.
+- Aorist describes act simply,
+- Present describes act extended, or state of doing.
 
 Therefore if we say, 'After having learnt music ten years, he was still ignorant' (the act being extended), the Participle in Greek will naturally be Present, and it will run, ἔτη δέκα μανθάνων τὴν μουσικὴν ἔτι ἠγνόει.
 
 So in the following examples :---
 
-Having once associated with him often, he deserted him.
+- Having once associated with him often, he deserted him <br />πρότερον πολλάκις συγγιγνόμενος ἀπέλιπε.
+- After having suffered long, he expired. <br />πολὺν χρόνον νοσῶν ἐτελεύτησεν.
 
-΄ , ', > » πρότερον πολλάκις συγγιγνόμενος ἀπέλιπε.
-
-After having suffered long, he expired.
-
-ἈΝ ' "Ἁ 2 , πολὺν χρόνον νοσῶν ἐτελεύτησεν.
-
-In this case, however, the Present Participle usually has some word to mark the time, like πρότερον, ποτέ, πολὺν χρόνον, etc. TENSES. . 53
+In this case, however, the Present Participle usually has some word to mark the time, like *πρότερον, ποτέ, πολὺν χρόνον,* etc.
 
 ## § 68. English Participle Present =Greek Aorist.
 
-Observe, that in ordinary narrative, where there are two acts, and the first is described by a Participle, the second by a Principal Verb, the first in Greek is Aorist.
+Observe, that in ordinary narrative, where there are two acts, and the first is described by a Participle, the second by a Principal Verb, the first in Greek is *Aorist*.
 
 In English we often use the Present Participle for this, as will be seen from the examples :---
 
-Taking the bag, he opened it.
-
-λαβὼν τὸν θύλακον ἀνέῳξε.
-
-Coming to him, he asked him. ἀφικόμενος ἤτησεν αὐτόν.
+- Taking the bag, he opened it. <br />λαβὼν τὸν θύλακον ἀνέῳξε.
+- Coming to him, he asked him. <br />ἀφικόμενος ἤτησεν αὐτόν.
 
 If we used the Present Participle in Greek it would mean 'while he was taking, coming,' etc., since the Present implies an act extended in time, the Aorist an act simply. This principle being understood, the learner will soon discern those cases where either tense may be used, and those where they will more naturally be one or the other.
 
 In the following kind of cases both will occur :---
 
-He learning this, and being indignant, answered.
-
-ld μαθὼν τοῦτο καὶ δεινὸν ποιούμενος ἀπεκρίνατο. 54 . TENSES.
+- He learning this, and being indignant, answered. <br />ld μαθὼν τοῦτο καὶ δεινὸν ποιούμενος ἀπεκρίνατο.
 
 ## § 69. Indicative Optative with ἄν.
 
-It is not my intention in this book to enter into the difficult syntax of the Optative, or the complications of the Conditional Sentence; but the use of dv with the Optative and Indicative may be readily learnt, even at an early stage, from one or two instances,
+It is not my intention in this book to enter into the difficult syntax of the Optative, or the complications of the Conditional Sentence; but the use of ἄν with the Optative and Indicative may be readily learnt, even at an early stage, from one or two instances,
 
 Where in English we say 'I would or should do,' in Greek is used the Optative (Present or Aorist) with the Particle ἄν, and where we say 'I would or should have done,' in Greek is used Indicative (Aorist) with av.
 
-(1.) Optative. 1 would go. loupe ἄν. We should scarcely see. μόλις ἂν σκεψαίμεθα,
+(1.) Optative.
 
-They could not conquer. οὐκ ἂν δύναιντο νικᾶν.
+- I would go. <br /> ἴοιμι ἄν.
+- We should scarcely see. <br />μόλις ἂν σκεψαίμεθα,
+- They could not conquer. <br />οὐκ ἂν δύναιντο νικᾶν.
 
-(2.) Indicative. . 1 should have come yesterday. ἐχθὲς ἂν ἦλθον.
+(2.) Indicative.
 
-Who would have known it? τίς ἂν ἔγνω; All would have died.
-
-> ' Ἂ 4 ἀπέθανον ἂν πάντες.
+- I should have come yesterday. <br />ἐχθὲς ἂν ἦλθον.
+- Who would have known it? <br />τίς ἂν ἔγνω;
+- All would have died. <br />ἀπέθανον ἂν πάντες.
 
 Observe that ἂν never comes first, and never in an emphatic place.
 
 ## § 70. Subjunctive and Optative of Purpose.
 
-ἵνα, ὥς, and ὅπως are used in Greek to express purpose. The mood is either Subjunctive or Optative, according to the tense of the principal verb; in fact the sequence varies as in Latin, only that it is a sequence of mvod and not of tense. I come ) Primary. 1 shall come >in order that I may find. I have come \[
+ἵνα, ὥς, and ὅπως are used in Greek to express purpose. The mood is either Subjunctive or Optative, according to the tense of the principal verb; in fact the sequence varies as in Latin, only that it is a sequence of mvod and not of tense.
 
-ἀφικνοῦμαι ἀφίξομαι | εὑρίσκω OF εὕρω. ἀφῖγμαι I came
-
-Historic. was coming in order that I might find. I had come ἀφικόμην ἀφικνούμην ' ἵνα εὑρίσκοιμι OF εὕροιμι. ἀφίγμην
+| | | |
+|:--|:--|:--|
+| | I come | |
+| Primary. | I shall come | in order that I may find. |
+| | I have come | |
+| | ἀφικνοῦμαι | |
+| | ἀφίξομαι | εὑρίσκω or εὕρω.
+| | ἀφῖγμαι | |
+| | | |
+| | I came | |
+| Historic. | was coming | in order that I might find. |
+| | I had come | |
+| | ἀφικόμην | |
+| | ἀφικνούμην | ἵνα εὑρίσκοιμι or εὕροιμι. |
+| | ἀφίγμην | |
 
 If there is a negative after the ἵνα or ws, it is μή, not οὐ.
 
-5 71. ἔφη.
+## § 71. ἔφη.
 
 When a statement is quoted or related, the Greeks use either εἶπεν ὅτι, or εἶπε with Accusative Infinitive (oratio obliqua).
 
-If the exact words are given (oratio recta), 1t is common to use the slightest word, namely, ἔφη, and to put one or two words of the quoted passage first, and then ἔφη. Thus :---
+If the exact words are given (*oratio recta*), 1t is common to use the slightest word, namely, ἔφη, and to put one or two words of the quoted passage first, and then ἔφη. Thus :---
 
-' Socrates,' I said, 'are you there?
-
-ὦ Σώκρατες, ἔφην, μῶν πάρει;
-
-And he said ' Yes, I have been here a long while.' ὁ δὲ Πάλαι γάρ, ἔφη, πάρειμι. 56 ADVERBS OF PLACE.
+- 'Socrates,' I said, 'are you there? <br />ὦ Σώκρατες, ἔφην, μῶν πάρει;
+- And he said 'Yes, I have been here a long while.' <br />ὁ δὲ Πάλαι γάρ, ἔφη, πάρειμι.
 
 ## § 72. Emphatic Position.
 
 In English, a word in a sentence often gets emphasis by the use of the expression i is, it was, when in Greek (as in Latin) the emphasis can be quite as clearly and much more neatly given by the position of the word. Thus :---
 
-Lt was yesterday I came.
-
-ἐχθὲς ἦλθον.
-
-It is you I have been expecting; but it is he who is come. σὲ μὲν πάλαι προσδοκῶ" οὗτος δὲ ἥκει,
+- It was yesterday I came. <br/>ἐχθὲς ἦλθον.
+- It is you I have been expecting; but it is he who is come. <br />σὲ μὲν πάλαι προσδοκῶ· οὗτος δὲ ἥκει.
 
 ## § 73. Adverbs of Place.
 
 One caution is required in doing Greek composition about Adverbs of Place.
 
-In English we often use there, here, where, not only after Verbs of rest, where they are legitimate, but also after Verbs of motion, where they stand for the more correct thither, hither, whither. Im Greek this license is never allowed, and the learner must be on his guard therefore.
+In English we often use there, here, where, not only after Verbs of rest, where they are legitimate, but also after Verbs of motion, where they stand for the more correct thither, hither, whither. In Greek this license is never allowed, and the learner must be on his guard therefore.
 
-Come here.
-
-δεῦρο ἐλθέ (not ἐνθάδε). He went there,
-
-ἤει ἐκεῖσε (not ἐκεῖ).
-
-Where are they gone?
-
-A " ἴω ποῖ οἴχονται (not ποῦ) ;
+- Come here. <br />δεῦρο ἐλθέ (not ἐνθάδε).
+- He went there. <br />ἤει ἐκεῖσε (not ἐκεῖ).
+- Where are they gone? <br />ποῖ οἴχονται (not ποῦ);
 
 ## § 74. Interrogations.
 
@@ -1352,31 +1364,31 @@ There are a great variety of ways of asking questions in Greek, corresponding to
 
 (1.) No Particle.
 
-Will you come forward? θέλεις παρελθεῖν -
-
-Can you help me? δύνασαί μοι ἐπαρκεῖν ;
+- Will you come forward? <br />θέλεις παρελθεῖν
+- Can you help me? <br />δύνασαί μοι ἐπαρκεῖν;
 
 (2.) οὐ, οὔκουν, dp' οὐ, πῶς οὔ (the latter especially used where the question is impatient or indignant).
 
-Shall you not fight? οὐ μαχεῖ;
-
-Are we not then come 3 οὔκουν ἀφίγμεθα ;
-
-Is tt not impudent? πῶς οὐκ ἀναιδές ἐστι ;
+- Shall you not fight? <br />οὐ μαχεῖ;
+- Are we not then come? <br />οὔκουν ἀφίγμεθα;
+- Is tt not impudent? <br />πῶς οὐκ ἀναιδές ἐστι;
 
 (3.) ἄλλο τι, ἄλλο τι ἤ.
 
-Have we not made a mistuke? ἄλλο τι ἁμαρτάνομεν; Do not the dead sleep 3
+- Have we not made a mistake? <br />ἄλλο τι ἁμαρτάνομεν;
+- Do not the dead sleep? <br />ἄλλο τι ἢ οἱ τεθνηκότες καθευδουσι;
 
-. , , - 4 ἄλλο τι ἢ οἱ τεθνηκότες καθευδουσι :
+(4.) μῶν, μὴ, ἄρα μή, μῶν μή.
 
-(4.) μῶν, μὴ, ἄρα μή, μῶν μή.; Do you think we have not said enough? μῶν μή δοκεῖ ἐνδεῶς λελέχθαι; Does he do you wrong? μῶν τί σε ἀδικεῖ; Do we seem to you? μή σοι δοκοῦμεν; 58 DRAMATIC PARTICLES.
+- Do you think we have not said enough? <br />μῶν μή δοκεῖ ἐνδεῶς λελέχθαι;
+- Does he do you wrong? <br />μῶν τί σε ἀδικεῖ;
+- Do we seem to you? <br />μή σοι δοκοῦμεν;
 
 (5.) πότερον (alternative questions chiefly; but often in simple questions, since they can always be put alternatively : Is it so or not?).
 
-Shall you conquer or not? TOTEPOV νικήσεις αὐτόν, ἡ OV; Will they dispute this?
+- Shall you conquer or not? <br />πότερον νικήσεις αὐτόν, ἡ OV;
 
-4 "A 3 , πότερον τοῦτο ἀμφισβητήσουσι ;
+- Will they dispute this? <br />πότερον τοῦτο ἀμφισβητήσουσι;
 
 Of these, (2) and (3) expect answer ' yes;' in (4) answer is negative or doubtful; in (1) and (5) answer is doubtful.
 
@@ -1386,33 +1398,17 @@ I have said nothing about interrogatives like ris, πότε, ποῦ, πῶς, e
 
 The Greek being more lively than English, dramatic particles are often inserted in Greek where in English none are used. Such particles are δή, apa, and the following instances from the Exercises will illustrate the difference between the languages :---
 
-For this I give thanks.
+- For this I give thanks. <br />τούτου δὴ χώριν ἔχω.
+- To know what the others think. <br />εἰδέναι τί ἄρα οἱ ἕτεροι οἴονται.
+- Remained as though working. \[Appearance put on.\] <br />ἔμενον ws ἐργαζόμενοι δὴ.
+- Wondering how the letter saw. <br />θαυμάσας πῶς dpa ἡ ἐπιστολὴ εἶδεν.
+- We are in terrible danger. <br />ἐν δεινῷ δὴ κινδύνῳ ἐσμέν.
+- We are now helpless. <br />ἀμήχανοι δὴ νῦν ἐσμέν.
 
-τούτου δὴ χώριν ἔχω.
+Sometimes they stand in a lively way for a word like alleged, supposed, in English.
 
-To know what the others think.
-
-εἰδέναι τί ἄρα οἱ ἕτεροι οἴονται.
-
-Ttemained as though working. \[Appearance put on.\]
-
-ἔμενον ws ἐργαζόμενοι δὴ.
-
-Wondering how the letter saw.
-
-θαυμάσας πῶς dpa ἡ ἐπιστολὴ εἶδεν.
-
-We are in terrible danger.
-
-ἐν δεινῷ δὴ κινδύνῳ ἐσμέν.
-
-We are now helpless.
-
-ἀμήχανοι δὴ νῦν ἐσμέν. DRAMATIC PARTICLES. 59
-
-Sometimes they stand in a lively way for a word like alleged, supposed, in English. He brought in the supposed women. \[They were really conspirators dressed up. | εἰσήγαγε τὰς γυναῖκας δή. The supposed new cloth, \[Really nothing. |
-
-τὸ νέον δὴ ὕφασμα.
+- He brought in the supposed women. <br />\[They were really conspirators dressed up.\] <br />εἰσήγαγε τὰς γυναῖκας δή.
+- The supposed new cloth. <br />\[Really nothing.\] <br />τὸ νέον δὴ ὕφασμα.
 
 ## § 76. μέν and δέ.
 
@@ -1420,421 +1416,566 @@ When a sentence contains two clauses opposed or antithetic to each other, it is 
 
 In English we do this sometimes by particles :---
 
-. deed... but..., or,--- on the one hand... on the other ... .; sometimes with only one, or even no particle at all. Thus it is necessary for the learner to be on his guard, that he may not omit the μέν and δέ when they are required. Examples :--- 1 indeed am strong, but you are weak. ἐγὼ μὲν ἰσχυρός, σὺ δὲ ἀσθενής. On the one hand there is danger if we try; on the other, there is no hope if we do not try. καὶ πειρωμένοις μὲν κίνδυνός ἐστιν μὴ πειρωμένοις δὲ οὐδεμία ἐλπίς. \[One omitted. | Before he was happy, but now he is wretched. πρότερον μὲν εὐτυχὴς ἦν---νῦν δὲ ἄθλιος, \[Both omitted. \] The Athenians loved poets; the Spartans did not. ot μὲν ᾿Αθηναῖοι ἐφίλουν τοὺς ποιητάς" ot δὲ Aaxedat- μόνιοι οὔ. όο NEGATIVES.
+- ... indeed ... but ...,
+- or,--- on the one hand ... on the other ...;
+
+sometimes with only one, or even no particle at all. Thus it is necessary for the learner to be on his guard, that he may not omit the μέν and δέ when they are required. Examples :---
+
+- I indeed am strong, but you are weak. <br />ἐγὼ μὲν ἰσχυρός, σὺ δὲ ἀσθενής.
+- On the one hand there is danger if we try; on the other, there is no hope if we do not try. <br />καὶ πειρωμένοις μὲν κίνδυνός ἐστιν μὴ πειρωμένοις δὲ οὐδεμία ἐλπίς.
+
+\[One omitted. \]
+
+- Before he was happy, but now he is wretched. <br />πρότερον μὲν εὐτυχὴς ἦν---νῦν δὲ ἄθλιος,
+
+\[Both omitted. \]
+
+- The Athenians loved poets; the Spartans did not. <br />οἱ μὲν ᾿Αθηναῖοι ἐφίλουν τοὺς ποιητάς· οἱ δὲ Λακεδαιμόνιοι οὔ.
 
 ## § 77. Negatives.
 
 There are two Negatives, ov and μή, usually distinguished as ov negative of Statement, μή negative of Conception. The ᾿ definition becomes intelligible by looking at the usage.
 
-(1.) ov, Negative Statement.
+(1.) οὐ, Negative Statement.
 
-Nothing happens. 1 know that no one saw. οὐδὲν γίγνεται. οἶδα οὐδένα ἰδόντα. You must not do it. Will you not go away? ov χρὴ δρᾶν. οὐκ ἄπει; 7 should not come. I asked why it was not done. οὐκ ἂν ἔλθοιμι. ἠρόμην τί οὐκ ἐγένετο. It is not possible that you are not friendly. " οὐκ ἔσθ᾽ ὅπως οὐ φίλος ef.
-
-He announced that no one was there. οὐδένα ἤγγειλε παρόντα, OF παρεῖναι.
-
-Though I had nothing I was rich.
-
-'ὔ 30ῸΝ ΝΜ 3 , καΐπερ οὐδὲν ἔχων ἐπλούτουν.
+- Nothing happens. <br />οὐδὲν γίγνεται.
+- I know that no one saw. <br />οἶδα οὐδένα ἰδόντα.
+- You must not do it. <br />oὐ χρὴ δρᾶν.
+- Will you not go away? <br />οὐκ ἄπει;
+- I should not come. <br />οὐκ ἂν ἔλθοιμι.
+- I asked why it was not done. <br />ἠρόμην τί οὐκ ἐγένετο.
+- It is not possible that you are not friendly. <br />οὐκ ἔσθ᾽ ὅπως οὐ φίλος εἶ.
+- He announced that no one was there. <br />οὐδένα ἤγγειλε παρόντα, or παρεῖναι.
+- Though I had nothing I was rich. <br />καΐπερ οὐδὲν ἔχων ἐπλούτουν.
 
 (2.) μή, Negative Conception.
 
-Purpose, That I might not do. iva μὴ δράσαιμι. Prohibition, Don't do. μὴ Spa. Oblique ) asked him not todo. ἥτησα μὴ δρᾶν. Petition. § J forbid to do. ἀπαγορεύω μὴ δρᾶν. 1 ought not to do it. χρὴ μὴ δρᾶν (or by (1) ov χρὴ).
+| | | |
+|:--|:--|:--|
+| Purpose, | That I might not do. | ἴνα μὴ δράσαιμι. |
+| Prohibition, | Don't do. | μὴ δρᾶ.|\
+| Oblique | Ι asked him not to do. | ἥτησα μὴ δρᾶν. |
+| Petition. | Ι forbid to do. | ἀπαγορεύω μὴ δρᾶν. |
+| | Ι ought not to do it. | χρὴ μὴ δρᾶν (or by (1) οὐ χρὴ). |
 
-So with βούλομαι, δεῖ, ὥφελον, etc. .
+So with βούλομαι, δεῖ, ὥφελον, etc.
 
-Generic. Those who were not there. ot μὴ παρόντες. Dishonourable things. τὰ μὴ καλά,
-
-Condition. Jf you are not ill. εἰ μὴ νοσεῖς. Youarewrong notto do this. ἁμαρτάνεις μὴ ποιῶν τάδε.
+| | | |
+|:--|:--|:--|
+| Generic. | Those who were not there. | οἱ μὴ παρόντες.  |
+| | Dishonourable things. | τὰ μὴ καλά. |
+| Condition. | Ιf you are not ill. | εἰ μὴ νοσεῖς. |
+| | You are wrong not to do this. | ἁμαρτάνεις μὴ ποιῶν τάδε. |
 
 Most of the other uses of μὴ will be learnt later.
-
-ANY---EVER---AS VET. 61
 
 ## § 78. 'Any,' 'ever,' 'as yet,' etc., after Negative.
 
 In Greek the idiom of the Negatives differs so far from the idiom in English, that all the Indefinite words following a negative are also themselves negative. Thus :---
 
-1 never heard anything anywhere from anybody.
-
-" διὸ IQN > " > ,ὔ OUTOTE ἤκουσα οὐδὲν οὐδαμοῦ οὐδενός.
+- Ι never heard anything anywhere from anybody. <br />οὔδεποτε ἤκουσα οὐδὲν οὐδαμοῦ οὐδενός.
 
 The words thus used are chiefly the following :---
 
-nobody οὐδείς, never οὔποτε. nowhere οὐδαμοῦ. from nowhere οὐδαμόθεν. to nowhere οὐδαμόσε. nohow ovTws.
-
-not yet οὔπω.
+| | |
+|:--|:--|
+| nobody | οὐδείς.
+| never | οὔποτε. |
+| nowhere | οὐδαμοῦ. |
+| from nowhere | οὐδαμόθεν. |
+| to nowhere | οὐδαμόσε. |
+| nohow | οὔπως. |
+| not yet | οὔπω. |
 
 If μή is required in the first negative, the others will all begin with μή :---
 
-Don't give anything to anybody. μὴ δίδου μηδὲν μηδενί, So 'even' after negative becomes in Greek not even, οὐδέ.
+- Don't give anything to anybody. <br />μὴ δίδου μηδὲν μηδενί.
 
-No woman even tries. > ' X IAN A οὐδεμία γυνὴ οὐδὲ πειράται, 62 'THAT, IN ENGLISH.
+So 'even' after negative becomes in Greek not even, οὐδέ.
+
+- No woman even tries.<br />οὐδεμία γυνὴ οὐδὲ πειράται.
 
 ## § 79. 'That' in English.
 
-For the help of the beginner, it may be useful to tabulate the various ways in which the word 'that' is used, and the
-
-corresponding Greek words or idioms.
+For the help of the beginner, it may be useful to tabulate the various ways in which the word 'that' is used, and the corresponding Greek words or idioms.
 
 (1.) Demonstrative (ἐκεῖνος, or sometimes οὗτος).
 
-That man.
+- That man.<br />ἐκεῖνος ὁ ἄνθρωπος.
+- That is a great pleasure. <br />τοῦτο ἤδιστόν ἐστιν.
 
-> a com ἐκεῖνος ὁ ἄνθρωπος.
+(2.) Relative (ὅς or ὅσπερ).
 
-That 15 a great pleasure. τοῦτο ἤδιστόν ἐστιν.
+- The man that I saw. <br />ἀνὴρ ὃν εἶδον.
+- The woman that came. <br />ἡ γυνὴ ἥπερ ἦλθεν.
 
-(2.) Ltclative (ὅς or ὅσπερ). The man that I saw. 6 ἀνὴρ ὃν εἶδον.
+(3.) Conjunction.
 
-The woman that came. ἡ γυνὴ ἥπερ ἦλθεν.
+a. After verbs of saying or thinking: Accusative (or Nominative) and Infinitive, § 40.
+    * I said that the moon was bright. <br />εἶπον τὴν σελήνην λαμπρὰν εἶναι.
+    * I don't think that you will come. οὐκ οἴομαι σὲ ἡξειν.
+    * We think that we shall be rich. <br />πλούσιοι οἰόμεθα ἔσεσθαι.
+b. After verbs of knowing and feeling: Accusative (or Nominative) and Participle, § 51.
+    * I know that he is here. <br />οἶδα αὐτὸν παρόντα.
+    * I perceive that I am sick. <br /> αἰσθάνομαι νοσῶν.
 
-(3.) Conjunction. (a.) After verbs of saying or thinking: Accusative (or Nominative) and Infinitive, § 40.
+(Both (a) and (b) can also be done with ὅτι, only be careful about tenses, § 64.)
 
-1 said that the moon was bright. εἶπον τὴν σελήνην λαμπρὰν εἶναι. 1 dowt think that you will come. οὐκ οἴομαι σὲ ἡξειν.
+c. After verbs of asking, etc.: Infinitive: and Accusative if subject is required.
+    * He ordered that she should come, and the rest stay.<br />ἐκέλευσεν ἐλθεῖν μὲν ἐκείνην, τοὺς δὲ ἄλλους μένειν.
+    * It is needful that you should be put to death. <br />ἀνάγκη ὑμᾶς ἀποθανεῖν.
+d. After Abstract Substantives 'the fact that:' τὸ and Accusative with Infinitive, § 8.
+    * The fact that we are conquered. <br />τὸ ἡμᾶς ἡσσᾶσθαι.
+e. After Demonstratives ('so,' 'such,' etc.): ὥστε. 
+    * He was so strong, that he killed her. <br /> οὕτως ἰσχυρὸς ἦν ὥστε ἀπέκτεινεν αὐτήν.
+f. Expressing purpose: iva, ws, ὅπως, § 70. 
+    * I worked that I might grow rich. <br />ἐπόνουν ἵνα πλουτήσαιμι. 
 
-We think that we shall be rich.
 
-πλούσιοι οἰόμεθα ἔσεσθαι.
+## § 80. 'Neither, nor.'
 
-'THAT, IN ENGLISH. 63:
+The beginner is always puzzled with οὔτε and οὐδέ difference between them is this :---
 
-(b.) After verbs of knowing and feeling: Accusative (or Nominative) and Participle, § 51.
+When two negative clauses are on the same footing, and you start with an intention to make both denials, you then use in English *Neither ... nor*, and in Greek you use *οὔτε ... οὔτε*.
 
-I know that he is here.
-
-ITN , οἶδα αὐτὸν παρόντα.
-
-I perceive that I am sick.
-
-> 4, n~ αἰσθάνομαι νοσῶν.
-
-(Both (a) and (5) can also be done with ὅτι, only be careful about tenses, § 64.)
-
-(c.) After verbs of asking, etc.: Infinitive: and Accusative if subject is required.
-
-He ordered that she should come, and the rest stay. ἐκέλευσεν ἐλθεῖν μὲν ἐκείνην, τοὺς δὲ ἄλλους μένειν.
-
-It is needful that you should be put to death.
-
-> 7 € a9 a avaykKy πυμας ἀποθανεῖν.
-
-(4.) After Abstract Substantives 'the fact that:' τὸ and Accusative with Infinitive, § 8.
-
-The fact that we are conquered. τὸ ἡμᾶς ἡσσᾶσθαι.
-
-(4.) After Demonstratives ('so,' 'such,' etc.) : ὥστε. He was so strong, that he killed her.
-
-eo >  by o > " > 7 OUTWS to Xvpos nV WOTE ATEKTELVEV QUTNV.
-
-(f.) Expressing purpose: iva, ws, ὅπως, ὃ 70. 1 worked that I might grow rich.
-
-> ' " , ἐπόνουν ἵνα πλουτήσαιμι. 'NEITHER, NOR.'
-
-## § 80.
-
-The beginner is always puzzled with οὔτε and οὐδέ,
-
-'Neither, nor.'
-
-difference between them is this :---
-
-The
-
-When two negative clauses are on the same footing, and you start with an intention to make both denials, you then use
-
-in English Neither ... nor, and in Greek you use οὔτε...
-
-" OUTE,
-
-When, however, you begin with one negative clause standing alone, and then add another, in English you use not . . . nor, and in Greek οὐκ... οὐδέ.
+When, however, you begin with one negative clause standing alone, and then add another, in English you use *not . . . nor*, and in Greek *οὐκ... οὐδέ*.
 
 The same is true of μήτε, μηδέ.
 
-(1).
+1.
+    * Neither cows nor horses. <br />οὔτε βόες οὔτε ἵπποι.
+    * I will neither remain nor depart. <br />οὔτε μενῶ οὔτε ἄπειμι.
+    * It is good to be neither rich nor poor. <br />εν ἄμεινον μήτε πλόυσιον μήτε πένητα εἶναι.
+2. 
+    * It is not hot, nor cold.<br />οὐ θερμόν, οὐδὲ ψυχρόν ἐστιν.
+    * It is not just, nor indeed profitable. <br />οὐ δίκαιόν ἐστιν· οὐδὲ μὴν λυσιτελές.
+    * Do not be angry, nor curse. <br />μὴ θυμοῦσθε, μηδὲ καταρᾶσθε.
 
-(2.)
-
-Neither cows nor horses. οὔτε βόες οὔτε ἵπποι.
-
-I will neither remain nor depart. οὔτε μενῶ οὔτε ἄπειμι.
-
-It is good to be neither rich nor poor.
-
-εν ἄμεινον μήτε πλόυσιον μήτε πένητα εἶναι.
-
-It is not hot, nor cold.
-
-οὐ θερμόν, οὐδὲ ψυχρόν ἐστιν.
-
-It is not just, nor indeed profitable.
-
-od δίκαιόν ἐστιν' οὐδὲ μὴν λυσιτελές,
-
-Do not be angry, nor curse. μὴ θυμοῦσθε, μηδὲ καταρᾶσθε.
-
-᾽
 
 # EXERCISES.
 
-We will suppose the learner to have mastered the Article ὁ ἡ τό and the first two Declensions, namely, the A Declen- - sion, with its five forms (all very like), say--- Masculines. Feminines. νεανίας | κριτής | χώρα | τιμή | μοῦσα
+We will suppose the learner to have mastered the Article *ὁ ἡ τό* and the first two Declensions, namely, the A Declensionσ, with its five forms (all very like), say--- 
+
+| | |
+|:--|:--|
+| Masculines. | Feminines. |
+| νεανίας \| κριτής | χώρα \| τιμή \| μοῦσα|
 
 Also the O Declension, both Simple and Contracted; for example---
 
-Simple. Contracted. λόγος | δῶρον νόος-- νοῦς | ὀστέον---ὀστοῦν with the Attic Declension, as λεώς, ἀνώγεων.
+| | |
+|:--|:--|
+| Simple. | Contracted. |
+λόγος \| δῶρον | νόος--νοῦς \| ὀστέον---ὀστοῦν |
+
+with the Attic Declension, as λεώς, ἀνώγεων.
 
 These declensions are the first two in most Grammars; and the advantage of dividing them thus, and calling them A and O Declensions, is that the reason of the differences in termination is then so clearly seen.
 
 With these should be learnt the Adjectives which follow these declensions, namely, for example---
 
-σοφός, σοφή, σοφόν | ἴδιος, ἰδία, ἴδιον and the contracted forms, χρυσέος, ἀργυρέος (-οὔς).
+- *σοφός, σοφή, σοφόν* | *ἴδιος, ἰδία, ἴδιον*
+
+and the contracted forms, χρυσέος, ἀργυρέος (-οὔς).
 
 These really add nothing to the trouble, for they simply follow the three genders of the Substantive.
 
-Also should be learnt és, 4, 6, exactly like σοφός (except 6 neuter), and οὗτος, ὅδε, ἐκεῖνος, τοσοῦτος, τοιοῦτος, and αὐτός, all very like each other.
+Also should be learnt ὅς, ἥ, ὅ, exactly like σοφός (except 6 neuter), and οὗτος, ὅδε, ἐκεῖνος, τοσοῦτος, τοιοῦτος, and αὐτός, all very like each other.
 
-Then we are ready to begin our first Exercises. S.G. W. \] E
+Then we are ready to begin our first Exercises.
 
 In order to enable the learner at once to make whole sentences, which is much less wearisome than doing meaningless fragments, the principal parts of the verb 'to be' are here given, to be used in the Exercises.
 
-I an, εἰμί. I was, ἦν.
+| | |
+|:--|:--|
+| I am, εἰμί. | I was, ἦν.|
+|Thou art, εἶ. | Thou wast, ἦσθα.|
+|He, she, it, there---is, ἐστί,| He, she, it, there---was, ἦν. |
+|We are, ἐσμέν. | We were, ἦμεν. |
+| You are, ἐστέ. | You were, ἦτε. |
+|There are, they are, εἰσί, |There were, they were, ἦσαν.|
 
-Thou art, εἶ. Thou wast, ἦσθα.
 
-He, she, it, there---is, ἐστί, He, she, it, there---was, ἦν. We are, ἐσμέν. We were, ἦμεν.
-
-You are, ἐστέ. You were, ἦτε.
-
-There are, they are, εἰσί, There were, they were, ἦσαν.
-
-1\] shall be, ἔσομαι.
-
-Thow wilt be, ἔσει.
-
-He, she, it, there---will be, ἔσται. We shall be, ἐσόμεθα.
-
-You will be, ἔσεσθε.
-
-There will be, they will be, ἔσονται.
-
-To be, εἶναι.
+| |
+|:--|
+| I shall be, ἔσομαι.|
+| Thou wilt be, ἔσει.|
+| He, she, it, there---will be, ἔσται.|
+| We shall be, ἐσόμεθα.|
+| You will be, ἔσεσθε.|
+| There will be, they will be, ἔσονται.|
+| To be, εἶναι.|
 
 Note.---The rarely-required Dual is omitted at present, in order to avoid needless trouble.
 
 ἐστί and εἰσί are written ἐστίν and εἰσίν before a vowel or a full stop.
 
-Occasionally throughout the Exercises a few words will be given which the learner has not yet reached in the Grammar. The sentences will thus be more varied, and so less tiresome; and it will do him no harm to become familiarised in a
-
-natural and easy way with the look of some of the commoner words.
+Occasionally throughout the Exercises a few words will be given which the learner has not yet reached in the Grammar. The sentences will thus be more varied, and so less tiresome; and it will do him no harm to become familiarised in a natural and easy way with the look of some of the commoner words.
 
 Note.---In the vocabularies the following signs are used :---
 
-a.  accusative. m. masculine.
-b.  dative. f. feminine.
-c.  genitive. n. neuter.
+| |
+|:--|:--|
+| a.  accusative. | m. masculine.|
+| d.  dative. | f. feminine.|
+| g.  genitive. | n. neuter.|
 
-- denotes that the word cannot come first after a stop.
+† denotes that the word cannot come first after a stop.
 
-## EXERCISE 1.
+## EXERCISE I.
 
-**Swans.** 
-
-### VOCABULARY.
-
-now, νῦν. long, μακρός. midday, μεσημβρία, f. but, ἀλλά.
-
---- and, καί. sun, ἥλιος, mM. very, σφόδρα. hot, θερμός. shade, σκιά, f. tree, δένδρον, n. cool, ψυχρός. lake, λίμνη.
-
-beautiful, καλός.
-
-many, πολλοί,
-
-swan, κύκνος, Τα.
-
-which, ὅς. bright, λαμπρός. white, λευκός.
-
-left, ἀριστερός.
-
-Wing, πτερόν.
-
-small, μικρός.
-
-not, οὐ (οὐκ before vowel; οὐχ before aspirated vowel).
-
-CAUSE, αἰτία, f.
-
-this, οὗτος.
-
-perhaps, tows.
-
-bad, κακός.
-
-disease, νόσος, f.
-
-in, ἐν, ἃ.
-
-bone, ὀστέον, -ovv.
-
-by, instr. dat. only.
-
-stone, λίθος, τη.
-
-neck, τράχηλος, m. boat, πλοῖον. that, ἐκεῖνος. on, ἐπί, g.
-
-It is now midday, and the sun is very hot. The shade of the trees is cool, and the lake is beautiful. I sce (ὁρῶ, acc.) many swans, which are bright and white. The neck of that} swan is long, but the left wing seems (δοκεῖ, with inf.) to be small.2 I do not know (οἶδα, acc.) the cause of this. Perhaps there is a bad disease in this wing. Perhaps a bone of this swan was broken (δι-ερράγη) by a stone. There is a small boat on the lake.
-
-1.89, 2.8 34,
-
-## EXERCISE 71.
-
-**Boating.**
+### **Swans.**
 
 ### VOCABULARY.
 
-three, τρεῖς. rock, πέτρα. sailor, ναύτης. hard, στερρός. clothes, ἱμάτια, n. death, θάνατος, m. red, ἐρυθρός. close to, ἐγγύς, g. young, νέος. place, τόπος, τη. sail, ἱστίον. pale, ὠχρός. shoulder, ὦμος, m. from (a feeling), ὑπό, g. another, ἄλλος. fear, φόβος. third, τρίτος. eye, ὀφθαλμός. by (near), παρά, ἃ. behold, ἰδού. rudder, πηδάλιον. out of, ἔξω, g. terrible, δεινός. Joy, χαρά, f. danger, κίνδυνος. tear, δάκρυον, n.
+- now, νῦν.
+- long, μακρός.
+- midday, μεσημβρία, f.
+- but, ἀλλά.
+- --- and, καί.
+- sun, ἥλιος, m.
+- very, σφόδρα.
+- hot, θερμός.
+- shade, σκιά, f.
+- tree, δένδρον, n.
+- cool, ψυχρός.
+- lake, λίμνη.
+- beautiful, καλός.
+- many, πολλοί,swan, κύκνος, m.
+- which, ὅς.
+- bright, λαμπρός.
+- white, λευκός.
+- left, ἀριστερός.
+- Wing, πτερόν.
+- small, μικρός.
+- not, οὐ (οὐκ before vowel; οὐχ before aspirated vowel).
+- cause, αἰτία, f.
+- this, οὗτος.
+- perhaps, ἴσως.
+- bad, κακός.
+- disease, νόσος, f.
+- in, ἐν, d.
+- bone, ὀστέον, -οῦν.
+- *by*, instr dat only.
+- stone, λίθος, μ.
+- neck, τράχηλος, m.
+- boat, πλοῖον.
+- that, ἐκεῖνος.
+- on, ἐπί, g.
 
-for, t γάρ.
+It is now midday, and the sun is very hot. The shade of the trees is cool, and the lake is beautiful. I see (ὁρῶ, acc.) many swans, which are bright and white. The neck of that[^3] swan is long, but the left wing seems (δοκεῖ, with inf.) to be small.[^4] I do not know (οἶδα, acc.) the cause of this. Perhaps there is a bad disease in this wing. Perhaps a bone of this swan was broken (δι-ερράγη) by a stone. There is a small boat on the lake.
 
-There are three sailors in that boat. The clothes of these! sailors are? red. The young sailor has (ἔχει, acc.) a sail on his? shoulder. Another is asleep (καθεύδει), but the third is by the rudder. This (one) does not see (ὁρᾷ, acc.) the terrible danger, for there is a rock in the lake. And this' rock is hard, and will be the cause of death to many. Now they are close to the place, and I am pale from fear. I turn away (ἀποτρέπω, acc.)® my eyes. Behold, they are out of the danger, and from joy tears are in my eyes.
+[^3]:  § 9. 
+[^4]: § 34
 
-1 In this kind of sentence it is often good to use the dative. 2 § 11, 3 § 91. 489.
+## EXERCISE II.
 
-EXERCISE 1711
-
-Outwitted.
+### **Boating.**
 
 ### VOCABULARY.
 
-horse, ἵππος.
+- three, τρεῖς.
+- rock, πέτρα.
+- sailor, ναύτης.
+- hard, στερρός.
+- clothes, ἱμάτια, n.
+- death, θάνατος, m.
+- red, ἐρυθρός.
+- close to, ἐγγύς, g.
+- young, νέος.
+- place, τόπος, m.
+- sail, ἱστίον.
+- pale, ὠχρός.
+- shoulder, ὦμος, m.
+- from (a feeling), ὑπό, g.
+- another, ἄλλος.
+- fear, φόβος.
+- third, τρίτος.
+- eye, ὀφθαλμός.
+- by (near), παρά, d.
+- behold, ἰδού.
+- rudder, πηδάλιον.
+- out of, ἔξω, g.
+- terrible, δεινός.
+- Joy, χαρά, f.
+- danger, κίνδυνος.
+- tear, δάκρυον, n.
+- for, † γάρ.
 
-mine, ἐμός.
+There are three sailors in that boat. The clothes of these[^5] sailors are? red. The young sailor has (ἔχει, acc.) a sail on his[^6] shoulder. Another is asleep (καθεύδει), but the third is by the rudder. This (one) does not see (ὁρᾷ, acc.) the terrible danger, for there is a rock in the lake. And this[^7] rock is hard, and will be the cause of death to many. Now they are close to the place, and I am pale from fear. I turn away (ἀποτρέπω, acc.)[^8] my eyes. Behold, they are out of the danger, and from joy tears are in my eyes.
 
-before, πρότερον, adv. strong, ἰσχυρός.
+[^5]: In this kind of sentence it is often good to use the dative. 
+[^6]: § 11, 
+[^7]: § 21.
+[^8]: § 9.
 
-thin, λεπτός.
+## EXERCISE III
 
-poor (miserable), φαῦλος, farmer, γεωργός.
+### **Outwitted.**
 
-him, αὐτόν.
+### VOCABULARY.
 
-faithless, ἄπιστος. corn, σῖτος, mM. device, μηχανή, f. good, καλός.
+- horse, ἵππος.
+- mine, ἐμός.
+- before, πρότερον, adv.
+- strong, ἰσχυρός.
+- thin, λεπτός.
+- poor (miserable), φαῦλος.
+- farmer, γεωργός.
+- him, αὐτόν.
+- faithless, ἄπιστος.
+- corn, σῖτος, m.
+- device, μηχανή, f.
+- good, καλός.
+- into, ἐς, acc.
+- manger, φάτνη, f.
+- with, σύν, d.
+- way, τρόπος, m.
+- easy, ῥᾷδιος.
+- deceit, ἀπάτη, f.
+- therefore, † οὖν.
+- no longer, οὐκέτι.
+- penalty, ζημία.
+- dreadful, φοβερός.
+- severe, χαλεπός.
 
-into, ἐς, acc. manger, φάτνη, f. with, σύν, ἃ.
+This horse is mine. Before^[§ 76.] he was strong, but now he is very thin and poor. And the cause of this I will tell (λέξω, acc.). Those farmers to whom I intrusted (ἐπέτρεπον, acc.) him were very faithless. They stole (ἔκλεπτον, acc.) the corn of the horse. But the device is good which I have (ἔχω, acc.), for I put (ἔθηκα, acc.) stones into the manger. The horse eating (ἐσθίων, acc.) the corn spits out (ἀποπτύει, acc.) the stones. But the farmers steal (κλέπτουσι, acc.) the corn with the stones. In this way^[§ 37 (e).] it is easy to find out (ἐξ-ευρεῖν, acc.) the deceit. The farmers therefore will no longer be bad. For the penalty to them will be dreadful and severe.
 
-way, τρόπος, τη. easy, ῥᾷδιος. deceit, ἀπάτη, f. therefore, ἵ οὖν. no longer, οὐκέτι. penalty, ζημία. dreadful, φοβερός.
 
-severe, χαλεπός.
 
-This horse is mine. Before! he was strong, but now he is very thin and poor. And the cause of this I will tell (λέξω, acc.). Those farmers to whom I intrusted (ἐπέτρεπον, acc.) him were very faithless. They stole (ἔκλεπτον, acc.) the corn of the horse. But the device is good which I have (ἔχω, acc.), for I put (ἔθηκα, acc.) stones into the manger. The horse eating (ἐσθίων, acc.) the corn spits out (ἀποπτύει, acc.) the stones. But the farmers steal (κλέπτουσι, acc.) the corn with
 
-the stones.
+## EXERCISE IV.
 
-In this way? it is easy to find out (ἐξ-ευρεῖν,
+### **Stratagem.**
 
-acc.) the deceit. The farmers therefore will no longer be bad. For the penalty to them will be dreadful and severe.
+### VOCABULARY.
 
-1 § 76.
+- already, ἤδη.
+- general, στρατηγός.
+- army, στρατός, πεζόν.
+- everything, πάντα. 
+- camp, στρατόπεδον.
+- dark, σκοτεινός.
+- fleet, τὸ ναντικόν.
+- fires, πυρά.
+- shore, αἰγιαλός, m.
+- few, ὀλίγος.
+- island, νῆσος, f.
+- --- accordingly, † τοίνυν. 
+- enemy, πολέμιοι, pl.
+- difficult, χαλεπός.
+- hill, λόφος.
+- soldier, στρατιώτης.
+- opposite, ἐναντίος.
+- secretly, λάθρα.
+- our, ἡμέτερος.
+- to, πρός, a.
+- to-morrow, avpiov.
+- head, κεφαλή.
+- battle, μάχη.
+- thus, οὕτως.
+- prepared, ἕτοιμος.
+- alive, ζωός.
+- plan, μηχανή.
+- victory, νίκη.
 
-2 § 37 (e). 7ο EXERCISES.
-
-EXERCISE Iv.
-
-Stratagem. ## VOCABULARY.
-
-already, ἤδη. general, στρατηγός, army, στρατός, πεζόν. everything, πάντα, camp, στρατόπεδον. dark, σκοτεινός. fleet, τὸ ναντικόν. Jires, πυρά, shore, αἰγιαλός, τη. few, ὀλίγος. island, νῆσος, f. --- accordingly, ἵ τοίνυν, enemy, πολέμιοι, pl. difficult, χαλεπός. hill, λόφος. soldier, στρατιώτης. opposite, ἐναντίος. secretly, λάθρα. OUT, ἡμέτερος. to, mpos, &. to-morrow, avpiov. head, κεφαλή. battle, μάχη. thus, οὕτως. prepared, ἕτοιμος. alive, (wos. plan, μηχανή. victory, νίκη.
-
-Already the army is in the camp, and the fleet by the shore of this island. The enemy are on the hill, which is opposite to our camp. To-morrow, perhaps, there will be a battle: for they appear (δοκοῦσι) to be prepared. But this? is the plan of our general. For now everything is dark, and the fires of the enemy are few. Accordingly it will not be difficult for our soldiers to go (ἐλθεῖν) secretly to them, and cut off (dzore- μεῖν, acc.) the heads of many. And thus to-morrow few will be alive, and the victory will be ours.
-
-1 § 34, 2 § 28,
-
-EXERCISES. τ
+Already the army is in the camp, and the fleet by the shore of this island. The enemy are on the hill, which is opposite to our camp. To-morrow, perhaps, there will be a battle: for they appear (δοκοῦσι) to be prepared.^[§ 34.] But this^[§ 28.] is the plan of our general. For now everything is dark, and the fires of the enemy are few. Accordingly it will not be difficult for our soldiers to go (ἐλθεῖν) secretly to them, and cut off (dzore- μεῖν, acc.) the heads of many. And thus to-morrow few will be alive, and the victory will be ours.
 
 ## EXERCISE V.
 
-**Instinct.**
+### **Instinct.**
 
 ### VOCABULARY.
 
-ditch, τάφρος, τα. companion, ἑταῖρος. mud, βόρβορος, m. master, δεσπότης. here, ἐνταῦθα. alone, povos. one, εἷς, or els τις. at home, οἴκοι. near, ἐγγύς. among, ἐν, ἃ, alas, αἰαῖ, οἴμοι. house, οἶκος, οἰκία. middle, μέσος. door, θύρα, f. other, ἄλλος. mischief, κακόν, Nn. difficulty, ἀπορία, plain, δῆλος.
+- ditch, τάφρος, m.
+- companion, ἑταῖρος.
+- mud, βόρβορος, m.
+- master, δεσπότης.
+- here, ἐνταῦθα.
+- alone, povos.
+- one, εἷς, or εἷς τις.
+- at home, οἴκοι.
+- near, ἐγγύς.
+- among, ἐν, d. 
+- alas, αἰαῖ, οἴμοι.
+- house, οἶκος, οἰκία.
+- middle, μέσος.
+- door, θύρα, f.
+- other, ἄλλος.
+- mischief, κακόν, n.
+- difficulty, ἀπορία, plain, δῆλος.
+- able, οἷός τε, δυνατός.
 
-able, οἷός τε, δυνατός.
-
-There is a ditch in this field, and it has (ἔχει, acc.) very much (πλεῖστος, superlative) mud. But of the many horses which are here, one seems (δοκεῖ, inf.) to be in dreadful danger. For he stands (éornxe) near, on the very ditch itself. Alas, now he is in the middle of the? mud. And the others are in a difficulty, and will not be able to pull out (ἐξέλκειν, acc.) their companion. For this the master alone is able to do (ποιεῖν, acc.), who is at home. But among the horses is one, who is far wiser (σοφώτερος) than (gen.) the others. And he runs (τρέχει) to the house, and with his head? strikes (παίει, acc.) the door. And thus the mischief is plain to the master, and he pulls (ἐξέλκει, acc.) out the horse.
-
-1 § 16. 2.8 4, 8. 8 37 (ὦ),
+There is a ditch in this field, and it has (ἔχει, acc.) very much (πλεῖστος, superlative) mud. But of the many horses which are here, one seems (δοκεῖ, inf.) to be in dreadful danger. For he stands (éornxe) near, on the very ditch itself.^[§ 16.] Alas, now he is in the middle of the^[§ 4.] mud. And the others are in a difficulty, and will not be able to pull out (ἐξέλκειν, acc.) their companion. For this the master alone is able to do (ποιεῖν, acc.), who is at home. But among the horses is one, who is far wiser (σοφώτερος) than (gen.) the others. And he runs (τρέχει) to the house, and with his head^[§ 37 (d).] strikes (παίει, acc.) the door. And thus the mischief is plain to the master, and he pulls (ἐξέλκει, acc.) out the horse.
 
 ## EXERCISE VI.
 
-**Indians.**
+### **Indians.**
 
 ### VOCABULARY.
 
-Indians, ᾿Ινδοί. wise, σοφός. person, ἄνθρωπος. quilge, κριτής. liar, ψευστὴς. country, χώρα. thief, κλέπτης. around, περί, a. certain, f τις. being collected, συνειλεγμένος. golden, χρυσοῦς. together, és τὸ αὐτό. brick, πλίνθος. " very great, μέγιστος. value, τιμή. word, λόγος, τη. gold, χρυσός. feather, πτερόν, n. marvellous, θαυμάσιος. quiet, ἥσυχος. slave, δοῦλος. quickly, ταχέως. unknown, ἄδηλος. manifest, pavepos.
+- Indians, ᾿Ινδοί.
+- wise, σοφός.
+- person, ἄνθρωπος.
+- quilge, κριτής.
+- liar, ψευστὴς.
+- country, χώρα.
+- thief, κλέπτης.
+- around, περί, a.
+- certain, † τις.
+- being collected, συνειλεγμένος.
+- golden, χρυσοῦς.
+- together, ἐς τὸ αὐτό.
+- brick, πλίνθος.
+- " very great, μέγιστος.
+- value, τιμή.
+- word, λόγος, m.
+- gold, χρυσός.
+- feather, πτερόν, n.
+- marvellous, θαυμάσιος.
+- quiet, ἥσυχος.
+- slave, δοῦλος.
+- quickly, ταχέως.
+- unknown, ἄδηλος.
+- manifest, pavepos.
 
-The Indians are bad persons: for they honour (τιμῶσι, acc.) liars and thieves. And there was a certain master who had (to whom there was) a golden brick: and the value of the gold was marvellous. And a certain slave of those! in the house stole (ἔκλεψε, acc.) the brick: but the thief was unknown to the master. But there was a wise judge in the country : and he by this device found out (ἐξεῦρε, acc.) everything.
+The Indians are bad persons: for they honour (τιμῶσι, acc.) liars and thieves. And there was a certain master who had (to whom there was) a golden brick: and the value of the gold was marvellous. And a certain slave of those^[§ 6.] in the house stole (ἔκλεψε, acc.) the brick: but the thief was unknown to the master. But there was a wise judge in the country: and he by this device found out (ἐξεῦρε, acc.) everything.
 
-For the slaves were around him, being collected together. And there was very great fear of the judge. And he spoke (εἶπε, acc.) this word: 'The thief has (ἔχει, acc.) a feather on his? head.' And the others? were quiet, but the thief quickly shook (ἐτίναξε, acc.) his head, and so was manifest to the slaves and to the judge.
+For the slaves were around him, being collected together. And there was very great fear of the judge. And he spoke (εἶπε, acc.) this word: 'The thief has (ἔχει, acc.) a feather on his^[§ 21.] head.' And the others^[§ 76.] were quiet, but the thief quickly shook (ἐτίναξε, acc.) his head, and so was manifest to the slaves and to the judge.
 
-1 8 6, 2 § 21. 3 § 76.
 
 ## EXERCISE VII.
 
-**The She-Goat.**
+### **The She-Goat.**
 
 ### VOCABULARY.
 
-brother, ἀδελφός. time, χρόνος.
+- brother, ἀδελφός. 
+- time, χρόνος.
+- she-goat, χίμαιρα.
+- suddenly, ἐξαίφνης.
+- way, τρόπος.
+- eyes, ὀφθαλμός.
+- far, μακράν.
+- through, διά, g.
+- from, ἀπό, g.
+- darkness, σκότος.
+- large, μέγα, n.
+- great, πολλῷ, d.
+- cavern, ἄντρον.
+- such, τοιοῦτος.
+- under, ὑπό, g.
+- full, πλέως.
+- earth, γῆ.
+- meanwhile, ἐν τούτῳ.
+- once, † ποτέ.
+- ηρον, δάκτυλος.
+- sleep, ὕπνος.
+- no longer, οὐκέτι.
 
-- --- she-goat, χίμαιρα. suddenly, ἐξαίφνης. way, τρόπος. eyes, ὀφθαλμός. far, μακράν. through, διά, g. from, ἀπό, g. darkness, σκότος. large, μέγα, 0. great, πολλῷ, d. cavern, ἄντρον. ᾿ such, τοιοῦτος. under, ὑπό, g. full, πλέως. earth, γῆ. meanwhile, ἐν τούτῳ. once, ἵ ποτέ. ηρον, δάκτυλος. sleep, ὕπνος. no longer, οὐκέτι.
-
-My brother has (use éori) a she-goat, which he found (εὗρε, acc.) in a wonderful way.! For there is a rock not far from the house, and in this rock a large cavern under the earth. And my brother was once in the cavern, and being weighed down (βαρυνόμενος) by sleep he lay (ἔκειτο) for? a long time quiet. But suddenly he saw (εἶδε, acc.) bright eyes through the darkness. And he was in great fear. For the wolf has such eyes,? and the country is full of wolves. But the goat meanwhile licked (ἔλειχε, acc.) the fingers of his left (hand), and he had no longer any\* fear.
-
-" § 37 (e). 2 § 36 (b). 3 You may use article, and say 'the eyes are such.' ὁ 8 18.
+My brother has (use éori) a she-goat, which he found (εὗρε, acc.) in a wonderful way.^[§ 37 (e).] For there is a rock not far from the house, and in this rock a large cavern under the earth. And my brother was once in the cavern, and being weighed down (βαρυνόμενος) by sleep he lay (ἔκειτο) for^[§ 36 (b).] a long time quiet. But suddenly he saw (εἶδε, acc.) bright eyes through the darkness. And he was in great fear. For the wolf has such eyes,^[You may use the article, and say 'the eyes are such.'] and the country is full of wolves. But the goat meanwhile licked (ἔλειχε, acc.) the fingers of his left (hand), and he had no longer any^[§ 78.] fear.
 
 ## EXERCISE VIII.
 
-**Bees.**
+### **Bees.**
 
 ### VOCABULARY.
 
-wood, ὕλη. rain, ὑετός. numberless, ἀνήριθμος. hollow, κοῖλος. bee, μέλισσα. trouble, πόνος. every WAY, πάντῃ. without, ἄνευ, g. very quickly, τάχιστα. by, ὑπό, g. where, ποῦ. wonderful, θαυμάσιος. place, xwpiov. that, ore, probably, ἵ πον. men, ἄνθρωποι. large, μέγας. bear, ἄρκτος. often, πολλάκις. like, ὅμοιος, ἃ. wood, ξύλον. ᾿ child, παιδίον. rotten, σαπρός. desire, πόθος. on account of, διά, a. very sweet, ἥδιστος.
+- wood, ὕλη.
+- rain, ὑετός.
+- numberless, ἀνήριθμος.
+- hollow, κοῖλος.
+- bee, μέλισσα.
+- trouble, πόνος.
+- every way, πάντῃ.
+- without, ἄνευ, g.
+- very quickly, τάχιστα.
+- by, ὑπό, g.
+- where, ποῦ.
+- wonderful, θαυμάσιος.
+- place, xwpiov.
+- that, ὅτι.
+- probably, † που.
+- men, ἄνθρωποι.
+- large, μέγας.
+- bear, ἄρκτος.
+- often, πολλάκις.
+- like, ὅμοιος, d.
+- wood, ξύλον.
+- child, παιδίον.
+- rotten, σαπρός.
+- desire, πόθος.
+- on account of, διά, a.
+- very sweet, ἥδιστος.
+- dreadful, δεινός.
 
-dreadful, δεινός.
+In this wood are numberless bees flying (πετόμενος) every way very-quickly. Where is the place in which the house of these is? It is probably in some one of these large trees. For often the wood is rotten, on account of the long time and the dreadful rain. And thus in the hollow \[use neuter of adjective\] is a cavern, which, not without trouble, has been made (πεποίηται) by the bees into (és, acc.) a house. And this is wonderful, that not men are most-hateful (ἔχθιστος) to the bees, but bears. For these are like children, and they have (there is to them) a very-great desire of very-sweet things.^[§ 2.]
 
-In this wood are numberless bees flying (πετόμενος) every way very-quickly. Where is the place in which the house of these is? It is probably in some one of these large trees. For often the wood is rotten, on account of the long time and the dreadful rain. And thus in the hollow \[use neuter of adjective\] is a cavern, which, not without trouble, has been made (πεποίηται) by the bees into (és, acc.) a house. And this is wonderful, that not men are most-hateful (ἔχθιστος) to the bees, but bears. For these are like children, and they have (there is to them) a very-great desire of very-sweet things.!
+## EXERCISE IX.
 
-"» \[7.42\] s
-
-S
-
-## EXERCISE 1X.
-
-**Cyrus.**
+### **Cyrus.**
 
 ### VOCABULARY.
 
-why, διὰ τί, each, ἕκαστος. all kinds of, παντοῖος. friend, φίλος. faithful, πιστός. many, πολύς. Cyrus, Kupos. 80 many, τοσοῦτος. as many as, ὅσοι. they, ἐκεῖνοι. subject, ὑπήκοοι. sometimes, ἐνιότε. rule, ἀρχή. scanty, σπάνιος. because, ὅτι. | fodder, χιλός. himself, αὐτός. louf, ἄρτος. always, ἀεί. owing to, διά, a. ready, ἕτοιμος. care, ἐπιμέλεια. wealth, πλοῦτος. dear, φίλος. gift, δῶρον. ᾿ no less, οὐχ ἧσσον.
+- why, διὰ τί, 
+- each, ἕκαστος.
+- all kinds of, παντοῖος.
+- friend, φίλος.
+- faithful, πιστός.
+- many, πολύς.
+- Cyrus, Kupos.
+- so many, τοσοῦτος.
+- as many as, ὅσοι.
+- they, ἐκεῖνοι.
+- subject, ὑπήκοοι.
+- sometimes, ἐνιότε.
+- rule, ἀρχή.
+- scanty, σπάνιος.
+- because, ὅτι.
+- fodder, χιλός.
+- himself, αὐτός.
+- loaf, ἄρτος.
+- always, ἀεί.
+- owing to, διά, a.
+- ready, ἕτοιμος.
+- care, ἐπιμέλεια.
+- wealth, πλοῦτος.
+- dear, φίλος.
+- gift, δῶρον.
+- no less, οὐχ ἧσσον.
 
 Why were all-kinds-of people faithful to Cyrus, as many as were subject to his rule? Because he himself was very faithful, and always ready to give (δοῦναι, acc.) his wealth to his companions, and gifts of which each was in-need (δεόμενος, gen.), and from his friends he received in-return (ἀντελάμβανε, acc.) many things, but not so many as they from him. And sometimes the corn was scanty for the men and the fodder for the horses. And then he used-to-send (ἔπεμπε, acc.) loaves to them, and about the fodder he said (ἔφη, acc.) this: I have (use éor/) fodder, owing to the care of my slaves: I will give (δώσω) therefore to my friends: for to whom a man is dear, to him no less is his horse.
 
 ## EXERCISE X.
 
-**Ostrich.** ## VOCABULARY.
+### **Ostrich.** 
 
-ostrich, στρουθός. equal, ἴσος.
+### VOCABULARY.
 
-for, t yap. strong, ἰσχυρός. strange, θαυμάσιος. foolish, ἀνόητος. beast, ζῶον. cowardly, δειλός. once, ποτέ. the rest, τὰ ἕτερα, pl. upon, eri, g. hidden, κρυπτός. sand, Yappos, f. bird, ὄρνεον.
+- ostrich, στρουθός.
+- equal, ἴσος.
+- for, t yap.
+- strong, ἰσχυρός.
+- strange, θαυμάσιος.
+- foolish, ἀνόητος.
+- beast, ζῶον.
+- cowardly, δειλός.
+- once, ποτέ.
+- the rest, τὰ ἕτερα, pl.
+- upon, eri, g.
+- hidden, κρυπτός.
+- sand, Yappos, f.
+- bird, ὄρνεον.
+- shape, μορφή.
+- hunter, θηρευτής, m.
+- egg, ᾠόν.
 
-shape, μορφή. hunter, θηρευτής, τα.
+The ostrich is a strange beast : for it has wings, but is not able to fly (πέτεσθαι) with its wings. I once saw (εἶδον, acc.) something white lying (κείμενος) upon the sand: and in shape^[§ 37 (j).] it was like an egg, but equal to^[§ 37 (g).] a child's head: and this was the ostrich's egg. Now this beast is strong,^[§ 76.] but foolish and cowardly. For it does not come (ἔρχεται) to battle with (dat. simply) its enemies, but, from fear of the danger, flies (φεύγει). And sometimes it has (ἔχει, acc.) very terrible fear, and then it thrusts (ὠθεῖ, acc.) its head into the sand: but the rest is not hidden (adj.): but the bird is manifest to the hunters.
 
-€99, φόν.
 
-The ostrich is a strange beast : for it has wings, but is not able to fly (πέτεσθαι) with its wings. I once saw (εἶδον, acc.) something white lying (κείμενος) upon the sand: and in shape! it was like an egg, but equal to? a child's head: and this was the ostrich's egg. Now this beast is strong,® but foolish and cowardly. For it does not come (ἔρχεται) to battle with (dat. simply) its enemies, but, from fear of the danger, flies (φεύγει). And sometimes it has (ἔχει, acc.) very terrible fear, and then it thrusts (ὠθεῖ, acc.) its head into the sand: but the rest is not hidden (adj.): but the bird is manifest to the hunters.
+## EXERCISE XI.
 
-1 8 37 (y). 2? § 37 (0). 5. 8 16.
-
-## EXERCISE XJ.
-
-Sheep and Wolves.
+### **Sheep and Wolves.**
 
 ### VOCABULARY.
 
@@ -1848,7 +1989,7 @@ ce »
 
 ## EXERCISE XII.
 
-**Sheep and Wolves.---continued.**
+### **Sheep and Wolves.---continued.**
 
 ### VOCABULARY.
 
@@ -1860,7 +2001,7 @@ There was therefore a gathering of the sheep to council: and the wolves themselv
 
 ## EXERCISE X11.
 
-**The Mamedaioi and Pigeon.**
+### **The Mamedaioi and Pigeon.**
 
 ### VOCABULARY.
 
@@ -1878,7 +2019,7 @@ And once there was a fortress of the Mamedaioi, which was under (ἐν, dat.) si
 
 ## EXERCISE XIV.
 
-**The Mamedaioi and Pigeon---continued.**
+### **The Mamedaioi and Pigeon---continued.**
 
 ### VOCABULARY.
 
@@ -1894,7 +2035,7 @@ And she was in fear owing to the noise, and fell (ἔπεσε) straightway into 
 
 ## EXERCISE XV.
 
-**The Mamedaioi and Pigeon---continued.**
+### **The Mamedaioi and Pigeon---continued.**
 
 ### VOCABULARY.
 
@@ -1930,7 +2071,7 @@ Ots.---Unless the contrary is stated, Nouns in -os are masculine, like λόγο�
 
 ## EXERCISE XVI.
 
-**The Elephant.**
+### **The Elephant.**
 
 ### VOCABULARY.
 
@@ -1966,7 +2107,7 @@ And last the ass said this : ' You are all! ignorant and foolish : for what hono
 
 ## EXERCISE XVIII.
 
-**Cubs.**
+### **Cubs.**
 
 ### VOCABULARY.
 
@@ -2000,7 +2141,7 @@ But to the bear the thing? appeared (ἐφαίνετο) laughable, but he answer
 
 ## EXERCISE XX.
 
-**The Spirit and the Miser.**
+### **The Spirit and the Miser.**
 
 ### VOCABULARY.
 
@@ -2070,7 +2211,7 @@ And after this the Spirit went away; and after a little interval it was day: and
 
 ## EXERCISE XXII.
 
-**The Spirit and the Miser---continued.**
+### **The Spirit and the Miser---continued.**
 
 ### VOCABULARY.
 
@@ -2118,7 +2259,7 @@ To-day I was in the law-court, and was listening to the judge there: and this is
 
 ## EXERCISE XXV.
 
-**The Damaraioi.**
+### **The Damaraioi.**
 
 ### VOCABULARY.
 
@@ -2148,7 +2289,7 @@ Obs.---In the Vocabularies henceforth a. and f. are used with Verbs to mean Aor
 
 ## EXERCISE XXVI.
 
-**The Libyans.**
+### **The Libyans.**
 
 ### VOCABULARY.
 
@@ -2158,9 +2299,9 @@ The Libyans are a strange race, and men tell many singular! tales about them. On
 
 1 «Many and singular,' ὃ 33. 2 § 78.
 
-## EXERCISE XX VII. 
+## EXERCISE XX VII.
 
-**The Libyans---continued.** 
+### **The Libyans---continued.**
 
 ### VOCABULARY.
 
@@ -2174,7 +2315,7 @@ a drachma.' S.G.W. \] G
 
 ## EXERCISE XXVIII. ΄
 
-**The Egyptian.** 
+### **The Egyptian.**
 
 ### VOCABULARY.
 
@@ -2200,7 +2341,7 @@ There once was a certain master who had an Egyptian slave. And he sent him to a 
 
 ## EXERCISE XXIX.
 
-**The Egyptian---continued.**
+### **The Egyptian---continued.**
 
 VOCABULARY, open, ἀνοίγω (a. p. ἀνοίξας). excuse, πρόφασις, f. read, ἀναγιγνώσκω (a. p. dva-sell, ἀγγέλλω (a. ἤγγειλα). γνούς). I suppose, δήπου. discover, μανθάνω (a. -μαθ-). confess, ὁμολογῶ (4. ὧμολό- eight, ὀκτώ. γησα). false, ψευδής. weep, δακρύω. fellow, ἄνθρωπος. ask, αἰτέω (a ἤτησα). receive, λαμβάνω. pardon, συγγνώμη. useless, ἀνωφελής. pardon (verb), συγγιγνώσκω make, κατασκευάζειν. (a, συνέγνων).
 
@@ -2210,7 +2351,7 @@ And the friend taking! the bag and opening it, found the apples, being eight, an
 
 ## EXERCISE XXX.
 
-**The Egyptian---continued.**
+### **The Egyptian---continued.**
 
 ### VOCABULARY.
 
@@ -2250,7 +2391,7 @@ The Ethiopians, inhabiting a land facing toward the south, consider water to be 
 
 ## EXERCISE XXXITI.
 
-**The Ethiopian and the Ape---continued.**
+### **The Ethiopian and the Ape---continued.**
 
 ### VOCABULARY.
 
@@ -2262,7 +2403,7 @@ Now there was a certain Ethiopian, very cruel! in his disposition (acc.), who ga
 
 ## EXERCISE XXXTV.
 
-**The Ethiopian and the Ape---continued.**
+### **The Ethiopian and the Ape---continued.**
 
 ### VOCABULARY.
 
@@ -2344,7 +2485,7 @@ And on account of this reason they ridiculed more easily the tagol, because the 
 
 ## EXERCISE XL.
 
-**Thepos and the Emerald.**
+### **Thepos and the Emerald.**
 
 ### VOCABULARY.
 
@@ -2356,7 +2497,7 @@ And another time Thepos wanted to steal an emerald, very precious, from the deal
 
 ## EXERCISE XLII.
 
-**Thepos and the Emerald---continued.**
+### **Thepos and the Emerald---continued.**
 
 ### VOCABULARY.
 
@@ -2370,7 +2511,7 @@ And hearing! this, the dealer was pleased, and the matter was so settled. For ab
 
 ## EXERCISE XLII.
 
-**Thepos and the Emerald---continued.**
+### **Thepos and the Emerald---continued.**
 
 ### VOCABULARY.
 
@@ -2382,7 +2523,7 @@ And the physician, perceiving the matter, answered as follows : 'Stranger, it is
 
 ## EXERCISE XLII.
 
-**Thepos and the Emerald---continued.**
+### **Thepos and the Emerald---continued.**
 
 ### VOCABULARY.
 
@@ -2394,7 +2535,7 @@ bring to, προσάγειν, 1. court, αὐλή. live, οἰκέω. recewe, δ
 
 ## EXERCISE XLIV.
 
-**Thepos and the Emerald---continued**
+### **Thepos and the Emerald---continued**
 
 ### VOCABULARY.
 
@@ -2410,7 +2551,7 @@ had? escaped already, carrying off the emerald.
 
 ## EXERCISE XLV.
 
-**Providence.**
+### **Providence.**
 
 ### VOCABULARY.
 
@@ -2424,7 +2565,7 @@ The Thessalians sometimes call God Providence, because he foresees everything. A
 
 ## EXERCISE XLVI.
 
-**Jugged Hare.**
+### **Jugged Hare.**
 
 ### VOCABULARY.
 
@@ -2438,7 +2579,7 @@ There was once a Thracian, who intended to go abroad into Greece, and travel eve
 
 ## EXERCISE XLVIL
 
-**The Scholar.**
+### **The Scholar.**
 
 ### VOCABULARY.
 
@@ -2452,7 +2593,7 @@ For once seeing in summer-time® a river, and wishing to bathe, he jumped down i
 
 ## EXERCISE XLVI,
 
-**The Scholar---continued.**
+### **The Scholar---continued.**
 
 ### VOCABULARY.
 
@@ -2464,7 +2605,7 @@ Another time the scholar keeping a horse, grew vexed on account of the expensive
 
 ## EXERCISE XLIX.
 
-**~The Scholar---continued.**
+### **~The Scholar---continued.**
 
 ### VOCABULARY.
 
@@ -2482,7 +2623,7 @@ Now we will introduce the common Greek construction of the Genitive Absolute, wh
 
 ## EXERCISE L.
 
-**The Scholar---continued.**
+### **The Scholar---continued.**
 
 ### VOCABULARY.
 
@@ -2494,7 +2635,7 @@ The scholar once wanted to sell his house, and going into the market-place he co
 
 ## EXERCISE 21
 
-**The Scholar---continued.**
+### **The Scholar---continued.**
 
 ### VOCABULARY.
 
@@ -2508,7 +2649,7 @@ Another time the scholar meeting a physician, was ashamed, and, hiding himself b
 
 ## EXERCISE LI.
 
-**The Scholar---continued.**
+### **The Scholar---continued.**
 
 ### VOCABULARY.
 
@@ -2524,7 +2665,7 @@ Another time he got a jar of very sweet and valuable wine, and intrusted it to t
 
 ## EXERCISE 2171
 
-**Chanos.** ## VOCABULARY.
+### **Chanos.** ## VOCABULARY.
 
 call together, συγκαλέω, 1. same attempt, say 'attempt chain, δεσμός. same thing ;' attempt, ἐπι- bind round, περιδέω. χειρέω. done, use γίγνεσθαι, I. untie, διαλύω. eldest, γεραίτατος. separately, χωρίς. break across, διαρρῆξαι, accomplish, διαπράσσω, -ομαι. tips, τὰ ἄκρα. bind, δέω. thrust against, use ἀντιβαίνω, one by one, καθ᾽ ἕκαστον. I. α. destroy, ἀπόλλυμι, 1.
 
@@ -2546,7 +2687,7 @@ Aristophanes wrote a comedy about Ploutos, which is very absurd, and gives great
 
 ## EXERCISE LV.
 
-**Attos.** ## VOCABULARY.
+### **Attos.** ## VOCABULARY.
 
 add, προσθέσθαι. deride, éyyeAdw, ἃ. force, δύναμις. prophecy, μαντική, f. prophet, μάντις, τη. at present moment, ἐν τῷ forbid, ἀπεῖπον, aor. παρόντι. despise, καταφρονέω, g, be silent, σιωπάω.
 
@@ -2558,7 +2699,7 @@ And the king intended to add somewhat to his army, 80 as to have (inf.) a greate
 
 ## EXERCISE LVI.
 
-**Short and Tedious.**
+### **Short and Tedious.**
 
 ### VOCABULARY.
 
@@ -2570,7 +2711,7 @@ And there was once a feast to the god, and according to the custom it was needfu
 
 ## EXERCISE LVI.
 
-**Mandephilios.**
+### **Mandephilios.**
 
 ### VOCABULARY.
 
@@ -2582,7 +2723,7 @@ Once on a time, long ago, there was a man, of those! people, rich? and desiring 
 
 ## EXERCISE LVI.
 
-**Mandephilios---continued.**
+### **Mandephilios---continued.**
 
 ### VOCABULARY.
 
@@ -2596,7 +2737,7 @@ And the same man tells another tale as follows : In a very strong tower was a ve
 
 ## EXERCISE LIx.
 
-**Edegardes.**
+### **Edegardes.**
 
 ### VOCABULARY.
 
@@ -2608,7 +2749,7 @@ Edegardes, being king of the Britannoi, was in size (acc.) very small, but in hi
 
 ## EXERCISE LX.
 
-**Edegardes---continued.** ## VOCABULARY.
+### **Edegardes---continued.** ## VOCABULARY.
 
 gladly, ἄσμενος. contend, ἀγωνίζεσθαι. favour, χάρις. defend yourself, ἀμύνεσθαι. dagger, ξιφίδιον. before, πρός, ἃ. remind, ὑπο-μιμνήσκω (-μνησ-). grant, ἔχειν. decide, διαγνῶναι, smile, μειδιάω.
 
@@ -2618,7 +2759,7 @@ And Kenethios having come gladly (for he hoped to get some favour from him), Ede
 
 ## EXERCISE LXI.
 
-**The Boeotian's Foot.**
+### **The Boeotian's Foot.**
 
 VocABULARY. Boeotian, Βοιωτός. sleep (vb.), καθεύδειν. except, πλήν, g. project, προέχω. chamber, οἴκημα, n. TUN, τὰ στρώματα. dinner, δεῖπνον. what a, say how. lay one's-self down, κοιμάο- toe, δάκτυλος, τη.
 
@@ -2630,7 +2771,7 @@ A Boeotian once travelling with an Aetolian arrived at an inn: and going in they
 
 ## EXERCISE LX.
 
-**Bonosos.**
+### **Bonosos.**
 
 ### VOCABULARY.
 
@@ -2644,7 +2785,7 @@ When Prdbos was ruler of the Romaioi there was a certain soldier Bénosos: and t
 
 ## EXERCISE LXIII.
 
-**Mastros.** ## VOCABULARY.
+### **Mastros.** ## VOCABULARY.
 
 book, βιβλίον. charge, ἐφίεσθαι, ἃ. leader, ἡγεμών. let, ἐάω, meat, κρέας, Ἡ. invent, εὑρίσκω. priest, ἱερεύς, m. dress up, ἐνσκευάζω. cook, μάγειρος. old woman, γραῦς.
 
@@ -2656,7 +2797,7 @@ Mastros was a famous thief, and many things about him have already been told in 
 
 ## EXERCISE LXIV.
 
-**Mastros---continued.**
+### **Mastros---continued.**
 
 ### VOCABULARY.
 
@@ -2670,7 +2811,7 @@ went by.'
 
 ## EXERCISE LXV.
 
-**Mastros---continued.**
+### **Mastros---continued.**
 
 ### VOCABULARY.
 
@@ -2682,7 +2823,7 @@ And they, greatly surprised, looked into the courtyard, desiring to pursue, but 
 
 ## EXERCISE LXVI.
 
-**Kolimos.** ## VOCABULARY.
+### **Kolimos.** ## VOCABULARY.
 
 captain, ναύκληρος. inscribe, ἔγγράφω. go away (sea), ἀπάγεσθαι, 1. shallows, τὰ βραχέα. mutive country, πατρίς, f. (-i6-), stand by, παραστῆναι͵ I. month, μήν (-ἣν-). convenient, ἐπιτήδειος.
 
@@ -2694,7 +2835,7 @@ There was once a captain by name Kolimos. And this man, having gone away a long 
 
 ## EXERCISE LXVII.
 
-**Kolimos---continued.**
+### **Kolimos---continued.**
 
 ### VOCABULARY.
 
@@ -2708,7 +2849,7 @@ And the sailor asked, ' Why are you possessed with so great a desire? for the pe
 
 ## EXERCISE LXVIT/TI.
 
-**Kolimos---continued.**
+### **Kolimos---continued.**
 
 ### VOCABULARY.
 
@@ -2722,7 +2863,7 @@ And the sailor hearing it was thunderstruck, himself too as though by a vision b
 
 ## EXERCISE LXIX.
 
-**Kolimos---continued.**
+### **Kolimos---continued.**
 
 ### VOCABULARY.
 
@@ -2736,7 +2877,7 @@ pirate, λῃστής. curse (vb.), erapac Oar plunder, ληΐζεσθαι. get 
 
 ## EXERCISE LXX.
 
-**Kolimos---continued.**
+### **Kolimos---continued.**
 
 ### VOCABULARY.
 
@@ -2750,7 +2891,7 @@ speed away, φέρεσθαι, I.
 
 ## EXERCISE LXXI.
 
-**Sakes' Dream.**
+### **Sakes' Dream.**
 
 ### VOCABULARY.
 
@@ -2764,7 +2905,7 @@ Now about dreams, both already have such things been told, and other things we h
 
 ## EXERCISE LXXITI.
 
-**Sakes' Dream---continued.**
+### **Sakes' Dream---continued.**
 
 ### VOCABULARY.
 
@@ -2796,7 +2937,7 @@ And after many days he received from his brother a letter as follows: 'O dearest
 
 ## EXERCISE LXXTV.
 
-**The Executioner.**
+### **The Executioner.**
 
 ### VOCABULARY.
 
@@ -2812,7 +2953,7 @@ Tenses, § 59. 29. 8 8. 66. 4 Aorist.
 
 ## EXERCISE LXXV.
 
-**Momos and Oneioi.**
+### **Momos and Oneioi.**
 
 ### VOCABULARY.
 
@@ -2826,7 +2967,7 @@ There was once a certain Mémos, king of the Oneioi, whom the citizens much desp
 
 ## EXERCISE LXXVI.
 
-**Momos and the Poets.**
+### **Momos and the Poets.**
 
 ### VOCABULARY.
 
@@ -2840,7 +2981,7 @@ Another time two poets came to Momos, asking him to decide a contest. And he sai
 
 ## EXERCISE LXXVTI.
 
-**Momos in Disguise.**
+### **Momos in Disguise.**
 
 ### VOCABULARY.
 
@@ -2854,7 +2995,7 @@ Another time Momos wishing to know about his subjects, what kind of people they 
 
 ## EXERCISE LXXVITII.
 
-**Momos in Disguise---continued.**
+### **Momos in Disguise---continued.**
 
 ### VOCABULARY.
 
@@ -2868,7 +3009,7 @@ But the husband did not stop beating? his wife, but called the stranger to witne
 
 ## EXERCISE LXXIX.
 
-**Pompos and the Cup.**
+### **Pompos and the Cup.**
 
 ### VOCABULARY.
 
@@ -2886,7 +3027,7 @@ Pompos was a thief, who was nobody particular in wisdom, but in impudence was su
 
 ## EXERCISE LXXX.
 
-**Pompos and the Beggar.**
+### **Pompos and the Beggar.**
 
 ### VOCABULARY.
 
@@ -2902,7 +3043,7 @@ Another time Pompos being very hungry was walking along the road! towards Corint
 
 ## EXERCISE LXXXI.
 
-**Legioi.**
+### **Legioi.**
 
 ### VOCABULARY.
 
@@ -2930,7 +3071,7 @@ hundred years old.'
 
 ## EXERCISE LXXXII.
 
-**Pharos.**
+### **Pharos.**
 
 ### VOCABULARY.
 
@@ -2944,7 +3085,7 @@ And Pharos had an excellent horse, whom many people much wished to have. And Pha
 
 ## EXERCISE LXXXITII.
 
-**Pharos---continued.**
+### **Pharos---continued.**
 
 ### VOCABULARY.
 
@@ -2958,7 +3099,7 @@ But laughing, and not at all at ἃ loss, he rose up and went to his neighbour, 
 
 ## EXERCISE LXXXIV.
 
-**Graules.**
+### **Graules.**
 
 ### VOCABULARY.
 
@@ -2970,7 +3111,7 @@ Graules, having three sons, was not anyhow able to maintain them, as the food wa
 
 ## EXERCISE LXXXV.
 
-**Graules---continued.**
+### **Graules---continued.**
 
 ### VOCABULARY.
 
@@ -2988,7 +3129,7 @@ But the third brother chanced to learn nothing of this kind, but being! more rus
 
 ## EXERCISE LXXXVI.
 
-**Graules---continued.**
+### **Graules---continued.**
 
 ### VOCABULARY.
 
@@ -3002,7 +3143,7 @@ And! on hearing this, they proceeded to a display of their art. And the first, d
 
 ## EXERCISE LXXXVITI.
 
-**Graules---continued.**
+### **Graules---continued.**
 
 ### VOCABULARY.
 
@@ -3014,7 +3155,7 @@ And in other respects the father praised the brothers, as having well executed t
 
 ## EXERCISE LXXXVIII,
 
-**Phelios.**
+### **Phelios.**
 
 ### VOCABULARY.
 
@@ -3026,7 +3167,7 @@ The Phelioi, having been well treated in many things at the hands of a certain L
 
 ## EXERCISE LXXXIX.
 
-**The Cat's Pilgrimage.**
+### **The Cat's Pilgrimage.**
 
 ### VOCABULARY.
 
@@ -3046,7 +3187,7 @@ S.G.W.\] L
 
 ## EXERCISE XC.
 
-**The Cat's Pilgrimage---continued.**
+### **The Cat's Pilgrimage---continued.**
 
 ### VOCABULARY.
 
@@ -3060,7 +3201,7 @@ But the owl, closing her eyelids slowly and solemnly, said, 'Well, I will give y
 
 ## EXERCISE XCVJ.
 
-**The Weavers.**
+### **The Weavers.**
 
 ### VOCABULARY.
 
@@ -3072,7 +3213,7 @@ Once on a time there were some wonderful weavers, by name Plékioi, who came to 
 
 ## EXERCISE XCI.
 
-**The Weavers---continued.**
+### **The Weavers---continued.**
 
 ### VOCABULARY.
 
@@ -3086,7 +3227,7 @@ And the king, much pleased with what! the weavers told him, said, 'I should be d
 
 ## EXERCISE XCITI.
 
-**The Weavers---continued.**
+### **The Weavers---continued.**
 
 ### VOCABULARY.
 
@@ -3098,7 +3239,7 @@ And when they had said this, and had saluted the 'king, they went off to the hou
 
 ## EXERCISE XCIV.
 
-**The Weavers---continued.**
+### **The Weavers---continued.**
 
 ### VOCABULARY.
 
@@ -3114,7 +3255,7 @@ And after two months, as the Plekioi were still working and nothing yet had come
 
 ## EXERCISE XCV.
 
-**The Weavers---continued.**
+### **The Weavers---continued.**
 
 ### VOCABULARY.
 
@@ -3130,7 +3271,7 @@ And at last when many more days had elapsed, a certain one of the Plekioi came b
 
 ## EXERCISE XCVI.
 
-**The Weavers-------continued.**
+### **The Weavers-------continued.**
 
 ### VOCABULARY.
 
@@ -3154,7 +3295,7 @@ And the king, coming with much hope, with all those in office attending, was led
 
 ## EXERCISE XCVI1.
 
-**The Princess.**
+### **The Princess.**
 
 ### VOCABULARY.
 
@@ -3168,7 +3309,7 @@ Now the Kalydonioi are said to be royal in race: and they themselves also strong
 
 ## EXERCISE XCVITI.
 
-**The Princess---continued.**
+### **The Princess---continued.**
 
 ### VOCABULARY.
 
@@ -3180,7 +3321,7 @@ And these things she did on account of this, because of ordinary men no one woul
 
 ## EXERCISE XCIX.
 
-**Grymphos.**
+### **Grymphos.**
 
 ### VOCABULARY.
 
@@ -3192,7 +3333,7 @@ The Kilioi are a wonderful race, and they think that there are many! terrible sp
 
 ## EXERCISE C.
 
-**Grymphos---continued.** VOCABULARY,
+### **Grymphos---continued.** VOCABULARY,
 
 produce, καρπός. this year, τῆτες. on these terms, ἐπὶ τοῖςδε. gain, κέρδος, n. tribute, φόρος. following, vorepaios.
 
@@ -3202,7 +3343,7 @@ But the Kilios, already afraid, and wishing to save both himself and the produce
 
 ## EXERCISE Cl.
 
-**Grymphos---coutinued.**
+### **Grymphos---coutinued.**
 
 ### VOCABULARY.
 
@@ -3214,7 +3355,7 @@ On these terms! therefore the Kilios made a contract with Grymphos, and he immed
 
 ## EXERCISE Cl.
 
-**The Boy and the Dog.**
+### **The Boy and the Dog.**
 
 ### VOCABULARY.
 
@@ -3228,7 +3369,7 @@ Now, the merchants have a law, when wishing to carry away their goods abroad, to
 
 ## EXERCISE Cll.
 
-**The Boeotians.**
+### **The Boeotians.**
 
 ### VOCABULARY.
 
@@ -3244,7 +3385,7 @@ Two Boeotians, Isménos and Philondas, once were travelling in a boat across the
 
 ## EXERCISE CIV.
 
-**The Boeotian Priest. ἡ**
+### **The Boeotian Priest. ἡ**
 
 ### VOCABULARY.
 
@@ -3256,7 +3397,7 @@ The priests of the Boeotians teach their children concerning the divine marvels,
 
 ## EXERCISE CV.
 
-**The Kassiterioi.**
+### **The Kassiterioi.**
 
 ### VOCABULARY.
 
@@ -3270,7 +3411,7 @@ The Kassiterioi inhabit an island, and practise many strange customs. And on tha
 
 ## EXERCISE CVI.
 
-**Almsgiving.**
+### **Almsgiving.**
 
 ### VOCABULARY.
 
@@ -3282,7 +3423,7 @@ The Boeotians call meetings in (into) their temples once a month :! and when col
 
 ## EXERCISE CVI.
 
-**Prios: a Tale.**
+### **Prios: a Tale.**
 
 ### VOCABULARY.
 
@@ -3294,7 +3435,7 @@ Thebes.'
 
 ## EXERCISE CVIT/I.
 
-**Prios: a Tale---continucd.**
+### **Prios: a Tale---continucd.**
 
 ### VOCABULARY.
 
@@ -3320,7 +3461,7 @@ And Prios was at a loss when! he heard how the matter really was (is). 'For it i
 
 ## EXERCISE CX.
 
-**Prios: a Tale---continued.**
+### **Prios: a Tale---continued.**
 
 ### VOCABULARY.
 
@@ -3334,7 +3475,7 @@ And at the same time, having said this, he ran off along the road as though! ten
 
 ## EXERCISE CXI.
 
-**Prios: a Tale--- continued.**
+### **Prios: a Tale--- continued.**
 
 VOCABULARY, a short while, βραχύ τι. seize, συλλαμβάνο, 1. find out the truth of, ἐχέγχω. ἐιιδὲ in time, use φθάνω, I. burst in, ἐπεισπίπτω, 1. before (conj.), πρίν.
 
@@ -3426,7 +3567,7 @@ And the same Malaioi tell another tale about the sea, explaining how it became s
 
 ## EXERCISE CXIX.
 
-**The Sea---continued.**
+### **The Sea---continued.**
 
 ### VOCABULARY.
 
@@ -3452,7 +3593,7 @@ There was a certain archer in Crete, very skilful in shooting,! but at the same 
 
 ## EXERCISE CXXI.
 
-**Education.**
+### **Education.**
 
 ### VOCABULARY.
 
@@ -4553,3 +4694,5 @@ not ---, οὕπω, οὐδέπω. young, νέος.
 (of beast), σκύμνοι. youth, veavias.
 
 [^1]: The Greeks also use ' than,' the particle ἤ : and then (as with Latin quam) the case of the second word is not affected. Thus 'he is better than his father,' ἀμείνων ἐστὶν ἤ ὁ πατήρ.
+
+[^2]: Or, by strict oratio obliqua sequence, νοσοίη: but the tense (which is all we are concerned with) is still Present.

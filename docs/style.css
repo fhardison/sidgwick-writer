@@ -49,13 +49,29 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  margin: 3em 0 1em;
+  margin: 2em 0 1em;
+}
+
+h1 ~ p, h2 ~ p, h3 ~ p {
+  margin-top: 1em;
 }
 
 p,ul,ol {
-  margin-bottom: 2em;
+  margin-top: 2em;
   color: #1d1d1d;
   font-family: sans-serif;
+}
+
+p + ul {
+  margin-top: 0;
+}
+
+li ul {
+  margin-top:1em;
+}
+td {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 nav {
@@ -75,17 +91,17 @@ h1 {
 }
 body.index h1 {
   font-size: 2em;
-  margin-bottom: 0;
+  /* margin-bottom: 0; */
 }
 body.index h2 {
   font-size: 1.7em;
-  margin-top: 0;
+  /* margin-top: 0; */
   font-weight: normal;
   text-align: center;
 }
 body.index h3 {
   font-size: 1.4em;
-  margin: 0 0 2em;
+  /* margin: 0 0 2em; */
   font-style: italic;
   font-weight: normal;
   text-align: center;
@@ -104,4 +120,8 @@ li {
 
 ul li {
   list-style-type: none;
+}
+
+li {
+  margin-bottom:0.85em;
 }
