@@ -585,7 +585,7 @@ In one use only does Greek differ from other inflected languages with regard to 
 
 So with Participles ---
 
-- I know that you are good. <br />οἶδά σε ἀγαθὸν ὄ ὄντα.
+- I know that you are good. <br />οἶδά σε ἀγαθὸν ὄντα.
 
 - I know that I am good. <br />οἶδα ἀγαθὸς ὤν.
 
