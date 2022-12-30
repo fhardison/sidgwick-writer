@@ -25,8 +25,9 @@ I have given all the new words used in each Exercise in a Vocabulary at the head
 
 I will only add that I shall be most grateful if those who use the book will kindly point out any errors or omissions which they may detect.
 
-Oxford, lst July 1880.
+Oxford, 1st July 1880.
 
+<!-- 
 # CONTENTS.
 
 HINTS FOR WRITING GREEK,
@@ -133,7 +134,7 @@ HINTS FOR WRITING GREEK,
 - EXERCISES,
 - NOTES ON INTERROGATIVES AND RELATIVES,
 - List ΟΕ VERBS,
-- VOCABULARY,
+- VOCABULARY, -->
 
 # ERRATA.
 
