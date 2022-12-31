@@ -2350,23 +2350,36 @@ When the Verb has a Preposition before it, the augment is inserted after the Pre
 - ἐκβάλλω, ἐξ-έβαλλον.
 - συλλέγω, συν-έλεγον. 
 
-## EXERCISE XX1.
+## EXERCISE XXΙ.
 
-The Spirit and the Miser---continued.
+### **The Spirit and the Miser---continued.**
 
 ### VOCABULARY.
 
-city, πόλις, have, ἔχω. where, οὗ. useful, ὠφέλιμος. rich, πλούσιος. Jind, εὑρίσκω (a. ebpov). miserly, αἰσχροκερδής. careful, ἐπιμελής. by night, νυκτός. worthy, ἄξιος. known, γνώριμος. 80 great, τοσοῦτος. this long time, ἐκ πολλοῦ ἤδη. ο OOM, οἴκημα (-ματ-), τι. good-will, εὔνοια. go away, ἀπ-έρχομαι.
-
-come to, προσέρχομαι (a. - λθονλ).
+- city, πόλις.
+- have, ἔχω.
+- where, οὗ.
+- useful, ὠφέλιμος.
+- rich, πλούσιος.
+- find, εὑρίσκω (a. εὖρον).
+- miserly, αἰσχροκερδής.
+- careful, ἐπιμελής.
+- by night, νυκτός.
+- worthy, ἄξιος.
+- known, γνώριμος.
+- 80 great, τοσοῦτος.
+- this long time, ἐκ πολλοῦ ἤδη.
+- room, οἴκημα (-ματ-), ν.
+- good-will, εὔνοια.
+- go away, ἀπ-έρχομαι.
+- come to, προσέρχομαι (a. ηλθον).
 
 And in the same city where the gold was, there was also a certain man, rich and miserly. To him therefore the Spint coming (προσελθών) by night spoke (ἔλεξε, acc.) as follows :---
 
-'Friend, there is no need (οὐδὲν δεῖ) for you (acc.) to be in fear about me. For you are known to me and dear this long time. And from good-will I have now come to you (aorist). For I have much gold here, and it will no longer be useful to me. For I am about (μέλλω) to go abroad (ἀποδημεῖν). And I have a mind to give (δοῦναι, acc.) this to you. And I have found! no one more faithful nor careful than you. You therefore alone are worthy of so great a gift. To-morrow then you shall see (ὄψει, acc.) in the midst? of this room all my gold lying on the ground.'
+'Friend, there is no need (οὐδὲν δεῖ) for you (acc.) to be in fear about me. For you are known to me and dear this long time. And from good-will I have now come to you (aorist). For I have much gold here, and it will no longer be useful to me. For I am about (μέλλω) to go abroad (ἀποδημεῖν). And I have a mind to give (δοῦναι, acc.) this to you. And I have found^[§ 56.] no one more faithful nor careful than you. You therefore alone are worthy of so great a gift. To-morrow then you shall see (ὄψει, acc.) in the midst^[§ 4.] of this room all my gold lying on the ground.'
 
 And after this the Spirit went away; and after a little interval it was day: and instead of the Spirit the gold was upon the earth.
 
-1 § 56. 3.8.4, EXERCISES. gI
 
 ## EXERCISE XXII.
 
@@ -2374,47 +2387,87 @@ And after this the Spirit went away; and after a little interval it was day: and
 
 ### VOCABULARY.
 
-Jifty, πεντήκοντα. on the top, ἐπάνω. year, ἔτος, Nn. hand, χείρ, f. Asia, 'Acia. key, κλείς (-ειδ.), f. at last, τέλος. corpse, νεκρός. permission, ἐξουσία. die, ἀποθνήσκω (a. -θαν-). return, ἥκω. want, ἔνδεια. go, βαίνω (aorist ἔβη). Jind, εὑρίσκω (a. εὗρον). certain, σαφής. gathered, συλλεγόμενος. chest, θήκη. laborious, ἐπίπονος. within, ἐντός, g. during, ἐν, d.
+- fifty, πεντήκοντα.
+- on the top, ἐπάνω.
+- year, ἔτος, n.
+- hand, χείρ, f.
+- Asia, Ἀσια.
+- key, κλείς (-ειδ-), f.
+- at last, τέλος.
+- corpse, νεκρός.
+- permission, ἐξουσία.
+- die, ἀποθνήσκω (a. -θαν-).
+- return, ἥκω.
+- want, ἔνδεια.
+- go, βαίνω (aorist ἔβη).
+- find, εὑρίσκω (a. εὗρον).
+- certain, σαφής.
+- gathered, συλλεγόμενος.
+- chest, θήκη.
+- laborious, ἐπίπονος.
+- within, ἐντός, g.
+- during, ἐν, d.
 
-And the Spirit was away (use ἄπ-ειμι, like εἰμι) fifty years! in Asia: and at last he had (εἰμί) permission to return to his former city. And immediately he went to the house of the miserly man. And thus he talked (διελέγετο) to himself : 'About the man? himself nothing is certain to me: for after fifty years' interval he is perhaps dead (τέθνηκε) : but about the gold already everything is plain: for it? at least will be in safety.'
+And the Spirit was away (use ἄπ-ειμι, like εἰμι) fifty years^[§ 36 (b).] in Asia: and at last he had (εἰμί) permission to return to his former city. And immediately he went to the house of the miserly man. And thus he talked (διελέγετο) to himself : 'About the man^[§ 76.] himself nothing is certain to me: for after fifty years' interval he is perhaps dead (τέθνηκε) : but about the gold already everything is plain: for it^[§ 19.] at least will be in safety.'
 
-And this was true. For there was a large strong' chest, and within this was the gold, and on the top lay (ἔκειτο) the man. And in his hand were the keys of the chest. And he was a corpse. For he had died> from want of food in (the midst of) so much wealth. And the Spirit found in the chest not only the former gold, but also double as much, gathered by the dead (aorist particip.) man laboriously during this time.
+And this was true. For there was a large strong^[§ 33.] chest, and within this was the gold, and on the top lay (ἔκειτο) the man. And in his hand were the keys of the chest. And he was a corpse. For he had died^[§ 57.] from want of food in (the midst of) so much wealth. And the Spirit found in the chest not only the former gold, but also double as much, gathered by the dead (aorist particip.) man laboriously during this time.
 
-1 § 36 (b). 2 § 76. 5.819. ὁ 8 33. ὁ 8 57,
+# EXERCISE XXIII
 
-EXIERCISE Χ.Χ7171
-
-Ariphernes in Hades.
+### **Ariphernes in Hades.**
 
 ### VOCABULARY.
 
-satrap, σατράπης. Persian, Tlépons. died, ἀπέθαν-ον. had, εἶχ-ον, impf. according to, κατά, a. capable, οἷός τε, inf. Hades, "Αἰδης. province, ἀρχή. Acacus, Aiakos. intrust, ἐπι-τρέπω. said, εἶπ-ον. assistant, ὑπηρέτης. where from, πόθεν. forethought, πρόνοια. cume, 7)X6-ov. drink, ποτόν.
+- satrap, σατράπης.
+- Persian, Πέρσης.
+- died, ἀπέθαν-ον.
+- had, εἶχ-ον, impf.
+- according to, κατά, a.
+- capable, οἷός τε, inf.
+- Hades, Ἄἰδης.
+- province, ἀρχή.
+- Acacus, Αἴακος.
+- intrust, ἐπι-τρέπω.
+- said, εἶπ-ον.
+- assistant, ὑπηρέτης.
+- where from, πόθεν.
+- forethought, πρόνοια.
+- cαme, ἦλθ-ον.
+- drink, ποτόν.
 
-Ariphernes was rich, and satrap! of many men. And once from disease he fell (κατέστη) into great distress: and at last he died. And immediately, according to the custom of that time,? he went down (κατέβη) into Hades to Aeacus, the judge of the dead.
+Ariphernes was rich, and satrap^[§ A Persian name for 'governor' of a province.] of many men. And once from disease he fell (κατέστη) into great distress: and at last he died. And immediately, according to the custom of that time,^['The *then* custom.' See Article, § 6.] he went down (κατέβη) into Hades to Aeacus, the judge of the dead.
 
 And Aeacus said this: 'Where have you come (aorist) from? and who and what kind of man are you?'
 
-And he said: 'I am a Persian, Ariphernes by name: and I had a terrible disease for? many years: and I was not capable myself of attending to (ἐπιμελεῖσθαι, gen.) my province, and the common people there :? but all such things I intrusted to assistants and slaves. But I had forethought for (gen.) my own food and drink.'
+And he said: 'I am a Persian, Ariphernes by name: and I had a terrible disease for^[§ 36 (b).] many years: and I was not capable myself of attending to (ἐπιμελεῖσθαι, gen.) my province, and the common people there :? but all such things I intrusted to assistants and slaves. But I had forethought for (gen.) my own food and drink.'
 
-1 A Persian name for ' governor' of province. 2 «The then custom.' See Article, § 6. 3 § 36 (b).
 
-EXERCISE XXTYV.
+# EXERCISE XXIV.
 
-Ariphernes in Hades---continued.
+### **Ariphernes in Hades---continued.**
 
 ### VOCABULARY.
 
-send, πέμπω (-Yw). mischief, κακόν. Elysium, ᾿Η λύσιον. arise, γίγνομαι (aor. ἐγενόμην). now, δέ. better, ἀμείνων. Hermes, "Ἑρμῆς. law-court, δικαστήριον. unjust, ἄδικος. to-day, σήμερον. lazy, ἀργός. listen, ἀκούω, g.
+- send, πέμπω (-ψω).
+- mischief, κακόν.
+- Elysium, Ἠλύσιον.
+- arise, γίγνομαι (aor. ἐγενόμην).
+- now, δέ.
+- better, ἀμείνων.
+- Hermes, Ἑρμῆς.
+- law-court, δικαστήριον.
+- unjust, ἄδικος.
+- to-day, σήμερον.
+- lazy, ἀργός.
+- listen, ἀκούω, g.
+- fool, ἀνόητος.
 
-fool, ἀνόητος.
+And Aeacus answered as follows: 'I will send you then to Elysium.' Now this is the place of good men. And Hermes was there, and he said,^[Use of ἔφη, § 71.] 'This is unjust: for this man was methinks lazy, and not worthy of such good fortune.'
 
-And Aeacus answered as follows: 'I will send you then to Elysium.' Now this is the place of good men. And Hermes was there, and he said,! 'This is unjust: for this man was methinks lazy, and not worthy of such good fortune.'
-
-But Aeacus with much laughter answered thus: ' But, my friend, this (fellow) is a fool. And many mischiefs arise for mankind on account of the fools, but this man was better than other fools precisely? on account of his laziness: for thus less mischiefs arose to the multitude.'
+But Aeacus with much laughter answered thus: ' But, my friend, this (fellow) is a fool. And many mischiefs arise for mankind on account of the fools, but this man was better than other fools precisely^[Use of αὐτός with right word.] on account of his laziness: for thus less mischiefs arose to the multitude.'
 
 To-day I was in the law-court, and was listening to the judge there: and this is clear to me about him: Aeacus will send him to Elysium.
 
-1 Use of ἔφη, 8 71. Ὁ Use αὐτός with right word.
 
 ## EXERCISE XXV.
 
@@ -2422,27 +2475,49 @@ To-day I was in the law-court, and was listening to the judge there: and this is
 
 ### VOCABULARY.
 
-tell, λέγω. out of, ἐκ, g. tale, λόγος, τα. Jirst, πρῶτος. ᾿ at (time), ἃ. came forth, ἐξῆλθον. world, γῆ, f. ᾿ second, ἕτερος. everywhere, παντα χοῦ. send forth, ἐκπέμπω. bear, φέρω. flee away, ἀποφεύγω, ἀπέφυγον, VariOUs, παντοῖος. aor. neither---nor, οὔτε---οὔτε. ill, χαλεπῶς. fish, ἰχθῦς. kindle, ἅπτω, ἧπτον. nourish, τρέφω. dog, κύων. name, ὀνομάζω. remain, μένω.
+- tell, λέγω.
+- out of, ἐκ, g.
+- tale, λόγος, m.
+- first, πρῶτος.
+- at (time), d.
+- came forth, ἐξῆλθον.
+- world, γῆ, f.
+- second, ἕτερος.
+- everywhere, παντα χοῦ.
+- send forth, ἐκπέμπω.
+- bear, φέρω.
+- flee away, ἀποφεύγω, ἀπέφυγον, aor. 
+- Various, παντοῖος.
+- neither---nor, οὔτε---οὔτε.
+- ill, χαλεπῶς.
+- fish, ἰχθῦς.
+- kindle, ἅπτω, ἧπτον.
+- nourish, τρέφω.
+- dog, κύων.
+- name, ὀνομάζω.
+- remain, μένω.
 
-The Damaraioi tell this tale: At that time at which the world was made (ἐγένετο) there was darkness everywhere : and the fields bore various trees, but neither man nor beast nor bird nor fish as yet.! And one tree they nourish, and name it Mother: from out of this the first man came forth. And after this a second tree sent forth all the animals. But the man bore the darkness ill, and kindled a fire. And most of the animals fled away in? great fear, but the sheep and. the ox and the dog remained. So these from that time are friendly to man.
+The Damaraioi tell this tale: At that time at which the world was made (ἐγένετο) there was darkness everywhere : and the fields bore various trees, but neither man nor beast nor bird nor fish as yet.^[§ 78.] And one tree they nourish, and name it Mother: from out of this the first man came forth. And after this a second tree sent forth all the animals. But the man bore the darkness ill, and kindled a fire. And most of the animals fled away in^[37 (e).] great fear, but the sheep and. the ox and the dog remained. So these from that time are friendly to man.
 
-1 § 78, 2 § 37 (e).
+------
 
-We may now add the Weak Aorist, Perfect, and Pluperfect; and the Participles in -wy and -as and -ws.
+We may now add the Weak Aorist, Perfect, and Pluperfect; and the Participles in -ων and -ας and -ως.
 
-Av-w makes in the Present Participle λύ-ων, -ovea, -ov; the Future λύσ-ω makes λύσ-ων, -ουσα, -ov.
+Av-w makes in the Present Participle λύ-ων, -ουσα, -ον; the Future λύσ-ω makes λύσ-ων, -ουσα, -ov.
 
 The Strong Aorist ἔ-βαλ-ον makes βαλ-ών, -οῦσα, -dv.
 
 All these three declined in the same way, except as regards Accents, to which the learner had better not attend at present.
 
-The Weak Aorist ἔ-λυσ-α makes Avo-as, -ασα, -av, -avTos, -dons, -avTos, etc.
+The Weak Aorist ἔ-λυσ-α makes λύσ-ας, -ασα, -αν, -αντος, -άσης, -αντος, etc.
 
-The Perfect é-Avx-a makes λελυκ-ώς, -via, -ds, -ότος, -vias, -ὅτος, etc.
+The Perfect λέ-λυκ-α makes λελυκ-ώς, -υῖα, -ός, -ότος, -υίας, -ὅτος, etc.
 
 The Augment is always dropped in the Participle, the reduplication retained.
 
-Obs.---In the Vocabularies henceforth a. and f. are used with Verbs to mean Aorist and Future. Thus :---
+------
+
+*Obs.*---In the Vocabularies henceforth a. and f. are used with Verbs to mean Aorist and Future. Thus :---
 
 λείπω (f. λείψω, a. -λιπ-) means that the Future of λείπω is λείψω, and the Aorist Indic. is ἔ-λιπ-ον.
 
@@ -2452,9 +2527,18 @@ Obs.---In the Vocabularies henceforth a. and f. are used with Verbs to mean Aor
 
 ### VOCABULARY.
 
-Libyan, Λίβυς. stinginess, aio χροκέρδεια, carry, φέρω. free, ἐλεύθερος. miserly, aio χροκερδής. force, ἀναγκάζω. get, λαμβάνω (a. ἔλαβον). devise, ἐξευρίσκω (a. -evpov). in return for, ἀντί, g. stratagem, μη χανή.
+- Libyan, Λίβυς.
+- stinginess, αίσχροκέρδεια. 
+- carry, φέρω.
+- free, ἐλεύθερος.
+- miserly, αίσχροκερδής.
+- force, ἀναγκάζω.
+- get, λαμβάνω (a. ἔλαβον).
+- devise, ἐξευρίσκω (a. -εῦρον).
+- in return for, ἀντί, g.
+- stratagem, μηχανή.
 
-The Libyans are a strange race, and men tell many singular! tales about them. Once a man had a Libyan slave, and he sent him often to a friend with fish, which the Libyan carried. But the friend was miserly, and the slave never got any? gift from him in return for his trouble. So at last he grew angry with him on account of his stinginess, and he was not willing (ἤθελε) to carry! anything to him any more. But he was not able to become (γενέσθαι) free, and his master forced him. And on account of this he devised another stratagem as follows.
+The Libyans are a strange race, and men tell many singular^['Man *and* singular,' § 33.] tales about them. Once a man had a Libyan slave, and he sent him often to a friend with fish, which the Libyan carried. But the friend was miserly, and the slave never got any^[§ 78.] gift from him in return for his trouble. So at last he grew angry with him on account of his stinginess, and he was not willing (ἤθελε) to carry^['Man *and* singular,' § 33.] anything to him any more. But he was not able to become (γενέσθαι) free, and his master forced him. And on account of this he devised another stratagem as follows.
 
 1 «Many and singular,' ὃ 33. 2 § 78.
 
@@ -2463,38 +2547,56 @@ The Libyans are a strange race, and men tell many singular! tales about them. On
 ### **The Libyans---continued.**
 
 ### VOCABULARY.
+- throw down, καταβάλλω (aor, ἔ-βαλ-ον).
+- example, παράδειγμα, n.
+- propriety, τὸ πρέπον, n.
+- partic, had, εἶχον (imp. of ἔχω).
+- took, λαμβάνω, a, ἔ-λαβ-ον.
+- plate, λεκάνιον.
+- bring, φέρω (εἰς 'in'), (f. οἴσω, ἤνεγκον).
+- miser, ὁ αἰσχροκερδής.
+- abuse, ὀνειδίζω.
+- properly, πρεπόντως.
+- say, λέγω.
+- chair, ἕδρα, f.
+- young man, νεανίας.
+- gracefully, χαριέντως.
+- awkward, ἄγροικος.
+- awe gratitude, χάριν ἔχειν, d.
+- give, δίδωμι (f. δώσω). 
+- drachma, δραχμή, f.
 
-throw down, καταβάλλω (aor, example, παράδειγμα, n.
+For, once carrying a fish, he came into his (use ἐκεῖνος) house, and threw down everything which he had on the plate. And the miser got angry and abused him, saying as follows: 'Young man, you are awkward: I myself therefore will bring in the fish, and will give you an example of propriety." And --- having said this, he took the plate, and brought it in properly. And the Libyan, sitting in his chair, took the gift gracefully, and said to him: ' We give you much gratitude in return for your trouble, O most beautiful youth, and behold! I give you a drachma.'
 
-ἔ- βαλ-ον). propriety, τὸ πρέπον, n. partic, had, εἶχον (imp. of ἔχω). took, λαμβάνω, a, ἔ-λαβ. ον. plate, λεκάνιον. bring, φέρω (εἰς Sin'), (f. οἴσω, miser, ὁ αἰσχροκερδής. ἃ. ἤνεγκον). abuse, ὀνειδίζω. properly, πρεπόντως, say, λέγω. chair, ἕδρα, f. young man, νεανίας. gracefully, χαριέντως. awkward, ἄγροικος. gwe gratitude, χάριν ἔχειν, ἃ. give, δίδωμι (\[. δώσω), drachma, δραχμή, f.
-
-For, once carrying a fish, he came into his (use ἐκεῖνος) house, and threw down everything which he had on the plate. And the miser got angry and abused him, saying as follows: 'Young man, you are awkward: I myself therefore will bring in the fish, and will give you an example of propriety." And --- having said this, he took the plate, and brought it in properly. And the Libyan, sitting in his chair, took the gift gracefully, and said to him: ' We give you much gratitude in return for your trouble, O most beautiful youth, and behold! I give you
-
-a drachma.' S.G.W. \] G
-
-## EXERCISE XXVIII. ΄
+## EXERCISE XXVIII.
 
 ### **The Egyptian.**
 
 ### VOCABULARY.
 
-write, γράφω (a. f. -ypay-). ten, δέκα.
+- write, γράφω (a. f. -γραψ-).
+- ten, δέκα.
+- appears, φαίνεται.
+- suspicion, ὑποψία.
+- barbarian, βάρβαρος.
+- for the most part, ὡς ἐπὶ τὸ πολύ.
+- divine, θεῖος.
+- hot, θερμός.
+- Egyptian, Αἰγύπτιος.
+- thirst, δίψα, f.
+- bag, θύλακος, m.
+- take out, ἐξ-αιρέω, a. -εἶλον.
+- hide, κρύπτω (a. ἔκρυψα).
+- eat up, κατ-εσθίω, a.κατ-ἐφαγον.
+- apple, μῆλον.
+- again, αὖθις.
+- put, τίθημι (a. ἔθηκα).
+- come, ἀφικνέομαι, I.^[Words marked I are found in the table of Irregular Verbs at the end.]
+- number, ἀριθμός, m.
 
-appears, φαίνεται. suspicion, ὑποψία.
+Writing^[§ 8.] appears to barbarians to be a very wonderful and divine (thing).
 
-barbarian, βάρβαρος. for the most part, ὡς ἐπὶ τὸ πολύ. divine, θεῖος. hot, θερμός.
-
-Egyptian, Αἰγύπτιος. thirst, δίψα, f.
-
-bag, θύλακος, m. take out, ἐξ-αιρέω, a. -εἶλον. hide, κρύπτω (a. ἔκρυψα). φαΐ up, κατ-εσθίω,. κατ-ἐφαγον. apple, μῆλον. again, αὖθις.
-
-put, τίθημι (a. ἔθηκα). come, ἀφικνέομαι, 1.1
-
-number, ἀριθμός, τὰ.
-
-Writing? appears to barbarians to be a very wonderful and divine (thing).
-
-There once was a certain master who had an Egyptian slave. And he sent him to a friend, bearing a bag in which he had hidden® ten most beautiful and sweet apples. And with the apples he put a letter into the bag, in which he wrote the number of the apples, that there were (say ' are') ten. And this he did from suspicion about' the slave: for the Egyptians are for the most part faithless. And when the sun became (ἐγένετο) hot, and the slave was thirsty (had thirst), at last having taken out two of the apples, he ate them up. But having again hidden the rest in the bag, he came to the friend of his master and gave all to him.
+There once was a certain master who had an Egyptian slave. And he sent him to a friend, bearing a bag in which he had hidden^[Tenses § 57.] ten most beautiful and sweet apples. And with the apples he put a letter into the bag, in which he wrote the number of the apples, that there were (say ' are') ten. And this he did from suspicion about^[Article, § 7.] the slave: for the Egyptians are for the most part faithless. And when the sun became (ἐγένετο) hot, and the slave was thirsty (had thirst), at last having taken out two of the apples, he ate them up. But having again hidden the rest in the bag, he came to the friend of his master and gave all to him.
 
 1 Words marked 1 are found in the table of Irregular Verbs at the end. 38 8. + Tenses, § 57. + Article, § 7.
 
@@ -2502,11 +2604,27 @@ There once was a certain master who had an Egyptian slave. And he sent him to a 
 
 ### **The Egyptian---continued.**
 
-VOCABULARY, open, ἀνοίγω (a. p. ἀνοίξας). excuse, πρόφασις, f. read, ἀναγιγνώσκω (a. p. dva-sell, ἀγγέλλω (a. ἤγγειλα). γνούς). I suppose, δήπου. discover, μανθάνω (a. -μαθ-). confess, ὁμολογῶ (4. ὧμολό- eight, ὀκτώ. γησα). false, ψευδής. weep, δακρύω. fellow, ἄνθρωπος. ask, αἰτέω (a ἤτησα). receive, λαμβάνω. pardon, συγγνώμη. useless, ἀνωφελής. pardon (verb), συγγιγνώσκω make, κατασκευάζειν. (a, συνέγνων).
+### VOCABULARY.
 
-And the friend taking! the bag and opening it, found the apples, being eight, and the letter. And having read this, he discovered that? he sent ten, but only eight remained (say 'remain') now in the bag. Accordingly, growing angry, he abused the slave, and said as follows: 'You are false and untrustworthy, fellow, since (say ' who,' ὅστις) having received ten apples you have only given back' eight. Why have you stolen? the two?' But to him it seemed to be useless and foolish to make a false excuse: 'for the letter,' he said to himself, 'saw me eating, and told everything, I suppose.' So he confessed everything, and weeping much, asked him to grant (say 'have') pardon. And he pardoned him: and he went away.
+- open, ἀνοίγω (a. p. ἀνοίξας).
+- excuse, πρόφασις, f.
+- read, ἀναγιγνώσκω (a. p. ἀναγνούς).
+- tell, ἀγγέλλω (a. ἤγγειλα).
+- I suppose, δήπου.
+- discover, μανθάνω (a. -μαθ-).
+- confess, ὁμολογῶ (a. ὧμολόγησα).
+- eight, ὀκτώ.
+- false, ψευδής.
+- weep, δακρύω.
+- fellow, ἄνθρωπος.
+- ask, αἰτέω (a. ἤτησα).
+- receive, λαμβάνω.
+- pardon, συγγνώμη.
+- useless, ἀνωφελής.
+- pardon (verb), συγγιγνώσκω (a, συνέγνων). 
+- make, κατασκευάζειν.
 
-1 See Participles, § 68. 2 § 76. 3 § 56.
+And the friend taking^[See Participles, § 68.] the bag and opening it, found the apples, being eight, and the letter. And having read this, he discovered that^[§ 76.] he sent ten, but only eight remained (say 'remain') now in the bag. Accordingly, growing angry, he abused the slave, and said as follows: 'You are false and untrustworthy, fellow, since (say ' who,' ὅστις) having received ten apples you have only given back' eight. Why have you stolen^[§ 56.] the two?' But to him it seemed to be useless and foolish to make a false excuse: 'for the letter,' he said to himself, 'saw me eating, and told everything, I suppose.' So he confessed everything, and weeping much, asked him to grant (say 'have') pardon. And he pardoned him: and he went away.
 
 ## EXERCISE XXX.
 
@@ -2514,17 +2632,32 @@ And the friend taking! the bag and opening it, found the apples, being eight, an
 
 ### VOCABULARY.
 
-bid, κελεύω (a. ἐκέλευσα). from thence, ἐντεῦθεν. twenty, εἰκόσι, take up, ἀναλαμβάνω (ἃ. -λαβ.). distressed, ἀχθόμενος. into, εἰς, ἃ. heat, καῦμα, n, pleased, ἡδόμενος, ἃ. wish, βούλομαι. skill, τέχνη, f. fearing, φοβούμενος. uriting, γραφή, f. knowing, εἰδώς, splendidly, καλῶς. how many, ὁπόσος. deceive, ἐξαπατάω (ἃ. -ηπάτησ-).
+- bid, κελεύω (a. ἐκέλευσα).
+- from thence, ἐντεῦθεν.
+- twenty, εἰκόσι, 
+- take up, ἀναλαμβάνω (a. -λαβ-).
+- distressed, ἀχθόμενος.
+- into, εἰς, a.
+- heat, καῦμα, n.
+- pleased, ἡδόμενος, d.
+- wish, βούλομαι.
+- skill, τέχνη, f.
+- fearing, φοβούμενος.
+- uriting, γραφή, f.
+- knowing, εἰδώς.
+- splendidly, καλῶς.
+- how many, ὁπόσος.
+- deceive, ἐξαπατάω (a.-ηπάτησ-).
+- retire, ὑποχωρέω (a. -εχώρησα).
+- against, κατά, g.
 
-retire, ὑποχωρέω (a. -«χώρησα). against, κατά, g.
+And again the master sent the slave to the same friend, bidding him carry the bag as before, having twenty apples in a letter. And everything occurred (ἐγένετο) as before. For, distressed with the heat of the sun, and having terrible thirst, he wished to eat the apples. But fearing the letter, as knowing how-many apples there were (are), first he hid it under a great stone, and having retired far from thence, he again took out two apples and ate them up. And having done this, he went back again to the stone, and having taken up the letter, put it into the bag, being pleased with his skill, and saying, 'O most hateful writing, now indeed I have^[§ 56.] splendidly deceived you, having before told (agrees with 'you ) everything against me.'
 
-And again the master sent the slave to the same friend, bidding him carry the bag as before, having twenty apples in a letter. And everything occurred (ἐγένετο) as before. For, distressed with the heat of the sun, and having terrible thirst, he wished to eat the apples. But fearing the letter, as knowing how-many apples there were (are), first he hid it under a great stone, and having retired far from thence, he again took out two apples and ate them up. And having done this, he went back again to the stone, and having taken up the letter, put it into the bag, being pleased with his skill, and saying, 'O most hateful writing, now indeed I have! splendidly deceived you, having before told (agrees with 'you ) everything against me.'
 
-1 § 56. EXERCISES. ΙΟΙ
 
-EXERCISE XXXII,
+# EXERCISE XXXI.
 
-The Egyptian---continued.
+### **The Egyptian---continued.**
 
 ### VOCABULARY.
 
