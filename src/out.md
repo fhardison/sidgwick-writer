@@ -1,20 +1,13 @@
-- true, ἀληθής.
-- horn, κέρας (-ρατ-), n.
-- one, ἵτις.
-- of course, t δήπου.
-- reasonably, εἰκότως, last, ὕστατος.
-- claw, ὄνυξ (-vx-) m.
-- ass, ὄνος, mM.
-- inferior, φαῦλος.
-- ignorant, ἀμαθής.
-- beauty, κάλλος.
-- foolish, ἄφρων.
-- ox, βοῦς (Bo-), τα.
-- at least, tye.
-- however, ¢ μέντοι.
-- surely not so, ov δῆτα.
-- tooth, ὀδούς (-δοντ-), τα.
-- glory, κῦδος, τι.
-- out of, ἐκ, g.
-- ear, obs (ὦτ-), n.
-- mouth, στόμα, n.
+- Egyptian, Αἰγύπτιος.
+- powerful, δυνατός.
+- story, μῦθος, τη.
+- king, βασιλεύς.
+- matter, πρᾶγμα (-ματ-), n.
+- Asia, ᾿Ασία.
+- especially, οὐχ ἥκιστα.
+- grief, λυπή.
+- spirits, δαίμονες.
+- possible, οἷός τε.
+- power, δύναμις.
+- forbidden, ἀπόρρητος.
+- below, ὑπό, g.
