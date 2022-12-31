@@ -514,7 +514,7 @@ If the sentence is of any length (or even sometimes in short sentences), the Ver
 
 Just as in the case of the Article we have seen that the Adjective is used with Article in the neuter, where in English generally some Substantive is employed, so frequently the Adjective (or Pronoun) is used in the neuter (whether with or without Article), where in English Substantives are required. This is especially the case where the Substantive is of kindred meaning (cognate) with the Verb.
 
-- He suffered terrible treatment. <br/>δεινὰ ἔπαθε,
+- He suffered terrible treatment. <br/>δεινὰ ἔπαθε.
 - They tell strange tales. <br/>θαυμάσια μυθολογοῦσι.
 - He made the following reply. <br/>τοιάδε ἀπεκρίνατο.
 
@@ -1576,7 +1576,7 @@ With these should be learnt the Adjectives which follow these declensions, namel
 
 - *σοφός, σοφή, σοφόν* | *ἴδιος, ἰδία, ἴδιον*
 
-and the contracted forms, χρυσέος, ἀργυρέος (-οὔς).
+and the contracted forms, χρυσέος, ἀργυρέος (-οῦς).
 
 These really add nothing to the trouble, for they simply follow the three genders of the Substantive.
 
@@ -1641,7 +1641,8 @@ Note.---In the vocabularies the following signs are used :---
 - cool, ψυχρός.
 - lake, λίμνη.
 - beautiful, καλός.
-- many, πολλοί,swan, κύκνος, m.
+- many, πολλοί.
+- swan, κύκνος, m.
 - which, ὅς.
 - bright, λαμπρός.
 - white, λευκός.
@@ -1756,7 +1757,7 @@ This horse is mine. Before^[§ 76.] he was strong, but now he is very thin and p
 - everything, πάντα. 
 - camp, στρατόπεδον.
 - dark, σκοτεινός.
-- fleet, τὸ ναντικόν.
+- fleet, τὸ ναυτικόν.
 - fires, πυρά.
 - shore, αἰγιαλός, m.
 - few, ὀλίγος.
@@ -1770,7 +1771,7 @@ This horse is mine. Before^[§ 76.] he was strong, but now he is very thin and p
 - secretly, λάθρα.
 - our, ἡμέτερος.
 - to, πρός, a.
-- to-morrow, avpiov.
+- to-morrow, αὐρίον.
 - head, κεφαλή.
 - battle, μάχη.
 - thus, οὕτως.
@@ -1779,7 +1780,7 @@ This horse is mine. Before^[§ 76.] he was strong, but now he is very thin and p
 - plan, μηχανή.
 - victory, νίκη.
 
-Already the army is in the camp, and the fleet by the shore of this island. The enemy are on the hill, which is opposite to our camp. To-morrow, perhaps, there will be a battle: for they appear (δοκοῦσι) to be prepared.^[§ 34.] But this^[§ 28.] is the plan of our general. For now everything is dark, and the fires of the enemy are few. Accordingly it will not be difficult for our soldiers to go (ἐλθεῖν) secretly to them, and cut off (dzore- μεῖν, acc.) the heads of many. And thus to-morrow few will be alive, and the victory will be ours.
+Already the army is in the camp, and the fleet by the shore of this island. The enemy are on the hill, which is opposite to our camp. To-morrow, perhaps, there will be a battle: for they appear (δοκοῦσι) to be prepared.^[§ 34.] But this^[§ 28.] is the plan of our general. For now everything is dark, and the fires of the enemy are few. Accordingly it will not be difficult for our soldiers to go (ἐλθεῖν) secretly to them, and cut off (ἀποτεμεῖν, acc.) the heads of many. And thus to-morrow few will be alive, and the victory will be ours.
 
 ## EXERCISE V.
 
@@ -1792,7 +1793,7 @@ Already the army is in the camp, and the fleet by the shore of this island. The 
 - mud, βόρβορος, m.
 - master, δεσπότης.
 - here, ἐνταῦθα.
-- alone, povos.
+- alone, μόνος.
 - one, εἷς, or εἷς τις.
 - at home, οἴκοι.
 - near, ἐγγύς.
@@ -1803,7 +1804,8 @@ Already the army is in the camp, and the fleet by the shore of this island. The 
 - door, θύρα, f.
 - other, ἄλλος.
 - mischief, κακόν, n.
-- difficulty, ἀπορία, plain, δῆλος.
+- difficulty, ἀπορία,
+- plain, δῆλος.
 - able, οἷός τε, δυνατός.
 
 There is a ditch in this field, and it has (ἔχει, acc.) very much (πλεῖστος, superlative) mud. But of the many horses which are here, one seems (δοκεῖ, inf.) to be in dreadful danger. For he stands (éornxe) near, on the very ditch itself.^[§ 16.] Alas, now he is in the middle of the^[§ 4.] mud. And the others are in a difficulty, and will not be able to pull out (ἐξέλκειν, acc.) their companion. For this the master alone is able to do (ποιεῖν, acc.), who is at home. But among the horses is one, who is far wiser (σοφώτερος) than (gen.) the others. And he runs (τρέχει) to the house, and with his head^[§ 37 (d).] strikes (παίει, acc.) the door. And thus the mischief is plain to the master, and he pulls (ἐξέλκει, acc.) out the horse.
@@ -1837,7 +1839,7 @@ There is a ditch in this field, and it has (ἔχει, acc.) very much (πλε�
 - slave, δοῦλος.
 - quickly, ταχέως.
 - unknown, ἄδηλος.
-- manifest, pavepos.
+- manifest, φανερός.
 
 The Indians are bad persons: for they honour (τιμῶσι, acc.) liars and thieves. And there was a certain master who had (to whom there was) a golden brick: and the value of the gold was marvellous. And a certain slave of those^[§ 6.] in the house stole (ἔκλεψε, acc.) the brick: but the thief was unknown to the master. But there was a wise judge in the country: and he by this device found out (ἐξεῦρε, acc.) everything.
 
@@ -1873,7 +1875,7 @@ For the slaves were around him, being collected together. And there was very gre
 - sleep, ὕπνος.
 - no longer, οὐκέτι.
 
-My brother has (use éori) a she-goat, which he found (εὗρε, acc.) in a wonderful way.^[§ 37 (e).] For there is a rock not far from the house, and in this rock a large cavern under the earth. And my brother was once in the cavern, and being weighed down (βαρυνόμενος) by sleep he lay (ἔκειτο) for^[§ 36 (b).] a long time quiet. But suddenly he saw (εἶδε, acc.) bright eyes through the darkness. And he was in great fear. For the wolf has such eyes,^[You may use the article, and say 'the eyes are such.'] and the country is full of wolves. But the goat meanwhile licked (ἔλειχε, acc.) the fingers of his left (hand), and he had no longer any^[§ 78.] fear.
+My brother has (use ἐστί) a she-goat, which he found (εὗρε, acc.) in a wonderful way.^[§ 37 (e).] For there is a rock not far from the house, and in this rock a large cavern under the earth. And my brother was once in the cavern, and being weighed down (βαρυνόμενος) by sleep he lay (ἔκειτο) for^[§ 36 (b).] a long time quiet. But suddenly he saw (εἶδε, acc.) bright eyes through the darkness. And he was in great fear. For the wolf has such eyes,^[You may use the article, and say 'the eyes are such.'] and the country is full of wolves. But the goat meanwhile licked (ἔλειχε, acc.) the fingers of his left (hand), and he had no longer any^[§ 78.] fear.
 
 ## EXERCISE VIII.
 
@@ -1909,7 +1911,7 @@ My brother has (use éori) a she-goat, which he found (εὗρε, acc.) in a won
 - very sweet, ἥδιστος.
 - dreadful, δεινός.
 
-In this wood are numberless bees flying (πετόμενος) every way very-quickly. Where is the place in which the house of these is? It is probably in some one of these large trees. For often the wood is rotten, on account of the long time and the dreadful rain. And thus in the hollow \[use neuter of adjective\] is a cavern, which, not without trouble, has been made (πεποίηται) by the bees into (és, acc.) a house. And this is wonderful, that not men are most-hateful (ἔχθιστος) to the bees, but bears. For these are like children, and they have (there is to them) a very-great desire of very-sweet things.^[§ 2.]
+In this wood are numberless bees flying (πετόμενος) every way very-quickly. Where is the place in which the house of these is? It is probably in some one of these large trees. For often the wood is rotten, on account of the long time and the dreadful rain. And thus in the hollow \[use neuter of adjective\] is a cavern, which, not without trouble, has been made (πεποίηται) by the bees into (ἐς, acc.) a house. And this is wonderful, that not men are most-hateful (ἔχθιστος) to the bees, but bears. For these are like children, and they have (there is to them) a very-great desire of very-sweet things.^[§ 2.]
 
 ## EXERCISE IX.
 
@@ -1923,7 +1925,7 @@ In this wood are numberless bees flying (πετόμενος) every way very-quic
 - friend, φίλος.
 - faithful, πιστός.
 - many, πολύς.
-- Cyrus, Kupos.
+- Cyrus, Κῦρος.
 - so many, τοσοῦτος.
 - as many as, ὅσοι.
 - they, ἐκεῖνοι.
@@ -1954,7 +1956,7 @@ Why were all-kinds-of people faithful to Cyrus, as many as were subject to his r
 
 - ostrich, στρουθός.
 - equal, ἴσος.
-- for, t yap.
+- for, † γάρ.
 - strong, ἰσχυρός.
 - strange, θαυμάσιος.
 - foolish, ἀνόητος.
@@ -1962,9 +1964,9 @@ Why were all-kinds-of people faithful to Cyrus, as many as were subject to his r
 - cowardly, δειλός.
 - once, ποτέ.
 - the rest, τὰ ἕτερα, pl.
-- upon, eri, g.
+- upon, ἐπί, g.
 - hidden, κρυπτός.
-- sand, Yappos, f.
+- sand, ψάμμος, f.
 - bird, ὄρνεον.
 - shape, μορφή.
 - hunter, θηρευτής, m.
@@ -1979,11 +1981,23 @@ The ostrich is a strange beast : for it has wings, but is not able to fly (πέ�
 
 ### VOCABULARY.
 
-fable, μῦθος. wiser, σοφώτερος. sheep, προβάτιον. life, Bios. sheep, pl., πρόβατα, n. friendship, φιλία. council, βουλή. peace, εἰρήνη. evil, κακόν. with (make peace, war), πρός, ἃ. injustice, ἀδικία, peaceful, εἰρηνικός. from (suffer), ὑπό, 8. Sight, μάχη.
+- fable, μῦθος. 
+- wiser, σοφώτερος. 
+- sheep, προβάτιον. 
+- life, βίος. 
+- sheep, pl., πρόβατα, n. 
+- friendship, φιλία. 
+- council, βουλή. 
+- peace, εἰρήνη. 
+- evil, κακόν. 
+- with (make peace, war), πρός, a. 
+- injustice, ἀδικία. 
+- peaceful, εἰρηνικός. 
+- from (suffer), ὑπό, g. 
+- sight, μάχη.
 
-This! is a fable about the wolves and the sheep, in what? (οἷος) way the council took place (ἐγένετο) about the evils and the injustice. For the sheep suffered (ἔπασχε) dreadful things? from the wolves: so there was no longer any' safety for them in the country. And on account of this it was necessary to find (εὑρεῖν, acc.) some device. And a sheep there was, wiser than (gen.) the others, and he said (εἶπε, acc.) these® things :---'O sheep, life to us is evil owing to these® wolves. There shall therefore be a council, and the wolves shall be present (παρέσονται), and we will persuade (πείσομεν, acc.) them to make (ποιεῖσθαι, acc.) friendship and peace with us. For I am peaceful, and the fight with' the wolves is not dear to me.'
+This^[§ 28.] is a fable about the wolves and the sheep, in what^[§ 37 (e).] (οἷος) way the council took place (ἐγένετο) about the evils and the injustice. For the sheep suffered (ἔπασχε) dreadful things^[§ 30.] from the wolves: so there was no longer any^[§ 78.] safety for them in the country. And on account of this it was necessary to find (εὑρεῖν, acc.) some device. And a sheep there was, wiser than (gen.) the others, and he said (εἶπε, acc.) these^[§ 23.] things :---'O sheep, life to us is evil owing to these^[§ 9.] wolves. There shall therefore be a council, and the wolves shall be present (παρέσονται), and we will persuade (πείσομεν, acc.) them to make (ποιεῖσθαι, acc.) friendship and peace with us. For I am peaceful, and the fight with^[§ 6, 7.] the wolves is not dear to me.'
 
-§ 28. § 30. + § 18. § 23. § 6
 
 ## EXERCISE XII.
 
@@ -1991,29 +2005,48 @@ This! is a fable about the wolves and the sheep, in what? (οἷος) way the co
 
 ### VOCABULARY.
 
-gathering, σύλλογος. both, ἀμφότεροι. unjust, ἄδικος. rights, τὸ δικαίον. law, νόμος. from (given or passed from), more, μᾶλλον. παρά, g. such as this, τοιόσδε. at the time, τότε μὲν. before (motion), πρός, a. not at all, οὐδαμῶς.
+- gathering, σύλλογος. 
+- both, ἀμφότεροι. 
+- unjust, ἄδικος. 
+- rights, τὸ δικαίον. 
+- law, νόμος. 
+- from (given or passed from), παρά, g.
+- more, μᾶλλον.
+- such as this, τοιόσδε. 
+- at the time, τότε μὲν. 
+- before (motion), πρός, a. 
+- not at all, οὐδαμῶς.
 
-There was therefore a gathering of the sheep to council: and the wolves themselves also came (ἦλθον), nor were they hindered (ἐκωλύοντο) by them. And the sheep said these things :---' We are? in terrible danger, being worried (ἅρπα- ζόμενος) by the wolves. And this is unjust: so we wish (βουλόμεθα) to have (ἔχειν, acc.) some law, and thus to be more in safety.' And the wolves said this to them :---' There shall then be a law for you such-as-this: the sheep that is? wronged (ἀδικούμενος) by a wolf shall bring (ἄξει, acc.) the unjust (one) before our council, and both shall have (use εἰμί, to be) their rights from us.' And at the time? it was delightful to the sheep: but the injustice of the wolves became (ἐγένετο) not at all less.
+There was therefore a gathering of the sheep to council: and the wolves themselves also came (ἦλθον), nor were they hindered (ἐκωλύοντο) by them. And the sheep said these things :---' We are^[§ 75.] in terrible danger, being worried (ἁρπαζόμενος) by the wolves. And this is unjust: so we wish (βουλόμεθα) to have (ἔχειν, acc.) some law, and thus to be more in safety.' And the wolves said this to them :---' There shall then be a law for you such-as-this: the sheep that is^[§ 5.] wronged (ἀδικούμενος) by a wolf shall bring (ἄξει, acc.) the unjust (one) before our council, and both shall have (use εἰμί, to be) their rights from us.' And at the time^[§ 76.] it was delightful to the sheep: but the injustice of the wolves became (ἐγένετο) not at all less.
 
-1 § 75, 2 § δ. > § 76.
-
-## EXERCISE X11.
+## EXERCISE XΙΙΙ.
 
 ### **The Mamedaioi and Pigeon.**
 
 ### VOCABULARY.
 
-Higeon, περιστερά. stege, πολιορκία. sensible, φρόνιμος. sky, οὐρανός. clever, δεινός. as if it were, ὥσπερ εἶ, adv. letter, ἐπιστολή. thereupon, ἐνταῦθα. somewhat as follows, τοιόσδε arrow, ὀϊστός, τη.
+- pigeon, περιστερά. 
+- siege, πολιορκία. 
+- sensible, φρόνιμος. 
+- sky, οὐρανός. 
+- clever, δεινός. 
+- as if it were, ὥσπερ εἶ, adv. 
+- letter, ἐπιστολή. 
+- thereupon, ἐνταῦθα. 
+- somewhat as follows, τοιόσδε τις (agreeing with manner).
+- arrow, ὀϊστός, m.
+- trial, πεῖρα. 
+- shrewd, συνετός. 
+- not at all, οὐδέν. 
+- easily, ῥᾳδίως. 
+- useful, ὠφέλιμος.
+- fortress, χωρίον.
 
-τις (agreeing with manner). trial, πεῖρα. shrewd, συνετός. not at all, οὐδέν. easily, ῥᾳδίως. useful, ὠφέλιμος.
-
-fortress, χωρίον.
-
-Pigeons are sensible, and very clever at-carrying (inf. φέρειν, acc.) letters. This they do (ποιοῦσι, acc.) in a manner somewhat as follows :---The pigeon loves (φιλεῖ, acc.) its! home, and is shrewd: and so the way to? its home it finds (εὑρίσκει, acc.) easily.
+Pigeons are sensible, and very clever at-carrying (inf. φέρειν, acc.) letters. This they do (ποιοῦσι, acc.) in a manner somewhat as follows :--- The pigeon loves (φιλεῖ, acc.) its^[§ 21.] home, and is shrewd: and so the way to^[§ 6.] its home it finds (εὑρίσκει, acc.) easily.
 
 And once there was a fortress of the Mamedaioi, which was under (ἐν, dat.) siege from (ὑπό, gen.) the enemy. And about midday once a soldier of the enemy saw (εἶδε, acc.) a pigeon above in the sky flying (πετόμενος, partic.). And under its wings was something white, as if it were a letter. Thereupon there was desire to the soldiers to catch (λαβεῖν, acc.) the bird. And they made (ἐποιοῦντο, acc.) trial of their arrows: but they were not at all useful.
 
-1 § 21, 3.8 6. 8ο EXERCISES.
+
 
 ## EXERCISE XIV.
 
@@ -2021,15 +2054,30 @@ And once there was a fortress of the Mamedaioi, which was under (ἐν, dat.) si
 
 ### VOCABULARY.
 
-immediately, εὐθύς. tyrant, τύραννος. shout, βοή. after, διά, g. indignation, ὀργή. jive, πέντε. at, ἐπί, ἃ. day, ἡμέρα, f. escape, ἀποφυγή. fortification, τειχισμός, τι. noise, θόρυβος, τη. therefore, διὰ τοῦτο. concerning, περί, g. distress, ἀπορία. lack, ἔνδεια. plenty, ἀφθονία. preparation, παρασκενή. provision, ἐπιτήδεια, n. pl.
+- immediately, εὐθύς.
+- tyrant, τύραννος.
+- shout, βοή.
+- after, διά, g.
+- indignation, ὀργή.
+- five, πέντε.
+- at, ἐπί, d.
+- day, ἡμέρα, f.
+- escape, ἀποφυγή.
+- fortification, τειχισμός, n.
+- noise, θόρυβος, m.
+- therefore, διὰ τοῦτο.
+- concerning, περί, g.
+- distress, ἀπορία.
+- lack, ἔνδεια.
+- plenty, ἀφθονία.
+- preparation, παρασκευή.
+- provision, ἐπιτήδεια, n. pl.
 
 And immediately there arose (ἐγένετο) a shout of the soldiers : for there was dreadful indignation at the escape of the pigeon.
 
-And she was in fear owing to the noise, and fell (ἔπεσε) straightway into the camp. And they untied (ἔλυσαν, acc.) the letter about! its neck : and in this were words as follows :---
+And she was in fear owing to the noise, and fell (ἔπεσε) straightway into the camp. And they untied (ἔλυσαν, acc.) the letter about^[§ 6.] its neck : and in this were words as follows :---
 
 "Ὁ dear citizens of the Mamedaioi, why do ye feel (ἔχετε, acc.) such fear concerning the siege? There will be no lack to you of assistance. For we are making (ποιούμεθα, acc.) a wonderful preparation. And the tyrant will bring (ἄξει, acc.) an army, and after five days we shall be close to your fortification. Therefore it is foolish to be in distress. For quickly you shall have (use verb 'to be') victory and plenty of provisions.' Such then was the letter.
-
-1 § 6,
 
 ## EXERCISE XV.
 
@@ -2037,35 +2085,46 @@ And she was in fear owing to the noise, and fell (ἔπεσε) straightway into 
 
 ### VOCABULARY.
 
-plan, ἐπίνοια. expedition, στρατεία, f. instead of, ἀντί, altogether, πάνυ. former, πρότερος. brave, θαρσάλεος. helpless, ἀμήχανοις. war, πόλεμος, τη. at all (neg.), τὸ παράπαν. within, ἔνδον. aid, ὠφέλεια, f. extreme, ἔσχατος.
-
-mind, νοῦς.
+- plan, ἐπίνοια.
+- expedition, στρατεία, f.
+- instead of, ἀντί.
+- altogether, πάνυ.
+- former, πρότερος.
+- brave, θαρσάλεος.
+- helpless, ἀμήχανοις.
+- war, πόλεμος, m.
+- at all (neg.), τὸ παράπαν.
+- within, ἔνδον.
+- aid, ὠφέλεια, f.
+- extreme, ἔσχατος.
+- mind, νοῦς.
 
 And the soldiers had (use εἰμί) very-great joy at this. For the plan of the enemy was now manifest, not less than the (gen.) distress of the Mamedaioi.
 
 Accordingly they wrote (ἔγραψαν, acc.) another letter instead of the former one. And it was as follows :---
 
-"Ὁ dear citizens of the Mamedaioi, we are! now helpless. For we are not able at all to give you (δοῦναι, dat. and acc.) aid. For the tyrant has (ἔχει, inf.) in (his) mind to make (ποιεῖσθαι, acc.) another expedition. But we are not altogether hopeless about you, for you are brave and strong for (és, acc.) the war.'
+"Ὁ dear citizens of the Mamedaioi, we are^[§ 75.] now helpless. For we are not able at all to give you (δοῦναι, dat. and acc.) aid. For the tyrant has (ἔχει, inf.) in (his) mind to make (ποιεῖσθαι, acc.) another expedition. But we are not altogether hopeless about you, for you are brave and strong for (ἐς, acc.) the war.'
 
-And this the pigeon carried (ἔφερε, acc.) into the fortress to the Mamedaioi. And those! within had (εἰμί) extreme fear. And they surrendered (ἐνέδοσαν, acc.) themselves to them, And after five days appeared (ἐφάνη) the tyrant with the army : but the enemy were already within.
+And this the pigeon carried (ἔφερε, acc.) into the fortress to the Mamedaioi. And those^[§ 75.] within had (εἰμί) extreme fear. And they surrendered (ἐνέδοσαν, acc.) themselves to them, And after five days appeared (ἐφάνη) the tyrant with the army : but the enemy were already within.
 
-1 § 75. $.G.W. \] Ἐ
 
-NOTE AFTER EXERCISE 15.
+## NOTE AFTER EXERCISE 15.
 
 So far we have used none but the A and O Declensions, including not only the Substantives, but the Adjectives and Pronouns which are similarly declined.
 
-We now shall add the Consonant Declensions; 1.6. we shall use all Substantives, Adjectives, and Pronouns, without any restriction: and also Participles, which are similarly declined, though as the Verbs are not yet learnt, the Nominative Singular of the Participle will be given.
+We now shall add the Consonant Declensions; i.e. we shall use all Substantives, Adjectives, and Pronouns, without any restriction: and also Participles, which are similarly declined, though as the Verbs are not yet learnt, the Nominative Singular of the Participle will be given.
 
 As to the Verbs, we shall still only assume knowledge of the parts of εἰμί, to be, given on page 66; and all other verbs required will be given in the Exercises in the part which is wanted.
 
 The learner will thus be familiarised with some of the common terminations before definitely learning the Verbs.
 
+------
+
 In the Vocabulary henceforth we shall give the sfem of the Substantives which belong to the Consonant-declension: so that the student will have no need to look the word out in grammar or dictionary, tf he kners his Declensions.
 
-Thus, supposing he wants the Genitive Singular and Dative Plural of ὄνυξ, he finds in the Vocabulary ὄνυξ (-vy-): this teaches him that the sfem is orvy-, and from that he knows that the Genitive Singular is ὄνυχος, and the Dative Plural ὄνιξι.
+Thus, supposing he wants the Genitive Singular and Dative Plural of ὄνυξ, he finds in the Vocabulary ὄνυξ (-υχ-): this teaches him that the sfem is orvy-, and from that he knows that the Genitive Singular is ὄνυχος, and the Dative Plural ὄνιξι.
 
-Ots.---Unless the contrary is stated, Nouns in -os are masculine, like λόγος : in -α and -», fem.: in -ov, neut. Also Nouns in -ts are feminine.
+*Obs.*---Unless the contrary is stated, Nouns in -ος are masculine, like λόγος : in -α and -η, fem.: in -ον, neut. Also Nouns in -ις are feminine.
 
 ## EXERCISE XVI.
 
@@ -2073,17 +2132,27 @@ Ots.---Unless the contrary is stated, Nouns in -os are masculine, like λόγο�
 
 ### VOCABULARY.
 
-thick, δασύς. for, ἀλώπηξ (-πεκ-), £. tree, δένδρον, dat. pl. δένδρεσι. better, κρείσσων. plant, φυτόν. tail, κέρκος, f. multitude, πλῆθος, τι. ugly, αἰσχρός. honour, τιμή. at the same time, ἅμα. elephant, ἐλεφας (-αντ-), m. laughter, γέλως (-wr-), m. talk, λόγος. applause, ἔπαινος, τη.
+- thick, δασύς.
+- for, ἀλώπηξ (-πεκ-), f.
+- tree, δένδρον, dat. pl. δένδρεσι.
+- better, κρείσσων.
+- plant, φυτόν.
+- tail, κέρκος, f.
+- multitude, πλῆθος, n.
+- ugly, αἰσχρός.
+- honour, τιμή.
+- at the same time, ἅμα.
+- elephant, ἐλεφας (-αντ-), m.
+- laughter, γέλως (-wr-), m.
+- talk, λόγος.
+- applause, ἔπαινος, m.
+- speech, λόγος.
 
-speech, λόγος.
+There was a wood thick with^[§ 37 (d).] all manner of trees and plants, and here was a great multitude of birds and beasts. And no one was in greater honour than (gen.) the elephant. And there was once a gathering of the other beasts, and much talk took place (ἐγένετο) about him. 'What is the cause,' they said (ἔφασαν), 'of the honour of the elephant (dat.)?᾽ And some thought (use ἐδόκει, 'seemed,' with dative of person) one cause and some another.^[§ 22.]
 
-There was a wood thick with! all manner of trees and plants, and here was a great multitude of birds and beasts. And no one was in greater honour than (gen.) the elephant. And there was once a gathering of the other beasts, and much talk took place (ἐγένετο) about him. 'What is the cause,' they said (ἔφασαν), 'of the honour of the elephant (dat.) 1᾽ And some thought (use ἐδόκει, 'seemed,' with dative of person) one cause and some another.?
+And first the speech of the fox was as follows: 'Why^[§ 75.] is this one better than we (are)? Not at all, I suppose (οἶμαι), on account of his tail, for he has (use ἐστί) a very small and ugly one.' And at the same time while speaking (λέγων, particip.) he moved (exivet, acc.) his own long and soft tail. ---
 
-And first the speech of the fox was as follows: 'Why is this one better than we (are)? Not at all, I suppose (οἶμαι), on account of his tail, for he has (use ἐστί) a very small and ugly one.' And at the same time while speaking (λέγων, particip.) he moved (exivet, acc.) his own long and soft tail. ---
-
-'You are right,'\* replied (ἔφασαν) the others, with much laughter and applause.
-
-1 8 37 (d). 2 § 22. 5. ὃ 75. 4 εὖ λέγεις.
+'You are right,'^[§ εὖ λέγεις.] replied (ἔφασαν) the others, with much laughter and applause.
 
 ## EXERCISE XVII.
 
@@ -2091,17 +2160,35 @@ And first the speech of the fox was as follows: 'Why is this one better than we 
 
 ### VOCABULARY.
 
-true, ἀληθής. horn, κέρας (-ρατ-), n. one, ἵτις. of course, t δήπου. reasonably, εἰκότως, last, ὕστατος. claw, ὄνυξ (-vx-) m. ass, ὄνος, mM. inferior, φαῦλος. ignorant, ἀμαθής. beauty, κάλλος. foolish, ἄφρων. ox, βοῦς (Bo-), τα. at least, tye. however, ¢ μέντοι. surely not so, ov δῆτα. tooth, ὀδούς (-δοντ-), τα. glory, κῦδος, τι. out of, ἐκ, g. ear, obs (ὦτ-), n.
+- true, ἀληθής.
+- horn, κέρας (-ρατ-), n.
+- one, † τις.
+- of course, † δήπου.
+- reasonably, εἰκότως.
+- last, ὕστατος.
+- claw, ὄνυξ (-υχ-) m.
+- ass, ὄνος, m.
+- inferior, φαῦλος.
+- ignorant, ἀμαθής.
+- beauty, κάλλος.
+- foolish, ἄφρων.
+- ox, βοῦς (βο-), m.
+- at least, tye.
+- however, † μέντοι.
+- surely not so, οὐ δῆτα.
+- tooth, ὀδούς (-δοντ-), m.
+- glory, κῦδος, n.
+- out of, ἐκ, g.
+- ear, obs (ὠτ-), n.
+- mouth, στόμα, n.
 
-mouth, στόμα, n.
+And after him the bear said (εἶπε) as follows: ' This^[§76. ] is true; but honour comes (γίγνεται) to one reasonably from claws: for without claws, I suppose (που), one is inferior in^[§ 37 (f).] beauty^[§ 10.] : but the elephant^[§ '*To* the elephant has not yet come' (οὔπω γέγονε).] has nothing of that kind (say ' such'): and this is plain to all.'
 
-And after him the bear said (εἶπε) as follows: ' This! is true; but honour comes (γίγνεται) to one reasonably from claws: for without claws, I suppose (που), one is inferior in? beauty? : but the elephant' has nothing of that kind (say ' such'): and this is plain to all.'
+And here the ox struck in (ὑπέλαβε), saying (λέγων) : "I, however, recognise (γιγνώσκω, acc.) the cause : for this one has (use 'to be') two long teeth, projecting (προέχων, -οντ-) out of his mouth: and these seem (δοκοῦσι) to the others to be like horns: and no one of course knows (οἶδέ, acc.) anything^[§ 78.] more beautiful than horns.'
 
-And here the ox struck in (ὑπέλαβε), saying (λέγων) : "1, however, recognise (γιγνώσκω, acc.) the cause : for this one has (use ' to be') two long teeth, projecting (προέχων, -ovr-) out of his mouth: and these seem (δοκοῦσι) to the others to be like horns: and no one of course knows (οἶδέ, acc.) anything® more beautiful than horns.'
+And last the ass said this : ' You are all^[§ 76.] ignorant and foolish : for what honour is there to horns at least and tails?^[§ 10.] Surely not so, but the fine glory is that paid to (say 'is of') ears. The honour therefore has come (γέγονε) to the elephant owing to his ears.'
 
-And last the ass said this : ' You are all! ignorant and foolish : for what honour is there to horns at least and tails?3 Surely not so, but the fine glory is that paid to (say 'is of') ears. The honour therefore has come (γέγονε) to the elephant owing to his ears.'
 
-1 8 76. 5 8 81 (f). 8. 8.10. 4 « To the elephant has not yet come' (οὔπω γέγονε)Ξ. 5 § 78, EXERCISES. ὃς
 
 ## EXERCISE XVIII.
 
@@ -4692,4 +4779,3 @@ not ---, οὕπω, οὐδέπω. young, νέος.
 (of beast), σκύμνοι. youth, veavias.
 
 [^1]: The Greeks also use ' than,' the particle ἤ : and then (as with Latin quam) the case of the second word is not affected. Thus 'he is better than his father,' ἀμείνων ἐστὶν ἤ ὁ πατήρ.
-
