@@ -501,7 +501,7 @@ When the Subject is a Pronoun (this, that, etc.), and the Predicate a Substantiv
 - That was a dire calamity. <br/>ἐκείνη ἦν δεινὴ συμφορά.
 - What is this disease? <br/>τίς ἐστὶν αὕτη ἡ νόσος.
 
-## § 29. Use of ἕκαστος and éxdaTépos,
+## § 29. Use of ἕκαστος and ἐκάτερος.
 
 The Distributive Pronouns ἑκάτερος and ἕκαστος have a special usage which arises from the nature of the word. A Plural Nominative is, so to speak, distributed into its component parts, and thus grammatically ἕκαστος appears in apposition with a plural. And as in Latin suus and quisque have a tendency to be close together, so in Greek ἕκαστος and ἑαυτοῦ. Thus :---
 
