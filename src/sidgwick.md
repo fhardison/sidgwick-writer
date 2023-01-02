@@ -3419,25 +3419,45 @@ A Boeotian once travelling with an Aetolian arrived at an inn: and going in they
 
 ### VOCABULARY.
 
-rear, τρέφω. gain, κτήσασθαι, aor. Iberia, Ἰβηρία. openly, φανερῶς. intelligent, συνετός, revolt, ἀποστῆναι, aor. I. fut, παχύς. defeated (be), ἡσσῶᾶσθαι. drunkenness, μέθη. hang, ἀπάγχω. plan, διανοέομαι. » intr. κρέμαμαι. set on foot, καθίστημι, 1. skin, aokés.
+- rear, τρέφω. 
+- gain, κτήσασθαι, aor. 
+- Iberia, Ἰβηρία. 
+- openly, φανερῶς. 
+- intelligent, συνετός.
+- revolt, ἀποστῆναι, aor. I. 
+- fat, παχύς.  
+- defeated (be), ἡσσῶᾶσθαι. 
+- drunkenness, μέθη. 
+- hang, ἀπάγχω. intr. κρέμαμαι. 
+- plan, διανοέομαι.  
+- set on foot, καθίστημι, I. 
+- skin, ἀσκός.
+- conspiracy, συνωμοσία.
 
-conspiracy, συνωμοσία.
+When Prdbos was ruler of the Romaioi there was a certain soldier Bénosos: and this man, having been reared^[Participles, § 66.] in Iberia, Probos despatched to Germania, and intrusted the ships to him in that quarter^[Article, and say 'thence,' §§ 6, 7.] to prepare. And Bonosos was an intelligent man, but fat in^[§ 36 (d).] his body and given to (turned towards) drunkenness. And at first he was faithful to the ruler as regards the ships: but after a certain time he planned to set on foot a conspiracy, and himself hoped to gain the rule. And having an army at last, he openly revolted. And a general having come against him from Probos, and a battle having taken place, Bonosos was defeated, and, hanging himself with a rope, perished. And the conquerors said, 'Here hangs not a man, but a skin full of wine.'
 
-When Prdbos was ruler of the Romaioi there was a certain soldier Bénosos: and this man, having been reared! in Iberia, Probos despatched to Germania, and intrusted the ships to him in that quarter? to prepare. And Bonosos was an intelligent man, but fat in? his body and given to (turned towards) drunkenness. And at first he was faithful to the ruler as regards the ships: but after a certain time he planned to set on foot a conspiracy, and himself hoped to gain the rule. And having an army at last, he openly revolted. And a general having come against him from Probos, and a battle having taken place, Bonosos was defeated, and, hanging himself with a rope, perished. And the conquerors said, 'Here hangs not a man, but a skin full of wine.'
-
-1 Participles, § 66. 3 Article, and say 'thence,' §§ 6, 7. ὁ. 36 (d). 48 δ.
 
 ## EXERCISE LXIII.
 
-### **Mastros.** ## VOCABULARY.
+### **Mastros.**
 
-book, βιβλίον. charge, ἐφίεσθαι, ἃ. leader, ἡγεμών. let, ἐάω, meat, κρέας, Ἡ. invent, εὑρίσκω. priest, ἱερεύς, m. dress up, ἐνσκευάζω. cook, μάγειρος. old woman, γραῦς.
+### VOCABULARY.
 
-besides, πρός, ἃ.
 
-Mastros was a famous thief, and many things about him have already been told in other books. And once he wished to become leader of the thieves, as being very intelligent, and very clever at deceiving.1 And when he asked this,? they said to him as follows: 'First you must steal the meat out of the house of the priest, and then, having done this, you shall rule us. But this of course was very difficult, as? the cook and the other slaves were guarding; and besides these things, the priest charged the slaves to let no\* one pass into the house. So Mastros invented a very clever device as follows. Having dressed himself up as an old woman, he took a great bag.
+- book, βιβλίον.
+- charge, ἐφίεσθαι, d.
+- leader, ἡγεμών.
+- let, ἐάω.
+- meat, κρέας, n.
+- invent, εὑρίσκω.
+- priest, ἱερεύς, m.
+- dress up, ἐνσκευάζω.
+- cook, μάγειρος.
+- old woman, γραῦς.
+- besides, πρός, d.
 
-1 Infinitive, § 39. 2 Part. § 44. 8 Gen. Abs. § 35 (9). 4 μηδείς, § 77,
+Mastros was a famous thief, and many things about him have already been told in other books. And once he wished to become leader of the thieves, as being very intelligent, and very clever at deceiving.^[Infinitive, § 39.] And when he asked this,^[Part. § 44] they said to him as follows: 'First you must steal the meat out of the house of the priest, and then, having done this, you shall rule us. But this of course was very difficult, as^[Gen. Abs. § 35 (g).] the cook and the other slaves were guarding; and besides these things, the priest charged the slaves to let no^[μηδείς, § 77.] one pass into the house. So Mastros invented a very clever device as follows. Having dressed himself up as an old woman, he took a great bag.
+
 
 ## EXERCISE LXIV.
 
@@ -3445,13 +3465,19 @@ Mastros was a famous thief, and many things about him have already been told in 
 
 ### VOCABULARY.
 
-hare, λαγώς. servants, οἰκέτης. be permitted, ἐξεῖναι, imp. d. to mind, φροντίζω, g. 1 am exhausted, ἀπείρηκα. send, ἀφίημι, I. give thanks, χάριν ἔχω. jump up, ἐκπηδάω. sit down, κάθημαι. go by, παρέρχομαι.
+- hare, λαγώς.
+- servants, οἰκέτης.
+- be permitted, ἐξεῖναι, imp. d.
+- to mind, φροντίζω, g.
+- I am exhausted, ἀπείρηκα.
+- send, ἀφίημι, I.
+- give thanks, χάριν ἔχω.
+- jump up, ἐκπηδάω.
+- sit down, κάθημαι.
+- go by, παρέρχομαι.
 
-And having bought three hares, he put them into the bag, and, having tied it round with a rope, he went to the house, and asked that! it should be permitted him to goin. 'ForlI am a wretchéd old woman,' said he, 'and Iam exhausted with labour.' And the slaves were afraid to allow him, the master having forbidden. But at last, seeing that? it was a woman, and suspecting no danger, he let her go in. And Mastros gave great thanks, and going in, sat down by the door. But while the servants were guarding? the meat as had been told them, and not minding the stranger woman at all, Mastros opening the bag sent one hare through the door. And, jumping up, he shouted with a loud voice, 'Look! a hare
+And having bought three hares, he put them into the bag, and, having tied it round with a rope, he went to the house, and asked that^[Use Infinitive.] it should be permitted him to goin. 'For I am a wretched old woman,' said he, 'and I am exhausted with labour.' And the slaves were afraid to allow him, the master having forbidden. But at last, seeing that^[Use Participle, agreeing with 'woman.'] it was a woman, and suspecting no danger, he let her go in. And Mastros gave great thanks, and going in, sat down by the door. But while the servants were guarding^[§ 44.] the meat as had been told them, and not minding the stranger woman at all, Mastros opening the bag sent one hare through the door. And, jumping up, he shouted with a loud voice, 'Look! a hare went by.'
 
-went by.'
-
-1 Use Infinitive. . 2 Use Participle, agrecing with 'woman.' δ 8 44,
 
 ## EXERCISE LXV.
 
@@ -3459,23 +3485,41 @@ went by.'
 
 ### VOCABULARY.
 
-courtyard, αὐλή. to be eager, ἐφίεσθαι. disobey, ἀπειθέω, ἃ. to hunt, θηρεύω. compel, ἀναγκάζω. stand (endure), ἀνέχομαι, 1. linger, διατρίβω. all together, σύμπαντες. let go, μεθίημι, I. were off, say went off. TUN Away, ἀποτρέχω. snatch up, ἀναρπάζω.
+- courtyard, αὐλή.
+- to be eager, ἐφίεσθαι.
+- disobey, ἀπειθέω, d.
+- to hunt, θηρεύω.
+- compel, ἀναγκάζω.
+- stand (endure), ἀνέχομαι, I.
+- linger, διατρίβω.
+- all together, σύμπαντες.
+- let go, μεθίημι, I.
+- were off, say went off.
+- TUN Away, ἀποτρέχω.
+- snatch up, ἀναρπάζω.
 
-And they, greatly surprised, looked into the courtyard, desiring to pursue, but not at all daring to disobey their master. And some one said, 'How unlucky it is, for on! the other days we can pursue, but we have never seen a hare: but to-day, when we have seen," we are compelled to linger in the house.' And Mastros, after a short time, letting go another hare, shouted again yet louder, showing them the beast running away. And they were still more eager to hunt it, but did not yet dare. And at last, the thief letting go the third hare, then the slaves could stand it no longer, but all together were off out of doors in pursuit.2 And he meanwhile snatching up the meat himself too fled away.
 
-1 Cases, § 37 (a). 2 Participle. 3 § 44.
+And they, greatly surprised, looked into the courtyard, desiring to pursue, but not at all daring to disobey their master. And some one said, 'How unlucky it is, for on^[Cases, § 37 (a).] the other days we can pursue, but we have never seen a hare: but to-day, when we have seen,^[Participle.] we are compelled to linger in the house.' And Mastros, after a short time, letting go another hare, shouted again yet louder, showing them the beast running away. And they were still more eager to hunt it, but did not yet dare. And at last, the thief letting go the third hare, then the slaves could stand it no longer, but all together were off out of doors in pursuit.^[§ 44.] And he meanwhile snatching up the meat himself too fled away.
+
 
 ## EXERCISE LXVI.
 
-### **Kolimos.** ## VOCABULARY.
+### **Kolimos.** 
 
-captain, ναύκληρος. inscribe, ἔγγράφω. go away (sea), ἀπάγεσθαι, 1. shallows, τὰ βραχέα. mutive country, πατρίς, f. (-i6-), stand by, παραστῆναι͵ I. month, μήν (-ἣν-). convenient, ἐπιτήδειος.
+### VOCABULARY.
 
-tablet, δέλτος.
+- captain, ναύκληρος.
+- inscribe, ἔγγράφω.
+- go away (sea), ἀπάγεσθαι, I.
+- shallows, τὰ βραχέα.
+- mutive country, πατρίς, f. (-ίδ-).
+- stand by, παραστῆναι͵ I.
+- month, μήν (-ῆν-).
+- convenient, ἐπιτήδειος.
+- tablet, δέλτος.
 
-There was once a captain by name Kolimos. And this man, having gone away a long voyage from his native country, and having been absent many months, was sailing quietly home through the great sea which is called Atlantikos. And he had a certain tablet in which all the parts! of the sea were inscribed, both islands and rocks and the shallows of the water. And he chanced one day to be sitting in the ship and examining this tablet. And showing a certain island, there written, to one of the sailors who happened to be standing by, ' Behold,' he said, 'this island is not at all convenient for us to approach, for it lies outside the way which? we must sail. Nevertheless I wondrously desire to go there.
 
-1 Article, 8 10. 2 Acc. 8 36 (c). 3 Adv. § 73.
+There was once a captain by name Kolimos. And this man, having gone away a long voyage from his native country, and having been absent many months, was sailing quietly home through the great sea which is called Atlantikos. And he had a certain tablet in which all the parts^[Article, § 10.] of the sea were inscribed, both islands and rocks and the shallows of the water. And he chanced one day to be sitting in the ship and examining this tablet. And showing a certain island, there written, to one of the sailors who happened to be standing by, ' Behold,' he said, 'this island is not at all convenient for us to approach, for it lies outside the way which^[Acc. § 36 (c).] we must sail. Nevertheless I wondrously desire to go there.^[Adv. § 73.]
 
 ## EXERCISE LXVII.
 
@@ -3483,27 +3527,47 @@ There was once a captain by name Kolimos. And this man, having gone away a long 
 
 ### VOCABULARY.
 
-to be possessed, κατέχομαι, 1. harbour, λιμήν. hasten, σπεύδω. stick fast, use ἐνίστημι, 1. forgive, συγγιγνώσκω, 1. ἃ. wave, κῦμα, γι. once, ἅπαξ. mast, ἱστός, Τὰ. for the fourth time, τὸ τέταρτον. scarcely, μόλις. on the far side, ἐν τῷ ἐπέκεινα, g. four times, τετράκις.
+- to be possessed, κατέχομαι, I.
+- harbour, λιμήν.
+- hasten, σπεύδω.
+- stick fast, use ἐνίστημι, I.
+- forgive, συγγιγνώσκω, I. d.
+- wave, κῦμα, n.
+- once, ἅπαξ.
+- mast, ἱστός, m.
+- for the fourth time, τὸ τέταρτον.
+- scarcely, μόλις.
+- on the far side, ἐν τῷ ἐπέκεινα, g.
+- four times, τετράκις.
 
--
 
-And the sailor asked, ' Why are you possessed with so great a desire? for the people at home! earnestly requested us to hasten home as quickly as possible.' And he answered, 'I will confess everything to you: for perhaps I shall seem to you to be a fool, but you will forgive me, I think, when you have heard all. For about this island I have seen a most dreadful dream, and that not once only, but last night? for the fourth time. And I saw something like this. On the far side of the island there is a harbour, and there are rocks projecting out of the water. And on the rocks there is a ship stuck fast, and being destroyed by the waves. And \_there, tied to a mast, and scarcely projecting with his head out of the sea, a certain miserable slave is perishing. And this having seen four times, I am in a dreadful state.'
+And the sailor asked, 'Why are you possessed with so great a desire? for the people at home^['From' for 'at.'] earnestly requested us to hasten home as quickly as possible.' And he answered, 'I will confess everything to you: for perhaps I shall seem to you to be a fool, but you will forgive me, I think, when you have heard all. For about this island I have seen a most dreadful dream, and that not once only, but last night^['This night,' § 35 (f),] for the fourth time. And I saw something like this. On the far side of the island there is a harbour, and there are rocks projecting out of the water. And on the rocks there is a ship stuck fast, and being destroyed by the waves. And there, tied to a mast, and scarcely projecting with his head out of the sea, a certain miserable slave is perishing. And this having seen four times, I am in a dreadful state.'
 
-1 4 From ' for 'at.' 2 * This night,' 8 35 (/).
-
-## EXERCISE LXVIT/TI.
+## EXERCISE LXVIII.
 
 ### **Kolimos---continued.**
 
 ### VOCABULARY.
 
-thunderstruck, ἐπλαγῆναι, I. upon, ἐπί, g. rision, ὄψις, f. form, ἰδέα, f. be beside one's-self, use ἐξ: beach, αἰγιαλός, τη.
+- thunderstruck, ἐπλαγῆναι, I.
+- upon, ἐπί, g.
+- rision, ὄψις, f.
+- form, ἰδέα, f.
+- be beside one's-self, use ἐξ-ίστημι, I.
+- beach, αἰγιαλός, m.
+- fixed on, ἐμπεπηγώς.
+- endure, ἀνέχομαι, I.
+- put in, σχεῖν, I.
+- turn aside, ἀποστρέφω.
+- go on board, ἐμβαίνω, ἐσβαίνω, I.
+- bear down, φέρεσθαι, I.
+- wreck, νανάγιον.
+- straight, εὐθύ.
+- recover, ἀναπνέω, I.
 
-ίστημι, 1. fixed on, ἐμπεπηγώς. endure, ἀνέχομαι, I. put in, σχεῖν, 1. turn aside, ἀποστρέφω. go on board, ἐμβαίνω, ἐσβαίνω,\]. bear down, φέρεσθαι, I. wreck, νανάγιον. straight, εὐθύ. recover, ἀναπνέω, I.-
 
-And the sailor hearing it was thunderstruck, himself too as though by a vision being beside himself, and at a loss, owing to the terrible thing. And at last they no longer endured, but turning aside the ship from its voyage bore straight down upon the island. And Kolimos having arrived recognised the form of the beach, as the same with! that which he saw in the dream. And having sailed to the far side they found both the other things and the harbour as the captain had explained.2 And not far from the land rocks were standing out of the water, on which a ship was fixed? and being destroyed by the sea. And putting in to these and going on board the wreck, they found the slave all but dead. And being untied, for he was bound,' and having recovered a little, he spoke as follows :
+And the sailor hearing it was thunderstruck, himself too as though by a vision being beside himself, and at a loss, owing to the terrible thing. And at last they no longer endured, but turning aside the ship from its voyage bore straight down upon the island. And Kolimos having arrived recognised the form of the beach, as the same with^[§ 37 (g).] that which he saw in the dream. And having sailed to the far side they found both the other things and the harbour as the captain had explained.^[Tenses, § 57.] And not far from the land rocks were standing out of the water, on which a ship was fixed^[§ 64.] and being destroyed by the sea. And putting in to these and going on board the wreck, they found the slave all but dead. And being untied, for he was bound,' and having recovered a little, he spoke as follows:
 
-1 8 37 (0). 2 Tenses, § 57. 3 § 64.
 
 ## EXERCISE LXIX.
 
@@ -3511,13 +3575,22 @@ And the sailor hearing it was thunderstruck, himself too as though by a vision b
 
 ### VOCABULARY.
 
-pirate, λῃστής. curse (vb.), erapac Oar plunder, ληΐζεσθαι. get drunk, μεθύω. speak against, ἀντιλέγω. at daybreak, ἅμα ἕῳ. without knowing uw, use λαν- firmly, ἐμπέδως.
+- pirate, λῃστής.
+- curse (vb.), ἐπαρᾶσθαι.
+- plunder, ληΐζεσθαι.
+- get drunk, μεθύω.
+- speak against, ἀντιλέγω.
+- at daybreak, ἅμα ἕῳ.
+- without knowing it, use λανθάνω, 1.
+- firmly, ἐμπέδως.
+- boat, λέμβος.
+- sail close, προσπλέω, I.
+- get safe, σωθῆναι.
+- storm, χειμών, m.
+- grind, τρίβω.
 
-θάνω, 1. boat, λέμβος. sail close, προσπλέω, I. get safe, σωθῆναι. storm, χειμών, τη. grind, τρίβω.
+'Three days ago (before) we were sailing towards this island. And the captain, a violent^[§ 52.] man and a pirate, had a mind to put in there and attack the islanders secretly, and plunder everything. But as I alone spoke against it, they all got angry, and having taken and bound me thus, intended to put me to death by hunger. But in the night, being near to the harbour, without knowing it! they sailed close to these rocks and made shipwreck. And there being a storm they remained all night, fearing and cursing, and some even got drunk. And at daybreak, the ship being firmly stuck, they went on board the boat, and tried to get safe to land. But the boat being ground against the rocks, they all at once perished.
 
-'Three days ago (before) we were sailing towards this island. And the captain, a violent! man and a pirate, had a mind to put in there and attack the islanders secretly, and plunder everything. But as I alone spoke against it, they all got angry, and having taken and bound me thus, intended to put me to death by hunger. But in the night, being near to the harbour, without knowing it! they sailed close to these rocks and made shipwreck. And there being a storm they remained all night, fearing and cursing, and some even got drunk. And at daybreak, the ship being firmly stuck, they went on board the boat, and tried to get safe to land. But the boat being ground against the rocks, they all at once perished.
-
-ον 1 8 52,
 
 ## EXERCISE LXX.
 
@@ -3525,13 +3598,24 @@ pirate, λῃστής. curse (vb.), erapac Oar plunder, ληΐζεσθαι. get 
 
 ### VOCABULARY.
 
-deserve, ἄξιος εἶναι. forwards, ἐς τὸ πρόσθε. rescue, σωτηρία. disappoint, ἐξαπατάω. little by little, κατὰ μικρόν. cry out, Bodw. sink, καταδύομαι, 1. rise Up, ἀναστῆναι, clear, ἐμφανής. noble, γενναῖος. sail along, παραπλέω. awake, ἐγερθῆναι. rescue, ἐκσ ώξω. cry, βόη.
+- deserve, ἄξιος εἶναι.
+- forwards, ἐς τὸ πρόσθε.
+- rescue, σωτηρία.
+- disappoint, ἐξαπατάω.
+- little by little, κατὰ μικρόν.
+- cry out, βοάω.
+- sink, καταδύομαι, I.
+- rise up, ἀναστῆναι.
+- clear, ἐμφανής.
+- noble, γενναῖος.
+- sail along, παραπλέω.
+- awake, ἐγερθῆναι.
+- rescue, ἐκσ ώξω.
+- cry, βόη.
+- speed away, φέρεσθαι, I.
 
-speed away, φέρεσθαι, I.
+'And these men having perished thus miserably, as they deserved, I gave thanks to the God, but about myself I hoped nothing more, nor did there appear any rescue. But the ship, little by little, was constantly sinking into the sea. And then a wonderful thing happened. For though it was day,^[Participle, § 50.] I saw a vision clearer than all my former ones.^[§ 6.] For | saw a ship sailing along as though towards Anglia, and 1 expected them to come up and rescue me. But they, neglecting me, sped away forwards. And I, being disappointed, cried out loudly. And hearing my voice there rose up ἃ noble old man and turned the ship out of its voyage, and they arrived and saved me. And I awoke, and heard a cry, and opening my eyes saw the same old man coming up to me with you.' "
 
-'And these men having perished thus miserably, as they deserved, I gave thanks to the God, but about myself I hoped nothing more, nor did there appear any rescue. But the ship, little by little, was constantly sinking into the sea. And then a wonderful thing happened. For though it was day,! I saw a vision clearer than all my former ones.? For | saw a ship sailing along as though towards Anglia, and 1 expected them to come up and rescue me. But they, neglecting me, sped away forwards. And I, being disappointed, cried out loudly. And hearing my voice there rose up ἃ noble old man and turned the ship out of its voyage, and they arrived and saved me. And I awoke, and heard a cry, and opening my eyes saw the same old man coming up to me with you.' "
-
-1 Participle, 8 50. 2 8 6.
 
 ## EXERCISE LXXI.
 
@@ -3539,61 +3623,88 @@ speed away, φέρεσθαι, I.
 
 ### VOCABULARY.
 
-love, φιλέω. wake up, ἐξεγείρω. Indian, "Ivdos. slently, σιγῇ. ma dream, ὄναρ. slay, ἀποκτείνω. disturb, ταράσσω. wait, μένω.
+- love, φιλέω.
+- wake up, ἐξεγείρω.
+- Indian, Ἴνδος.
+- slently, σιγῇ.
+- ma dream, ὄναρ.
+- slay, ἀποκτείνω.
+- disturb, ταράσσω.
+- wait, μένω.
+- what ts the matter? τί πάσχει;
 
-what ts the matter? τί πάσχει ;
 
-Now about dreams, both already have such things been told, and other things we have to tell not less wonderful. For there was a man named Sakés who had a brother whom he loved very much. And this man was abroad among the Indians, in a place where many barbarians were, and most hostile. And once sleeping in the night in summer-time,! he saw in a dream Sakes, appearing in his face to be much disturbed, and when he asked him what was (is) the matter, the other answered as follows: 'Wake up, O dearest one, silently, and take your sword, and hide yourself behind the door : for two barbarians are coming to slay? you.' And he heard, and rose up, and was in great fear, but taking his sword as was told? him, and hiding himself, he waited.
+Now about dreams, both already have such things been told, and other things we have to tell not less wonderful. For there was a man named Sakés who had a brother whom he loved very much. And this man was abroad among the Indians, in a place where many barbarians were, and most hostile. And once sleeping in the night in summer-time,^['It being summer,' § 35 (g).] he saw in a dream Sakes, appearing in his face to be much disturbed, and when he asked him what was (is) the matter, the other answered as follows: 'Wake up, O dearest one, silently, and take your sword, and hide yourself behind the door : for two barbarians are coming to slay^[Future Participle.] you.' And he heard, and rose up, and was in great fear, but taking his sword as was told^[Tense, § 64.] him, and hiding himself, he waited.
 
-1 Τὺ being summer,' ὃ 35 (9). 2 Future Participle. 3 Tense, § 64.
 
-## EXERCISE LXXITI.
+## EXERCISE LXXII.
 
 ### **Sakes' Dream---continued.**
 
 ### VOCABULARY.
 
-One, ὃ μέν. ες take away, ἀποφέρω, I. goods, χρήματα, deep, βαθύς. surprise, καταλαβεῖν, 1. stoop, παρακύπτω. touch, θιγγάνω, g. 1. drop, μεθίημι, I. smite, πατάσσω. avail one's-self of, χρῶμαι, ἃ. spoil, λεία. opportunity, καιρός. comrade, ἑταῖρος. come to aid, βοηθέω. lift up, ἀναίρω. convey, κομίζω.
 
-And not long after came two barbarians, and one opening the door, went up to the bed to kill! him. But the other, remaining below, proceeded? to steal the goods. And he who was hidden, surprising the barbarian while touching the bed, and smiting him secretly, killed him. And meanwhile he perceived the other one coming up with the spoil. And as he came in, he bade him, as though being his comrade, to lift up the dead man and take him away outside. And he suspecting nothing, the darkness being deep, stooped as though to take! the corpse, at the same time dropping his spoil, And he, availing himself of the opportunity, struck this man also with the sword, and killed him. And then he called his slaves with a loud voice, who, coming to his aid, conveyed outside the barbarians who were dead.
+- One, ὁ μέν.
+- take away, ἀποφέρω, I.
+- goods, χρήματα.
+- deep, βαθύς.
+- surprise, καταλαβεῖν, I.
+- stoop, παρακύπτω.
+- touch, θιγγάνω, g. I.
+- drop, μεθίημι, I.
+- smite, πατάσσω.
+- avail one's-self of, χρῶμαι, d.
+- spoil, λεία.
+- opportunity, καιρός.
+- comrade, ἑταῖρος.
+- come to aid, βοηθέω.
+- lift up, ἀναίρω.
+- convey, κομίζω.
 
-1 8 48, 8 59.
+And not long after came two barbarians, and one opening the door, went up to the bed to kill^[§ 48.] him. But the other, remaining below, proceeded^[§ 59.] to steal the goods. And he who was hidden, surprising the barbarian while touching the bed, and smiting him secretly, killed him. And meanwhile he perceived the other one coming up with the spoil. And as he came in, he bade him, as though being his comrade, to lift up the dead man and take him away outside. And he suspecting nothing, the darkness being deep, stooped as though to take! the corpse, at the same time dropping his spoil, And he, availing himself of the opportunity, struck this man also with the sword, and killed him. And then he called his slaves with a loud voice, who, coming to his aid, conveyed outside the barbarians who were dead.
 
-EXERCISE LXXTITTI,
 
-Sakes' Dream---continued.
+## EXERCISE LXXIII,
+
+### **Sakes' Dream---continued.**
 
 ### VOCABULARY.
 
-perplexity, ἀπορία. so far off, use διὰ τοσούτου to be accustomed, εἰωθέναι. and ἀπεῖναι.
+- perplexity, ἀπορία.
+- so far off, use διὰ τοσούτου and ἀπεῖναι.
+- to be accustomed, εἰωθέναι.
+- to murder, ἀποκτείνω, I.
+- to move, κινέομαι.
+- to be wont, φιλέω.
+- in reality, τῷ ὄντι.
+- to calculate, λογίζομαι.
+- to happen, γίγνομαι, I.
+- each (of two), ἑκάτερος.
+- to rest, κεκοιμῆσθαι.
+- with, παρά, d.
 
-to murder, ἀποκτείνω, 1. to move, κινέομαι.
+And after many days he received from his brother a letter as follows: 'O dearest one, to-day I saw a dream about you, very wonderful, on account of which I am in much fear and perplexity. For it was midday,^[§ 38 (g).] and sleeping, 'as I am accustomed in summer-time,^[§ 38 (g).] I saw you very plainly resting in a bed. And it was night with you (which in reality happens to those who^[§ 5.] are so far off), and I saw two barbarians coming to your house, and I heard them conversing (and saying) that they were intending (are intending) to murder you and plunder the things in the house. And fearing, I tried to wake you up out of sleep: but I could not move at all, as is wont to happen to one sleeping. And from fear and distress, with a loud shout^[§ 45.] I called you: and immediately I woke up, and knew that in reality I was shouting.'^[§ 51.] And by calculating he found that to each man his own dream appeared at the same time.
 
-to be wont, φιλέω.
-
-in reality, τῷ ὄντι. to calculate, λογίζομαι. to happen, γίγνομαι, 1. - each (of two), ἑκάτερος.
-
-to rest, κεκοιμῆσθαι. with, παρά, d.
-
-And after many days he received from his brother a letter as follows: 'O dearest one, to-day I saw a dream about you, very wonderful, on account of which I am in much fear and perplexity. For it was midday,! and sleeping, 'as I am accustomed in summer-time,! I saw you very plainly resting in a bed. And it was night with you (which in reality happens to those who? are so far off), and I saw two barbarians coming to your house, and I heard them conversing (and saying) that they were intending (are intending) to murder you and plunder the things in the house. And fearing, I tried to wake you up out of sleep: but I could not move at all, as is wont to happen to one sleeping. And from fear and distress, with a loud shout? I called you: and immediately I woke up, and knew that in reality I was shouting.'\* And by calculating he found that to each man his own dream appeared at the same time.
-
-1 § 38 (g). 3. 8 δ. 5.8 45. 4 8 δ1, S.G.W. \] K
-
-## EXERCISE LXXTV.
+## EXERCISE LXXIV.
 
 ### **The Executioner.**
 
 ### VOCABULARY.
 
-officer, ὑπηρέτης. blow, πληγή. assembly, ἐκκλησία. prisoner, ὁ δεδεμένος. office, τιμή. salt, ἅλς, £. contest, ἀγών (-Ov-). put (to), προσθεῖναι, ἃ. I. by way of, ἐπί, ἃ. Sneeze, πταρμός.
+- officer, ὑπηρέτης.
+- blow, πληγή.
+- assembly, ἐκκλησία.
+- prisoner, ὁ δεδεμένος.
+- office, τιμή.
+- salt, ἅλς, f.
+- contest, ἀγών (-ῶν-).
+- put (to), προσθεῖναι, I.
+- by way of, ἐπί, d.
+- sneeze, πταρμός.
+- competitor, use ἀγωνίζεσθαι.
 
-competitor, use ἀγωνίζεσθαι.
+When Conos was once king of the Indians, the officer died who used^[Tenses § 59.] to kill those condemned to death.^[g.] And, wishing to choose another, Conos called an assembly, and ordered those who wished to have the office of the officer to be present. And there were present three, prepared^[§ 66.] as for the contest, so that they brought out three of the condemned, whom it was necessary to kill, by way of trial. And the first of the competitors cut off the head of the man with one blow. And the second not only cut it off with one blow, but, cutting very skilfully, did not even throw it down from his shoulders. And the third shook his sword for a little, but stopped, not even seeming to have touched^[Aorist.] the prisoner. And Conos asking, 'When then will you kill him?' he ordered them to put salt to the nose of the man, and, a sneeze occurring, the head fell off. The king therefore, much. pleased, chose this man.
 
-When Conos was once king of the Indians, the officer died who used! to kill those condemned to death.? And, wishing to choose another, Conos called an assembly, and ordered those who wished to have the office of the officer to be present. And there were present three, prepared® as for the contest, so that they brought out three of the condemned, whom it was necessary to kill, by way of trial. And the first of the competitors cut off the head of the man with one blow. And the second not only cut it off with one blow, but, cutting very skilfully, did not even throw it down from his shoulders. And the third shook his sword for a little, but stopped, not even seeming to have touched' the prisoner. And Conos asking, 'When then will you kill him?' he ordered them to put salt to the nose of the man, and, a sneeze occurring, the head fell off. The king therefore, much. pleased, chose this
-
-man.
-
-Tenses, § 59. 29. 8 8. 66. 4 Aorist.
 
 ## EXERCISE LXXV.
 
@@ -3601,13 +3712,20 @@ Tenses, § 59. 29. 8 8. 66. 4 Aorist.
 
 ### VOCABULARY.
 
-venture, τολμάω. punish, κολάζω, jest, σκώπτω. advise, συμβουλεύω. insult, ὑβρίζω. bear, ἀνέχομαι. easy-tempered, ῥάθυμος. indifference, ῥᾳθυμία. care, φροντίζω. Sor the future, τὸ λοιπὸν.
+- venture, τολμάω.
+- punish, κολάζω.
+- jest, σκώπτω.
+- advise, συμβουλεύω.
+- insult, ὑβρίζω.
+- bear, ἀνέχομαι.
+- easy-tempered, ῥάθυμος.
+- indifference, ῥᾳθυμία.
+- care, φροντίζω.
+- Sor the future, τὸ λοιπὸν.
+- rebuke, ἐπιτιμάω, d.
 
-rebuke, ἐπιτιμάω, ἃ.
+There was once a certain Mémos, king of the Oneioi, whom the citizens much despised, and often when the king himself was present they ventured to jest and insult him. And he, being easy-tempered, did not care at all nor rebuke them. And a certain woman of the place,^['Of those there,' §6.] having been disgracefully insulted, wished to go to the king and get^[§ 44 (1).] assistance, and punish the man who had insulted her. But her father advised her as follows. 'Ask nothing,' said he, 'from him at least, for he who does not assist himself when insulted, how shall such a one assist another?' But, nevertheless, she went and said^[§ 44.] as follows: 'King! I do not ask for any aid, but I wish to learn from you how, being insulted, I shall bear it with such indifference.' And he, being vexed, not only assisted her, but for the future punished those who insulted him.
 
-There was once a certain Mémos, king of the Oneioi, whom the citizens much despised, and often when the king himself was present they ventured to jest and insult him. And he, being easy-tempered, did not care at all nor rebuke them. And a certain woman of the place,! having been disgracefully insulted, wished to go to the king and get? assistance, and punish the man who had insulted her. But her father advised her as follows. 'Ask nothing,' said he, 'from him at least, for he who does not assist himself when insulted, how shall such a one assist another?' But, nevertheless, she went and said? as follows: 'King! I do not ask for any aid, but I wish to learn from you how, being insulted, I shall bear it with such indifference.' And he, being vexed, not only assisted her, but for the future punished those who insulted him.
-
-1 0 those there,' § 6. 2 § 44 (1).
 
 ## EXERCISE LXXVI.
 
@@ -3615,41 +3733,55 @@ There was once a certain Mémos, king of the Oneioi, whom the citizens much desp
 
 ### VOCABULARY.
 
-poet, ποιητής. conqueror, ὃ νικήσας. claim, ἀξιόω. elder, γεραίτερος. write poetry, ποιεῖν. dune (sense). recile, λέγω. withvut, use οὐδέν.
 
-poem, ποίημα, D.
+- poet, ποιητής.
+- conqueror, ὁ νικήσας.
+- claim, ἀξιόω.
+- elder, γεραίτερος.
+- write poetry, ποιεῖν.
+- done (sense).
+- recile, λέγω.
+- withvut, use οὐδέν.
+- poem, ποίημα, D.
 
-Another time two poets came to Momos, asking him to decide a contest. And he said, 'I am willing to do all things which I can so as to help you." And when he had said this, they explained to him the matter. For the contest was about their art, each claiming to be able to write poetry more skilfully. And he said, 'Each of you then recite a poem in the presence of all, and when we have heard we will decide which seems to be better in the! art. And we will give much gold to the conqueror.' Then both, being pleased, praised him.? And silence being made, the elder recited his poem. And when he had done, immediately without waiting the king decided that the other was (is) victorious.
+Another time two poets came to Momos, asking him to decide a contest. And he said, 'I am willing to do all things which I can so as to help you." And when he had said this, they explained to him the matter. For the contest was about their art, each claiming to be able to write poetry more skilfully. And he said, 'Each of you then recite a poem in the presence of all, and when we have heard we will decide which seems to be better in the^[§ 36 (d).] art. And we will give much gold to the conqueror.' Then both, being pleased, praised him.^[Dual.] And silence being made, the elder recited his poem. And when he had done, immediately without waiting the king decided that the other was (is) victorious.
 
-1 8 36 (cd).? Dual.
 
-## EXERCISE LXXVTI.
+## EXERCISE LXXVII.
 
 ### **Momos in Disguise.**
 
 ### VOCABULARY.
 
-hospitable, φιλόξενος, aid, βοηθέω, d. tanner, βυρσοδέψης. imitate, μιμέομαι, a.
+- hospitable, φιλόξενος,
+- aid, βοηθέω, d.
+- tanner, βυρσοδέψης.
+- imitate, μιμέομαι, a.
+- save only, πλὴν εἰ μὴ.
 
-save only, πλὴν εἰ μὴ.
+Another time Momos wishing to know about his subjects, what kind of people they are, and how they feel^[Use ἔχω] towards him, having dressed himself up as a dealer, used to go through the city by night. And the citizens, being hospitable, everywhere received him gladly. And he heard many things, said without fear about himself; and once he came to the house of a tanner, who was punishing his wife with blows and abuse for disobedience.^[Use Participle, 'having been disobedient,' § 66.] And she cried out, 'But I have done nothing at all, save only I went out to see^[§ 48.] the soldiers. But this stranger will aid me, for it is not customary here to punish women so cruelly. Will you not then^[Interrogations, § 74.] imitate the king, who lets his own wife go free to do all that she wishes ?᾽
 
-Another time Momos wishing to know about his subjects, what kind of people they are, and how they feel! towards him, having dressed himself up as a dealer, used to go through the city by night. And the citizens, being hospitable, everywhere received him gladly. And he heard many things, said without fear about himself; and once he came to the house of a tanner, who was punishing his wife with blows and abuse for disobedience.2 And she cried out, 'But I have done nothing at all, save only I went out to see' the soldiers. But this stranger will aid me, for it is not customary here to punish women so cruelly. Will you not then\* imitate the king, who lets his own wife go free to do all that she wishes Τ᾽
 
-1 Use ἔχω. 2 Use Participle, ' having been disobedient,' § 66. 3 § 48. 4 Interrogations, § 74.
-
-## EXERCISE LXXVITII.
+## EXERCISE LXXVIII.
 
 ### **Momos in Disguise---continued.**
 
 ### VOCABULARY.
 
-beat, τύπτω. to be laid down, τεθεῖσθαι, call to witness, μαρτύρομαι, κεῖσθαι. manage, διοικέω. negligence, ῥᾳθυμία. cease, παύεσθαι. relax hold on, μεθίεσθαι, g. I. govern, ἄρχω, g. government, ἀρχή.
 
-orderly, εὔκοσμος.
+- beat, τύπτω.
+- to be laid down, τεθεῖσθαι, κεῖσθαι.
+- call to witness, μαρτύρομαι.
+- manage, διοικέω.
+- negligence, ῥᾳθυμία.
+- cease, παύεσθαι.
+- relax hold on, μεθίεσθαι, g. I.
+- govern, ἄρχω, g.
+- government, ἀρχή.
+- orderly, εὔκοσμος.
 
-But the husband did not stop beating? his wife, but called the stranger to witness, saying as follows: 'Stranger, I don't know where you come? from, but this you must learn from us, how much trouble the king gives to his subjects by managing his own house foolishly.' But the woman, not yet having ceased from her noise, said, 'But he does not indeed govern us badly, for everybody everywhere praises our city, that we are orderly and carefully preserve laws well laid down.' 'That is true,' said the man, 'and the city is worthy to be thus praised : but of this not the king is the cause, from negligence relaxing his hold on the government, but we who punish our wives.'
+But the husband did not stop beating^[§ 43.] his wife, but called the stranger to witness, saying as follows: 'Stranger, I don't know where you come^['Are.'] from, but this you must learn from us, how much trouble the king gives to his subjects by managing his own house foolishly.' But the woman, not yet having ceased from her noise, said, 'But he does not indeed govern us badly, for everybody everywhere praises our city, that we are orderly and carefully preserve laws well laid down.' 'That is true,' said the man, 'and the city is worthy to be thus praised : but of this not the king is the cause, from negligence relaxing his hold on the government, but we who punish our wives.'
 
-1 § 43. 2 * Are,'
 
 ## EXERCISE LXXIX.
 
@@ -3657,17 +3789,19 @@ But the husband did not stop beating? his wife, but called the stranger to witne
 
 ### VOCABULARY.
 
-nobody particular, οὐ περισσός τις. heal, ἰᾶσθαι.
+- nobody particular, οὐ περισσός τις.
+- heal, ἰᾶσθαι.
+- impudence, ἀναίδεια.
+- succeed, κατορθόω.
+- be superior, διαφέρω, g.
+- unsuccessful, ἄπρακτος.
+- persuade, ἀναπείθω.
+- back, use adv. ὄπισθε.
+- good-natured, ἐπιεικής, (subst.) επιεικεια.
+- cup, ποτήριον, n.
 
-impudence, ἀναίδεια. succeed, κατορθόω. be superior, διαφέρω, g. unsuccessful, ἄπρακτος. persuade, ἀναπείθω. back, use adv. ὄπισθε.
+Pompos was a thief, who was nobody particular in wisdom, but in impudence was superior to all mankind. For many men having tried to persuade this man to steal no^[§ 77.] longer, at last a certain Phaléros, a physician, a very good-natured man, received him into his house as a servant, knowing indeed that he^['Him being,' § 51.] was dishonest and always stealing, but hoping by good nature and justice to heal him. 'For often,' he said, 'a man succeeds by such means, when other people are unsuccessful.' And for a long time Pompos proved a good servant: but one day a friend happened to be coming in to Phaleros, and he saw Pompos running away through a back door having a golden cup. And being captured and brought to his master, he said, 'But I was taking it to the river that I might^[Subj. and Opt. of purpose, § 70.] wash it!'
 
-good-natured, ἐπιεικής, (subst.) cup, ποτήριον, n.
-
-> , επιεικεια,
-
-Pompos was a thief, who was nobody particular in wisdom, but in impudence was superior to all mankind. For many men having tried to persuade this man to steal no! longer, at last a certain Phaléros, a physician, a very good-natured man, received him into his house as a servant, knowing indeed that he? was dishonest and always stealing, but hoping by good nature and justice to heal him. 'For often,' he said, 'a man succeeds by such means, when other people are unsuccessful.' And for a long time Pompos proved a good servant: but one day a friend happened to be coming in to Phaleros, and he saw Pompos running away through a back door having a golden cup. And being captured and brought to his master, he said, 'But I was taking it to the river that I might? wash it!'
-
-1 § 71. 3 'Him being,' § 51. 3 Subj. and Opt. of purpose, § 70.
 
 ## EXERCISE LXXX.
 
@@ -3675,15 +3809,22 @@ Pompos was a thief, who was nobody particular in wisdom, but in impudence was su
 
 ### VOCABULARY.
 
-be hungry, πεινάω. take off, ὑπολίομαι. walk, πορεύομαι. nice, απουδαῖος, beggar, πτωχός. give a share, μεταδοῦναι, g. MEANS, μηχανή. grateful, χάριν ἔχειν. lume, χωλός. lie down to rest, κοιμάομαι. having bound beneath one, vrode-snore, ῥέγκω.
+- be hungry, πεινάω.
+- take off, ὑπολίομαι.
+- walk, πορεύομαι.
+- nice, απουδαῖος.
+- beggar, πτωχός.
+- give a share, μεταδοῦναι, g.
+- means, μηχανή.
+- grateful, χάριν ἔχειν.
+- lume, χωλός.
+- lie down to rest, κοιμάομαι.
+- having bound beneath one, ὑποδεδεμόνος, acc.
+- purse, βαλάντιον.
+- wooden, ξύλινος.
 
-δεμένος, acc. purse, βαλάντιον.
+Another time Pompos being very hungry was walking along the road^[Art. § 7.] towards Corinth. And seeing a beggar sitting under a tree by the wayside, and eating some inferior food, he had a mind to get it by some means and run away. And the beggar being lame^[Tenses, § 59.] used to travel with a wooden leg fastened on \[having bound beneath him a wooden leg\]. And then he was resting, having taken this off. And his dinner, which was nothing very nice, he was eating quietly. And he having greeted Pompos, and given him:a share of the food^[Attraction of Relative, § 27.] which he had, he was very much pleased and was grateful for^[Gen. § 35 (e).] his friendliness and good nature. And at last, having eaten and drunk, they lay down to rest: and while the beggar was snoring, Pompos getting up, and taking his purse and his leg, ran away.
 
-wooden, ξύλινος,
-
-Another time Pompos being very hungry was walking along the road! towards Corinth. And seeing a beggar sitting under a tree by the wayside, and eating some inferior food, he had a mind to get it by some means and run away. And the beggar being lame? used to travel with a wooden leg fastened on \[having bound beneath him a wooden leg\]. And then he was resting, having taken this off. And his dinner, which was nothing very nice, he was eating quietly. And he having greeted Pompos, and given him:a share of the food' which he had, he was very much pleased and was grateful for' his friendliness and good nature. And at last, having eaten and drunk, they lay down to rest: and while the beggar was snoring, Pompos getting up, and taking his purse and his leg, ran away.
-
-1 Art. § 7. 2 Tenses, § 59. * Attraction of Relative, § 27. 4 Gen. § 35 (e).
 
 ## EXERCISE LXXXI.
 

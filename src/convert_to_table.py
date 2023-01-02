@@ -21,6 +21,7 @@ for x in text:
 
 
 data = '\n'.join(out)
+pyperclip.copy(data)
 
 if len(sys.argv) > 2:
     ofile = Path(sys.argv[2])
