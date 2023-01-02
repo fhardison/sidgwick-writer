@@ -3826,33 +3826,27 @@ Pompos was a thief, who was nobody particular in wisdom, but in impudence was su
 Another time Pompos being very hungry was walking along the road^[Art. § 7.] towards Corinth. And seeing a beggar sitting under a tree by the wayside, and eating some inferior food, he had a mind to get it by some means and run away. And the beggar being lame^[Tenses, § 59.] used to travel with a wooden leg fastened on \[having bound beneath him a wooden leg\]. And then he was resting, having taken this off. And his dinner, which was nothing very nice, he was eating quietly. And he having greeted Pompos, and given him:a share of the food^[Attraction of Relative, § 27.] which he had, he was very much pleased and was grateful for^[Gen. § 35 (e).] his friendliness and good nature. And at last, having eaten and drunk, they lay down to rest: and while the beggar was snoring, Pompos getting up, and taking his purse and his leg, ran away.
 
 
+
 ## EXERCISE LXXXI.
 
 ### **Legioi.**
 
 ### VOCABULARY.
 
-wine, οἶνος, m. abstain, dréxopmat, g.
+- wine, οἶνος, m.
+- abstain, ἀπέχομαι, g.
+- taste, γεύομαι, g.
+- impious, ἀσεβής.
+- however little, ὁποσονοῦν.
+- be weak, ἀσθενέω.
+- meeting, σύνοδας, f.
+- old, use γεγονώς.
+- assemble, act. συλλέγω, intr. συνελθεῖν.
+- orator, ῥήτωρ.
+- seventy, ἑβδομήκοντα.
 
-taste, γεύομαι, g.
+In the Island of the Keltai there is a race of men called^[Nom Pl. agreeing with Ληγίοι.] Légioi. These, in other things, are like the rest of the citizens, but wine they never taste, thinking it impious to drink, even however little. And they have meetings, where assembled they speak many words, praising much the man who abstains from wine, as the best of men. And these being once assembled in such a meeting, a certain Légios, an orator, was explaining how those who drink no^[Negatives, § 77.] wine are always well in their body, nor are they weak with any disease. And a man standing up, not^[Participles omitted, § 52.] a Legios, said as follows: 'I have drunk4 wine now for seventy years, have^[Tenses, § 56.] never been ill even a single day.' 'But, the orator said, 'But if you had abstained (imperf.) from wine, you would^[Would have been, ἄν ἧσθη. § 69.] by this time have been one hundred years old.'
 
-impious, ἀσεβής.
-
-however little, ὁποσονοῦν. be weak, ἀσ θενέω.
-
-meeting, σύνοδας, f. ) oli, use γεγονώς.
-
-assemble, act. συλλέγω, intr. συνελθεῖν.
-
-orator, ῥήτωρ.
-
-seventy, ἑβδομήκοντα.
-
-In the Island of the Keltai there is a race of men called! Légioi. These, in other things, are like the rest of the citizens, but wine they never taste, thinking it impious to drink, even however little. And they have meetings, where assembled they speak many words, praising much the man who abstains from wine, as the best of men. And these being once assembled in such a meeting, a certain Légios, an orator, was explaining how those who drink no? wine are always well in their body, nor are they weak with any disease. And a man standing up, not? a Legios, said as follows: 'I have drunk4 wine now for seventy years, have\* never been ill even a single day.' 'But, the orator said, 'But if you had abstained (imperf.) from wine, you would® by this time have been one
-
-hundred years old.'
-
-1 Nom. Pl. agreeing with Ληγίοι. 2 Negatives, 8 77. 8 Participles omitted, καὶ 52. 4 Tenses, § 56. § Would have been, ἄν ἦσθα. § 69.
 
 ## EXERCISE LXXXII.
 
@@ -3860,27 +3854,38 @@ hundred years old.'
 
 ### VOCABULARY.
 
-boast, καυχάομαι. right, δεξιός. speed, τάχος, N. slip under, ὑποδῦναι. slowly, βραδέως. tent, σκηνή. pinch, πιέζω. set free, λύω.
 
-mount, ἐπιβῆναι.
+- boast, καυχάομαι.
+- right, δεξιός.
+- speed, τάχος, N.
+- slip under, ὑποδῦναι.
+- slowly, βραδέως.
+- tent, σκηνή.
+- pinch, πιέζω.
+- set free, λύω.
+- mount, ἐπιβῆναι.
 
-And Pharos had an excellent horse, whom many people much wished to have. And Pharos always boasted about this, as being superior to all horses in speed. And his friends advised him to guard it more carefully: but he was not at all afraid of thieves, for he knew this: that the horse at other times ran (runs) slowly, but if pinched? in (acc.) his right ear, conquered (pres.) all the others; and the master alone knew this; so he did not care for thieves, being able to catch them with any other horse. But once a thief came by night, who, slipping under the tent, set free the horse, and mounting, went off in flight.2 But Pharos hearing a noise, and waking, discovered what had taken place.
+And Pharos had an excellent horse, whom many people much wished to have. And Pharos always boasted about this, as being superior to all horses in speed. And his friends advised him to guard it more carefully: but he was not at all afraid of thieves, for he knew this: that the horse at other times ran (runs) slowly, but if pinched^[§ 49.] in (acc.) his right ear, conquered (pres.) all the others; and the master alone knew this; so he did not care for thieves, being able to catch them with any other horse. But once a thief came by night, who, slipping under the tent, set free the horse, and mounting, went off in flight.^[Participle.] But Pharos hearing a noise, and waking, discovered what^[§ 25.] had taken place.
 
-1 § 49.? Participle. 5 § 25. EXERCISES. Isc
 
-## EXERCISE LXXXITII.
+## EXERCISE LXXXIII.
 
 ### **Pharos---continued.**
 
 ### VOCABULARY.
 
-neighbour, 6 πλησίον. watch, θεωρέω. furnish with, παρέχειν, d. lightning, ἀστραπή. (person and thing), I. vanish, ἀφανίζομαι. agree, συναινέω, 1. preserve, σώζω.
 
-reputation, ἀξίωσις.
+- neighbour, ὁ πλησίον.
+- watch, θεωρέω.
+- furnish with, παρέχειν, d. (person and thing), I.
+- lightning, ἀστραπή.
+- vanish, ἀφανίζομαι.
+- agree, συναινέω, I.
+- preserve, σώζω.
+- reputation, ἀξίωσις.
 
-But laughing, and not at all at ἃ loss, he rose up and went to his neighbour, and told him the matter. And he asked him to furnish him with his horse, so as to catch his own. And he agreed, and Pharos, taking it and mounting, pursued the thief. But he having gone on a long way, was hoping to escape home in time.!. And thus there was set on foot a kind of horse race, and all those? in the country watched them passing by quicker than lightning, and wondered much. But at last, Pharos, having a good horse, was catching up the thief, following very close behind. Then he shouted to the thief, 'Pinch his right ear.' And he pinched, and the horse fled away quicker than lightning, and vanished. For he wished rather to preserve the reputation of the horse than the horse itself.
+But laughing, and not at all at a loss, he rose up and went to his neighbour, and told him the matter. And he asked him to furnish him with his horse, so as to catch his own. And he agreed, and Pharos, taking it and mounting, pursued the thief. But he having gone on a long way, was hoping to escape home in time.^[§ 43.] And thus there was set on foot a kind of horse race, and all those^[Article, § 6.] in the country watched them passing by quicker than lightning, and wondered much. But at last, Pharos, having a good horse, was catching up the thief, following very close behind. Then he shouted to the thief, 'Pinch his right ear.' And he pinched, and the horse fled away quicker than lightning, and vanished. For he wished rather to preserve the reputation of the horse than the horse itself.
 
-1 § 43. 2 Article, § 6.
 
 ## EXERCISE LXXXIV.
 
@@ -3888,11 +3893,21 @@ But laughing, and not at all at ἃ loss, he rose up and went to his neighbour, 
 
 ### VOCABULARY.
 
-sim, υἱός. at house of, παρά, ace. not anyhow, οὐδαμῶς. soothsayer, μάντις. maintain, τρέφειν. crystalline, ὑάλινος. be deficient, ἐλλείπω, 1. live, διάγω. trade, τέχνη, f. overtake, καταλαβεῖν, I. bid farewell, χαίρειν εἰπεῖν, ἃ. 1. arrow, τόξευμα, Nn.
+- son, υἱός.
+- at house of, παρά, acc.
+- not anyhow, οὐδαμῶς.
+- soothsayer, μάντις.
+- maintain, τρέφειν.
+- crystalline, ὑάλινος.
+- be deficient, ἐλλείπω, I.
+- live, διάγω.
+- trade, τέχνη, f.
+- overtake, καταλαβεῖν, I.
+- bid farewell, χαίρειν εἰπεῖν, d. I.
+- arrow, τόξευμα, n.
 
-Graules, having three sons, was not anyhow able to maintain them, as the food was deficient.1 Accordingly, having explained to them all his difficulty, he sent them away, and bade them learn some trade, and come back again to him after five years. And they, with many tears, having bidden farewell to each other, went each his own way."\* And the elder arrived at the house of a very clever soothsayer, who was able to see what was' very far off, by5 employing a certain crystalline device. And the second, living with a certain archer, became most skilful in shooting. And there was nothing anywhere which he was not able to overtake with his arrow, even though'? the others did not even see it.
+Graules, having three sons, was not anyhow able to maintain them, as the food was deficient.^[Gen. Abs. § 35 (g).] Accordingly, having explained to them all his difficulty, he sent them away, and bade them learn some trade, and come back again to him after five years. And they, with many tears, having bidden farewell to each other, went each his own way."^[§ 36 (c)., § 29.] And the elder arrived at the house of a very clever soothsayer, who was able to see what was^[Art. and Part. § 5, § 25.] very far off, by^[§ 45.] employing a certain crystalline device. And the second, living with a certain archer, became most skilful in shooting.^[§ 35 (b), § 8.] And there was nothing anywhere which he was not able to overtake with his arrow, even though'^[Use of Genitive Absolute with καίπερ, § 50.] the others did not even see it.
 
-1Gen. Abs. ἃ 35 (9). 2 § 36 (ὁ). 8. § 29. ὁ Art. and Part. § 5, § 25. 5 § 45. δ § 35 (b), § 8. 7 Use of Genitive Absolute with καίπερ, § 50.
 
 ## EXERCISE LXXXV.
 
@@ -3900,17 +3915,23 @@ Graules, having three sons, was not anyhow able to maintain them, as the food wa
 
 ### VOCABULARY.
 
-chance (to), τυγχάνω, part. I. show off, ἐπιδείξασθαι.
+- chance (to), τυγχάνω, part. I.
+- show off, ἐπιδείξασθαι.
+- rustic, ἄγροικος.
+- listen to (obey), πιθέσθαι, I.
+- cobbler, σκυτοτόμος.
+- eagle, ἀετός.
+- spend (time), διάγω.
+- establish, καθίστημι, I.
+- know how to, ἐπίσταμαι, c. inf.
+- promise, ὑπισχνέομαι.
+- stitch together, συρράπτειν.
+- hand over, παραδίδωμι, I.
+- end, τελευτάω.
+- young (of birds), νεοσσοί.
 
-rustic, ἄγροικος. listen to (obey), πιθέσθαι, I. cobbler, σκυτοτόμος. eagle, ἀετός.
+But the third brother chanced to learn nothing of this kind, but being^[Use of δή, § 75.] more rustic than the others he went off to a cobbler's house, and spent the five years there, learning all his trade: and at last he himself also became very skilful, so that^[ὥστε, with Indicative.] he knew how to stitch together all broken things.^[§ 5.] And when^[§ 35 (g).] the time was ending, the three sons came back again to the father, being ready each^[Use of ἕκαστος, § 29.] to show off his own art. And Graules said this to them: 'Children, listen to me, and perhaps you will find very great wealth for us. For there is an eagle, having established his house on a very high rock: and the king promises much gold to that one, whoever shall hand over to him the young of this eagle alive.'
 
-spend (time), διάγω. establish, καθίστημι, 1. know how to, ἐπίσταμαι, c. inf. promise, ὑπισχνέομαι.
-
-stitch together, συρράπτειν. hand over, παραδίδωμι, 1. end, τελευτάω. young (of birds), νεοσσοί.
-
-But the third brother chanced to learn nothing of this kind, but being! more rustic than the others he went off to a cobbler's house, and spent the five years there, learning all his trade: and at last he himself also became very skilful, so that? he knew how to stitch together all broken things.? And when' the time was ending, the three sons came back again to the father, being ready each® to show off his own art. And Graules said this to them: 'Children, listen to me, and perhaps you will find very great wealth for us. For there is an eagle, having established his house on a very high rock: and the king promises much gold to that one, whoever shall hand over to him the young of this eagle alive.'
-
-1 Use of δή, § 75. 2 ὥστε, with Indicative. 8 § 6, 4 § 35 (9). Use of ἕκαστος, § 29.
 
 ## EXERCISE LXXXVI.
 
@@ -3918,25 +3939,50 @@ But the third brother chanced to learn nothing of this kind, but being! more rus
 
 ### VOCABULARY.
 
-proceed to, τρέπεσθαι πρός, 1. bough, κλάδος, τη. display, ἐπίδειξις. chip, κάρφος, n. draw out, ἐξαιρέω, 1. weave together, συμπλέκω. crystal, ὕαλος, f. ~ contain, ἔχω, 1. raise, ἐπαίρω. get ready, παρασκευάζω. very top, use ἀκρότατος. discharge, ἀφίημι, I. 1 stand, ἔστηκα. bolt, βέλος, n. pine, πευκή. into the midst, ἐς μέσον. high (adv.), ὑψοῦ. war-ship, τριήρης, f.
 
-nest, νεοσσία.
+- proceed to, τρέπεσθαι πρός, I.
+- bough, κλάδος, m.
+- display, ἐπίδειξις.
+- chip, κάρφος, n.
+- draw out, ἐξαιρέω, I.
+- weave together, συμπλέκω.
+- crystal, ὕαλος, f.
+- contain, ἔχω, I.
+- raise, ἐπαίρω.
+- get ready, παρασκευάζω.
+- very top, use ἀκρότατος.
+- discharge, ἀφίημι, I.
+- I stand, ἔστηκα.
+- bolt, βέλος, n.
+- pine, πευκή.
+- into the midst, ἐς μέσον.
+- high (adv.), ὑψοῦ.
+- war-ship, τριήρης, f.
+- nest, νεοσσία.
 
-And! on hearing this, they proceeded to a display of their art. And the first, drawing the crystal out of his bosom, raised it towards the rock. And,! after waiting some short time, he said,? 'On the very top of the rock? stands one pine: and high on the pine is the eagle's nest, made with boughs and chips woven together, containing five eggs.' And the second said nothing, but got ready his bow and discharged his bolt: and, after no long interval, a noise was heard (occurred) as of a tower being thrown down: and the nest fell into the midst (of them), equal to a war-ship in size, containing the eagle dead and five most wonderful eggs.
+And^[Use of Participle, § 44.] on hearing this, they proceeded to a display of their art. And the first, drawing the crystal out of his bosom, raised it towards the rock. And,^[Use of Participle, § 44.] after waiting some short time, he said,^[Position of ἔφη, § 71.] 'On the very top of the rock^[Adjective of Position, § 4.] stands one pine: and high on the pine is the eagle's nest, made with boughs and chips woven together, containing five eggs.' And the second said nothing, but got ready his bow and discharged his bolt: and, after no long interval, a noise was heard (occurred) as of a tower being thrown down: and the nest fell into the midst (of them), equal to a war-ship in size, containing the eagle dead and five most wonderful eggs.
 
-1 Use of Participle, § 44. 2 Position of ἔφη, § 71. 5. Adjective of Position, § 4.
 
-## EXERCISE LXXXVITI.
+## EXERCISE LXXXVII.
 
 ### **Graules---continued.**
 
 ### VOCABULARY.
 
-execute, τελέω. ' chicken, νεοσσός. be cracked, διαρραγῆναι, 1. sign, σημεῖον. relieve, ἀπαλλάσσω. line, γραμμή, f. knowingly, ἐπιστημόνως. round, περί, ἃ. out came, ἐκφανῆναι, I, breast, στῆθος, n.
 
-And in other respects the father praised the brothers, as having well executed the matter: but in this he was at a loss, because the eggs were cracked, and it did not seem to be possible to hand over the young alive to the king. Thereupon the youngest son coming forward said, 'I will relieve you from this difficulty.' And at the same tmme he took the eggs and stitched them knowingly together, and, after two days, the eggs again being cracked, out came five chickens, having no other sign of what had occurred,! except that they had a red line round their breast. And the king, as? he saw everything done that he wished, was excessively pleased, and to the others gave much wealth, but to the youngest intrusted his government.
+- execute, τελέω.
+- chicken, νεοσσός.
+- be cracked, διαρραγῆναι, I.
+- sign, σημεῖον.
+- relieve, ἀπαλλάσσω.
+- line, γραμμή, f.
+- knowingly, ἐπιστημόνως.
+- round, περί, a.
+- out came, ἐκφανῆναι, I.
+- breast, στῆθος, n.
 
-1 Article and Participle, § 25. 3 Use of Participle, § 47.
+And in other respects the father praised the brothers, as having well executed the matter: but in this he was at a loss, because the eggs were cracked, and it did not seem to be possible to hand over the young alive to the king. Thereupon the youngest son coming forward said, 'I will relieve you from this difficulty.' And at the same tmme he took the eggs and stitched them knowingly together, and, after two days, the eggs again being cracked, out came five chickens, having no other sign of what had occurred,^[Article and Participle, § 25.] except that they had a red line round their breast. And the king, as^[Use of Participle, § 47.] he saw everything done that he wished, was excessively pleased, and to the others gave much wealth, but to the youngest intrusted his government.
+
 
 ## EXERCISE LXXXVIII,
 
@@ -3944,11 +3990,26 @@ And in other respects the father praised the brothers, as having well executed t
 
 ### VOCABULARY.
 
-Phelioi, Φέλιοι. bitter, χαλεπός, be well treated, εὖ παθεῖν. anger, ὀργή. at hands of, ὑπό. between. Index. Linios, ΔΛινίος. quarrel, διαφέρεσθαι. wherein, ἐν 7. revile, λοιδορεῖσθαι, ἃ. it is lawful, ἔξεστι, 4. to a wonderful extent, θαυμά- expense, δαπάνη. σιον ὅσον. stater, στατήρ (-ἢρ-), m. mock, ἐγγελῶ, ἃ. strife, ἔρις (-ριδ-), f. how much, ὅσῳ.
 
-The Phelioi, having been well treated in many things at the hands of a certain Linios, established a house in their city, wherein it was lawful for all the Linioi to dwell without expense, but it was necessary for the others to pay a stater a day whosoever wished to live there. And once there arose strife and bitter wrath between a Phelios and a Linios, and in quarrelling! they reviled each other to a wonderful extent. And the Linios mocking the other, said, 'Behold how much more precious I am than you, for here I live with no expense, where you (live) paying a stater.' But the Phelios said, ' But I would choose? to pay many staters, rather than receive the greatest things on condition of being \[at least being\] myself a Linios.'
+- Phelioi, Φέλιοι.
+- bitter, χαλεπός.
+- be well treated, εὖ παθεῖν.
+- anger, ὀργή.
+- at hands of, ὑπό.
+- between. Index.
+- Linios, ΔΛινίος.
+- quarrel, διαφέρεσθαι.
+- wherein, ἐν ᾗ.
+- revile, λοιδορεῖσθαι, d.
+- it is lawful, ἔξεστι, d.
+- to a wonderful extent, θαυμάσιον ὅσον.
+- expense, δαπάνη.
+- stater, στατήρ (-ῆρ-), m.
+- mock, ἐγγελῶ, d.
+- strife, ἔρις (-ριδ-), f.
+- how much, ὅσῳ.
 
-1 Use of Participle. 2 Use of Optative with ἄν, § 69.
+The Phelioi, having been well treated in many things at the hands of a certain Linios, established a house in their city, wherein it was lawful for all the Linioi to dwell without expense, but it was necessary for the others to pay a stater a day whosoever wished to live there. And once there arose strife and bitter wrath between a Phelios and a Linios, and in quarrelling^[Use of Participle.] they reviled each other to a wonderful extent. And the Linios mocking the other, said, 'Behold how much more precious I am than you, for here I live with no expense, where you (live) paying a stater.' But the Phelios said, 'But I would choose^[Use of Optative with ἄν, § 69.] to pay many staters, rather than receive the greatest things on condition of being \[at least being\] myself a Linios.'
 
 ## EXERCISE LXXXIX.
 
@@ -3956,19 +4017,18 @@ The Phelioi, having been well treated in many things at the hands of a certain L
 
 ### VOCABULARY.
 
-cat, αἴλουρος, f. compose, διατίθημι. in turn, ἐφεξῆς. solemn, σεμνός. pass (time), t diay. most, μάλιστα, reply, ἵ ἀποκρίνομαι. philosophy, φιλοσοφία. oul, γλαῦξ, 1. philosophise, φιλοσοφέω.
+- cat, αἴλουρος, f.
+- compose, διατίθημι.
+- in turn, ἐφεξῆς.
+- solemn, σεμνός.
+- pass (time), † διάγω.
+- most, μάλιστα,
+- reply, † ἀποκρίνομαι.
+- philosophy, φιλοσοφία.
+- philosophise, φιλοσοφέω.
+- owl, γλαῦξ, f.
 
-Now the cat, wishing to know what! the other beasts thought (think) about life, went to each in turn: and having come to them she asked what she ought to do to pass her life well.2, And the others replied just as each happened: but the owl composing her face to great solemnity? said, 'O cat, most of all there is need of philosophy. And to philosophise is to search and to think about such matters as are most difficult to discover.' But the cat said that it was' no use to search for such things : for that\* it was better to think about easy matters,---' For no one,' said she, ' searches for anything, unless in® the hope sometime to find: for it would not even
-
-be sensible.'?
-
-1 Dramatic Particles, § 75.
-
-2 * What doing she ought to pass,' etc.
-
-5 Use of Adjective Predicate, ὃ 31, ' composing very solemn. 4 Accusative Infinitive, § 40. 5 Negatives, § 78. 6 Participle. 7 Use of ἄν, ὃ 69.
-
-S.G.W.\] L
+Now the cat, wishing to know what^[Dramatic Particles, § 75.] the other beasts thought (think) about life, went to each in turn: and having come to them she asked what she ought to do to pass her life well.^['What doing she ought to pass,' etc.], And the others replied just as each happened: but the owl composing her face to great solemnity^[Use of Adjective Predicate, § 31, 'composing very solemn.'] said, 'O cat, most of all there is need of philosophy. And to philosophise is to search and to think about such matters as are most difficult to discover.' But the cat said that it was^[Accusative Infinitive, § 40.] no use to search for such things : for that^[Accusative Infinitive, § 40. / Negatives, § 78.] it was better to think about easy matters,---' For no one,' said she, ' searches for anything, unless in^[Participle.] the hope sometime to find: for it would not even be sensible.'^[Use of ἄν, § 69.]
 
 ## EXERCISE XC.
 
@@ -3976,23 +4036,46 @@ S.G.W.\] L
 
 ### VOCABULARY.
 
-close, συγκλείω. whether, πότερον. eyelids, βλέφαρα, τι. one of the two, θάτερον. well, ἀλλά. be by nature, πεφυκέναι, φῦναι, philosophy, φιλοσοφία. immortal, ἀθάνατος. in what way, πῶς. eternal, ἀΐδιος. 1 presume, δήπου. philosopher, φιλόσοφος. arises, γίγνομαι. take delight, ἥδεσθαι, part. belongs, προσήκει, destruction, διαφθορά, f.
+- close, συγκλείω.
+- whether, πότερον.
+- eyelids, βλέφαρα, n.
+- one of the two, θάτερον.
+- well, ἀλλά.
+- be by nature, πεφυκέναι, φῦναι,
+- philosophy, φιλοσοφία.
+- immortal, ἀθάνατος.
+- in what way, πῶς.
+- eternal, ἀΐδιος.
+- I presume, δήπου.
+- philosopher, φιλόσοφος.
+- arises, γίγνομαι.
+- take delight, ἥδεσθαι, part.
+- belongs, προσήκει.
+- destruction, διαφθορά, f.
 
-But the owl, closing her eyelids slowly and solemnly, said, 'Well, I will give you an example of my philosophy, in what way search is made! For you know, I presume, that the bird arises from the egg, and the egg no less from the bird. It belongs therefore to philosophy to examine thoroughly this (question), whether the egg arose first or the bird. For it is clear that one of the two appeared first, since none of the beasts is by nature immortal or eternal.' 'But what hope is there,' said the cat, laughing, 'to find out sucha thing?' And the owl, looking yet more solemn than before, said, ' No hope: and for this? I give the gods very great thanks: for philosophers take delight in searching ;3 but to find out anything is the end and destruction of philosophy.'
+But the owl, closing her eyelids slowly and solemnly, said, 'Well, I will give you an example of my philosophy, in what way search is made^[Use the Passive.] For you know, I presume, that the bird arises from the egg, and the egg no less from the bird. It belongs therefore to philosophy to examine thoroughly this (question), whether the egg arose first or the bird. For it is clear that one of the two appeared first, since none of the beasts is by nature immortal or eternal.' 'But what hope is there,' said the cat, laughing, 'to find out sucha thing?' And the owl, looking yet more solemn than before, said, ' No hope: and for this^[§ 35 (3); also use of Dramatic Particles, § 75.] I give the gods very great thanks: for philosophers take delight in searching;^[Use of Participles, § 43.] but to find out anything is the end and destruction of philosophy.'
 
-1 Use the Passive.
 
-2 § 35 (e); also use of Dramatic Particles, 8 75. * Use of Participles, 8 43.
-
-## EXERCISE XCVJ.
+## EXERCISE XCI.
 
 ### **The Weavers.**
 
 ### VOCABULARY.
 
-weaver, ὑφάντης. garment, ἱμάτιον. proud, σεμνός. wear, ἔχω. be considered, δοκεῖν, inf. --- discern, διαγνῶναι. 1 ask leave, αἰτῶ ἐξεῖναι. deal with, συγγένεσθαι. do good, ὠφελεῖν, a. capable, ixavés, inf.
 
-Once on a time there were some wonderful weavers, by name Plékioi, who came to the city of Kélos. Now Kolos was a very proud king, but he was not considered to be wise. And the Plekioi asked leave to go to the king, and show off their skill to him. And they came and spoke as follows :--- 'O most mighty king, we should! be willing to do you very much good by our art; for we can weave such garments, that? you wearing them shall be able to discern those faithful and unfaithful of all with whom you deal. For all that are faithful and worthy of honour and capable of ruling,? these will be able to see the garments clearly: but the unworthy will not see anything at all.'
+- weaver, ὑφάντης.
+- garment, ἱμάτιον.
+- proud, σεμνός.
+- wear, ἔχω.
+- be considered, δοκεῖν, inf.
+- discern, διαγνῶναι.
+- I ask leave, αἰτῶ ἐξεῖναι.
+- deal with, συγγένεσθαι.
+- do good, ὠφελεῖν, a.
+- capable, ἱκανός, inf.
+
+Once on a time there were some wonderful weavers, by name Plekioi, who came to the city of Kelos. Now Kolos was a very proud king, but he was not considered to be wise. And the Plekioi asked leave to go to the king, and show off their skill to him. And they came and spoke as follows :--- 'O most mighty king, we should^[Use of Optat. with οἴν, § 69.] be willing to do you very much good by our art; for we can weave such garments, that^[Say 'which you wearing will.'] you wearing them shall be able to discern those faithful and unfaithful of all with whom you deal. For all that are faithful and worthy of honour and capable of ruling,^[Use of Infinitive, § 39.] these will be able to see the garments clearly: but the unworthy will not see anything at all.'
+
 
 1 Use of Optat. with olv, § 69. 3 Say 'which you wearing will.' 8 Use of Infinitive, § 39.
 
