@@ -2412,7 +2412,7 @@ And the Spirit was away (use ἄπ-ειμι, like εἰμι) fifty years^[§ 36 
 
 And this was true. For there was a large strong^[§ 33.] chest, and within this was the gold, and on the top lay (ἔκειτο) the man. And in his hand were the keys of the chest. And he was a corpse. For he had died^[§ 57.] from want of food in (the midst of) so much wealth. And the Spirit found in the chest not only the former gold, but also double as much, gathered by the dead (aorist particip.) man laboriously during this time.
 
-# EXERCISE XXIII
+## EXERCISE XXIII
 
 ### **Ariphernes in Hades.**
 
@@ -2442,7 +2442,7 @@ And Aeacus said this: 'Where have you come (aorist) from? and who and what kind 
 And he said: 'I am a Persian, Ariphernes by name: and I had a terrible disease for^[§ 36 (b).] many years: and I was not capable myself of attending to (ἐπιμελεῖσθαι, gen.) my province, and the common people there :? but all such things I intrusted to assistants and slaves. But I had forethought for (gen.) my own food and drink.'
 
 
-# EXERCISE XXIV.
+## EXERCISE XXIV.
 
 ### **Ariphernes in Hades---continued.**
 
@@ -2655,7 +2655,7 @@ And again the master sent the slave to the same friend, bidding him carry the ba
 
 
 
-# EXERCISE XXXI.
+## EXERCISE XXXI.
 
 ### **The Egyptian---continued.**
 
