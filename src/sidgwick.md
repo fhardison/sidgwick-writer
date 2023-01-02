@@ -2651,7 +2651,7 @@ And the friend taking^[See Participles, § 68.] the bag and opening it, found th
 - retire, ὑποχωρέω (a. -εχώρησα).
 - against, κατά, g.
 
-And again the master sent the slave to the same friend, bidding him carry the bag as before, having twenty apples in a letter. And everything occurred (ἐγένετο) as before. For, distressed with the heat of the sun, and having terrible thirst, he wished to eat the apples. But fearing the letter, as knowing how-many apples there were (are), first he hid it under a great stone, and having retired far from thence, he again took out two apples and ate them up. And having done this, he went back again to the stone, and having taken up the letter, put it into the bag, being pleased with his skill, and saying, 'O most hateful writing, now indeed I have^[§ 56.] splendidly deceived you, having before told (agrees with 'you ) everything against me.'
+And again the master sent the slave to the same friend, bidding him carry the bag as before, having twenty apples in a letter. And everything occurred (ἐγένετο) as before. For, distressed with the heat of the sun, and having terrible thirst, he wished to eat the apples. But fearing the letter, as knowing how-many apples there were (are), first he hid it under a great stone, and having retired far from thence, he again took out two apples and ate them up. And having done this, he went back again to the stone, and having taken up the letter, put it into the bag, being pleased with his skill, and saying, 'O most hateful writing, now indeed I have^[§ 56.] splendidly deceived you, having before told (agrees with 'you' ) everything against me.'
 
 
 
@@ -2661,25 +2661,52 @@ And again the master sent the slave to the same friend, bidding him carry the ba
 
 ### VOCABULARY.
 
-give back, ἀποδίδωμι, 1. most excellent, ἄριστος. wanting two, δυοῖν δέοντα. accursed, κατάρατος, -ov. to be wanting, ἐλλείπειν, g. notice, γιγνώσκω, 1. lying, κείμενος. rest of the time, λοιπόν.
+- give back, ἀποδίδωμι, I.
+- most excellent, ἄριστος.
+- wanting two, δυοῖν δέοντα.
+- accursed, κατάρατος, -ov.
+- to be wanting, ἐλλείπειν, g.
+- notice, γιγνώσκω, I.
+- lying, κείμενος.
+- rest of the time, λοιπόν.
+- never, οὔποτε.
 
-mever, οὔποτε.
+And coming to his friend, he gave back the bag, having eighteen \[twenty wanting two\] apples. He, opening it as before, and finding from the letter that again there was (is) something wanting to the number (gen.), and that not everything was in it which he had sent,^[Tenses, § 57.] then he got very angry with the slave, as being for the second time faithless and impudent. But he, wondering much how^[Use πῶς, and see Dramatic Particles, § 75.] the letter saw what he did, lying far away under a stone, and fearing excessively, told everything to his friend, saying as follows : 'But never again shall I be faithless, most excellent (sir), for now I discover that I am never able to deceive (acc.) these accursed writings, which always saw and noticed everything.' And for the rest of the time he never stole anything more.
 
-And coming to his friend, he gave back the bag, having eighteen \[twenty wanting two\] apples. He, opening it as before, and finding from the letter that again there was (is) something wanting to the number (gen.), and that not everything was in it which he had sent,! then he got very angry with the slave, as being for the second time faithless and impudent. But he, wondering much how? the letter saw what he did, lying far away under a stone, and fearing excessively, told everything to his friend, saying as follows : ' But never again shall I be faithless, most excellent (sir), for now I discover that I am never able to deceive (acc.) these accursed writings, which always saw and noticed everything.' And for the rest of the time he never stole anything more.
 
-1 Tenses, § 57. 2 Use πῶς, and see Dramatic Particles, § 75. ΙΟ2 EXERCISES.
+## EXERCISE XXXII,
 
-EXERCISE XXXII,
-
-The Ethiopian and the Ape.
+### **The Ethiopian and the Ape.**
 
 ### VOCABULARY.
 
-Ethioman, Αἰθιόψ, δε... off, ἄπειμι. inhabiting, οἰκέω. catch, αἱρέω, εἷλον.. facing, τετραμμένος, , tte, δέω, ἃ. ἔδησα. toward, πρός, a. leg, σκέλος, n. south, μεσημβρία, f. thong, ἵμας (-αντ-), τη. water, ὕδωρ (-δατ-), nD. lead, ἄγω. precious, τίμιος. follows, ἀκολουθεῖ, pl. ἀκολου- race, γένος, 0. θοῦσι. otherwise, ἄλλως. for a time, τέως. intelligent, φρόνιμος. as though, ὡς. natural, εἰκός, n. pursue, μετελθεῖν. smell, scent, ὁσ μή. tied, δεδεμένος.
+- Ethioman, Αἰθιόψ.
+- be .. off, ἄπειμι.
+- inhabiting, οἰκέω.
+- catch, αἱρέω, εἷλον.
+- facing, τετραμμένος, 
+- tie, δέω, a. ἔδησα.
+- toward, πρός, a.
+- leg, σκέλος, n.
+- south, μεσημβρία, f.
+- thong, ἵμας (-αντ-), m.
+- water, ὕδωρ (-δατ-), n.
+- lead, ἄγω.
+- precious, τίμιος.
+- follows, ἀκολουθεῖ, pl. ἀκολουθοῦσι. 
+- race, γένος, n.
+- otherwise, ἄλλως.
+- for a time, τέως.
+- intelligent, φρόνιμος.
+- as though, ὡς.
+- natural, εἰκός, n.
+- pursue, μετελθεῖν.
+- smell, scent, ὀσμή.
+- tied, δεδεμένος.
 
-The Ethiopians, inhabiting a land facing toward the south, consider water to be most-precious. And in the same land there is a race of apes, being both otherwise intelligent, and especially clever at finding! water. And this they find, as is natural, by the smell, being a long way off. Accordingly the barbarians, having caught one of the apes, and having tied his leg with a thong, lead him through the land. And the ape follows willingly for a time? : but, suddenly getting scent as though from the water, then he no longer is willing to go with those who are leading him,' but wishes to pursue the smell. And thenceforward he? leads, tied with a thong, and they follow.
 
-1 Use of Infinitive, § 39. 28 76. 5 Article and Participle, § 5.
+The Ethiopians, inhabiting a land facing toward the south, consider water to be most-precious. And in the same land there is a race of apes, being both otherwise intelligent, and especially clever at finding^[Use of Infinitive, § 39.] water. And this they find, as is natural, by the smell, being a long way off. Accordingly the barbarians, having caught one of the apes, and having tied his leg with a thong, lead him through the land. And the ape follows willingly for a time^[§ 76.]: but, suddenly getting scent as though from the water, then he no longer is willing to go with those who are leading him,^[Article and Participle, § 5.] but wishes to pursue the smell. And thenceforward he^[§ 76.]  leads, tied with a thong, and they follow.
+
 
 ## EXERCISE XXXITI.
 
@@ -2687,93 +2714,200 @@ The Ethiopians, inhabiting a land facing toward the south, consider water to be 
 
 ### VOCABULARY.
 
-cruel, ὠμός. eager, be, σπουδάζω. drink, πίνω, 1. spring, κρήνη. be in a state, ἔχειν, with smell, ὀσφραίνομαι. adv. keep, ἔχω. wretched, ταλαίπωρος (adv. nose, pis (ῥιν-), f. -ws). track, ἰχνεύω. be desirous, ἐπιθυμέω, f. stag, ἔλαφος. -ἥσω (with inf.), not even, οὐδέ. foot, ποὺς (ποδ-), m. approach, προσελθεῖν.
+- cruel, ὠμός.
+- eager, be, σπουδάζω.
+- drink, πίνω, I.
+- spring, κρήνη.
+- be in a state, ἔχειν, with adv.
+- smell, ὀσφραίνομαι.
+- keep, ἔχω.
+- wretched, ταλαίπωρος (adv. -ως).
+- nose, ῥίς (ῥιν-), f. 
+- track, ἰχνεύω.
+- be desirous, ἐπιθυμέω, f. -ἥσω (with inf.).
+- not even, οὐδέ.
+- stag, ἔλαφος.
+- foot, ποὺς (ποδ-), m.
+- approach, προσελθεῖν.
 
-Now there was a certain Ethiopian, very cruel! in his disposition (acc.), who gave no water to the ape to drink: so that the beast was in a very wretched state. For the man said this: 'He, never drinking anything, will be much more desirous of finding water.' And he led him, with his feet tied (say 'tied as to (acc.) his feet') with a thong, as we said before. And the ape having a most dreadful thirst, was very eager about (use ert) finding? the water, and many springs he found by smelling, keeping his nose close to the earth, like a dog tracking stags. And the Ethiopian, thus finding a spring, drank himself, but did not even allow (εἴα) the faithful ape to approach.
+Now there was a certain Ethiopian, very cruel^[§ 52.] in his disposition (acc.), who gave no water to the ape to drink: so that the beast was in a very wretched state. For the man said this: 'He, never drinking anything, will be much more desirous of finding water.' And he led him, with his feet tied (say 'tied as to (acc.) his feet') with a thong, as we said before. And the ape having a most dreadful thirst, was very eager about (use ἐπὶ) finding^[Inf. with Article, § 8.] the water, and many springs he found by smelling, keeping his nose close to the earth, like a dog tracking stags. And the Ethiopian, thus finding a spring, drank himself, but did not even allow (εἴα) the faithful ape to approach.
 
-1 ὃ 52. 2 Inf. with Article, § 8.
 
-## EXERCISE XXXTV.
+## EXERCISE XXXIV.
 
 ### **The Ethiopian and the Ape---continued.**
 
 ### VOCABULARY.
 
-indignant, be, σχετλιάζω. flight, φυγή. (seemed), ἔδοξε: hither, δεῦρο. ungrateful, ἀχάριστος. will die, ἀποθανεῖται (aor. by means of, διά, g. -Bav-). gwe a share, μεταδοῦναὶ. desert, ἔρημος. think, φροντίζω, g. shot, xwpiov. sever, διασχίζω, f. -σχισ-. went off, ἀπῴχετο. 1 will go away, ἄξειμι. by biting, ὀδὰξ. as...as possible, ws, with hope, ἐλπίζω.
+- indignant, be, σχετλιάζω.
+- flight, φυγή.
+- (seemed), ἔδοξε.
+- hither, δεῦρο.
+- ungrateful, ἀχάριστος.
+- will die, ἀποθανεῖται (aor. -θαν-).
+- by means of, διά, g.
+- give a share, μεταδοῦναὶ.
+- desert, ἔρημος.
+- think, φροντίζω, g.
+- shot, xwpiov.
+- sever, διασχίζω, f. -σχισ-.
+- went off, ἀπῴχετο.
+- I will go away, ἄξειμι.
+- by biting, ὀδὰξ.
+- as ... as possible, ὡς, with superl. adv.
+- hope, ἐλπίζω.
+- hunger, λιμός, τη.
+- quickly, ταχέως, superl. τάχιστα.
 
-superl. adv. hunger, λιμός, τη. quickly, ταχέως, super,
+But the ape, seeing this, was indignant: for the man seemed to him to be ungrateful and impudent, seeing that he (say 'who,' ὅστις) having found the water by reason of him^[§ 17.] (reflexive) was not (say 'is not') willing to give him any share. Accordingly; he said to himself as follows: 'My master drinks and does not think of me at all. I therefore will sever the thong with my teeth, and go away as quickly as possible in flight: And he without me will never be able to find the way by which he came hither from home. And thus he will die in this desert spot.' And having such things in his mind, he went off, having cut the thong by biting. And his master, as he hoped, died of hunger^[§ 38 (d).] not long after.
 
-TAX LOTTO,
 
-But the ape, seeing this, was indignant: for the man seemed | to him to be ungrateful and impudent, seeing that he (say 6 'who,' ὅστις) having found the water by reason of him! (reflexive) was not (say 'is not') willing to give him any share. Accordingly; he said to himself as follows: 'My master drinks and does not think of mé at all. I therefore will sever the thong with my teeth, and go away as quickly as possible in flight: And he without me will never be able to find the way by which he came hither from home. And thus he will die in this desert spot.' And having such things in his mind, he went off, having cut the thong by biting. And his master, as he hoped, died of hunger? not long after.
+## EXERCISE XXXV.
 
-18 17. 2 § 37 (d).
-
-EXERCISE XXX ΡΨ.
-
-Thepos. ## VOCABULARY.
-
-name, ὄνομα (-ματ-), NR. stranger, ξένος. all manner of, παντοῖος, money, ἀργύριον. adj. such as, οἷος. art, τέχνη. is current, νομίζεται. became, ἐγένετο. ducat, στατήρ (-THp-). famous, ἐλλόγιμος. show, δείκνυμι (-δείξ-, a.) market, ἀγορά, f. test, δοκιμάζω (a. f. -av-), buy, ἀγοράζειν. touchstone, βάσανος, f. dealer, κάπηλος. in truth, τῷ ὄντι. sir, ὦ ἄνθρωπε. discover, μανθάνω (ἔμαθ-, a.).
-
-There was once a thief by name Thepos, who stealing many things by all manner of arts became very famous. For this man, once coming into the market, wished to buy a certain very precious stone, and taking the stone he said to the dealer as follows : 'Sir, I am a stranger, and have come from far: and on this account I have not yet money, such as is current here. Are you willing therefore in place of money to take these ducats?' And at the same time, while-saying! this he showed him a bag full of golden ducats. And the dealer being experienced in such things, took out one of the ducats, and testing it with a touchstone, discovered it to be (being) in truth golden.
-
-1 Use of Participle, § 44.
-
-EXERCISE XXXVI,
-
-Thepos---continued.
-
-### VOCABULARY.
-
-gave, ἔδωκα. . give in exchange, ἀντιδίδωμι archer, τοξότης. (part. -ovs). hurry, σπουδή. suspect, ὑποπτεύω (aor. part. search out, ἐξετάζω. ὑποπτεύσας). asked, ἤρετο. showed, ἀπέδειξα.
-
-just now, ἀρτίως.
-
-And he took ten ducats from the stranger, and gave him the jewel. And he, taking the bag and the jewel, went away very quickly from the market. And after a not very long time there came to the dealer an archer, as though in a great hurry and considerably alarmed \[having much hurry and fear\] about something. Now in this city the archers are the guards of the market, searching out everything, and tracking the thieves. He therefore came! and asked the dealer as follows: 'Sir, was there here? just now a stranger, buying precious stones and giving in exchange ducats apparently of gold?'$ And the dealer, as was natural, fearing for his jewel, and suspecting Thepos to be a thief,' told everything to the archer and showed him the ducats.
-
-1 Use of Participles, § 44. 3 Interrogations, see § 74. 3 § 75. 4 Case after verb 'to be,' § 38.
-
-EXERCISE XX XVII.
-
-Thepos---continued.
+### **Thepos**. 
 
 ### VOCABULARY.
 
-rub, τρίβω, ἔτριψα. give, δός. made, πεποιημένος. shame, ψευδής. copper, χαλκός, τη. evidence, μαρτύριον. lies on, ἐπίκειται, matter, affair, πρᾶγμα. of course, δή. understood, συνῆκα.
+- name, ὄνομα (-ματ-), n.
+- stranger, ξένος.
+- all manner of, παντοῖος, adj.
+- money, ἀργύριον.
+- such as, οἷος.
+- art, τέχνη.
+- is current, νομίζεται.
+- became, ἐγένετο.
+- ducat, στατήρ (-τῆρ-).
+- famous, ἐλλόγιμος.
+- show, δείκνυμι (-δείξ-, a.) 
+- market, ἀγορά, f.
+- test, δοκιμάζω (a. f. -ασ-),
+- buy, ἀγοράζειν.
+- touchstone, βάσανος, f.
+- dealer, κάπηλος.
+- in truth, τῷ ὄντι.
+- sir, ὦ ἄνθρωπε.
+- discover, μανθάνω (ἔμαθ-, a.).
 
-with respect to, πρός.
+There was once a thief by name Thepos, who stealing many things by all manner of arts became very famous. For this man, once coming into the market, wished to buy a certain very precious stone, and taking the stone he said to the dealer as follows : 'Sir, I am a stranger, and have come from far: and on this account I have not yet money, such as is current here. Are you willing therefore in place of money to take these ducats?' And at the same time, while-saying^[Use of Participle, § 44.] this he showed him a bag full of golden ducats. And the dealer being experienced in such things, took out one of the ducats, and testing it with a touchstone, discovered it to be (being) in truth golden.
 
-And the archer said: 'All these things are so, as I suspected. For the ducats which you supposed to be golden, having rubbed them with the touchstone, I have! often seen already : and they? are not golden at all, but false, made out of copper: but there is gold on the top (say ' lies on them'), so that the touchstone is of course useless with respect to such (coins). But give me the sham gold, which shall give me evidence against the thief.' And taking the ten ducats he went off quickly, as though after Thepos. But the dealer remained many days,? hoping to see the archer coming back with the jewel and the thief. But as neither came any' more, at last he understood the matter: for the archer was a friend to the thief, and these had® devised the affair.
 
-1 § 56. 2 § 76. 3 § 36 (5). 4 § 78. 5 8 δῖ.
+## EXERCISE XXXVI,
+
+### **Thepos---continued.**
+
+### VOCABULARY.
+
+- gave, ἔδωκα.
+- give in exchange, ἀντιδίδωμι (part. -ούς).
+- archer, τοξότης.
+- hurry, σπουδή.
+- suspect, ὑποπτεύω (aor. part. ὑποπτεύσας).
+- search out, ἐξετάζω.
+- asked, ἤρετο.
+- showed, ἀπέδειξα.
+- just now, ἀρτίως.
+
+And he took ten ducats from the stranger, and gave him the jewel. And he, taking the bag and the jewel, went away very quickly from the market. And after a not very long time there came to the dealer an archer, as though in a great hurry and considerably alarmed \[having much hurry and fear\] about something. Now in this city the archers are the guards of the market, searching out everything, and tracking the thieves. He therefore came^[Use of Participles, § 44.] and asked the dealer as follows: 'Sir, was there here^[Interrogations, see § 74.] just now a stranger, buying precious stones and giving in exchange ducats apparently of gold?'^[§ 75.] And the dealer, as was natural, fearing for his jewel, and suspecting Thepos to be a thief,^[Case after verb 'to be,' § 38.] told everything to the archer and showed him the ducats.
+
+
+## EXERCISE XXXVII.
+
+### **Thepos---continued.**
+
+### VOCABULARY.
+
+- rub, τρίβω, ἔτριψα. 
+- give, δός. 
+- made, πεποιημένος. 
+- shame, ψευδής. 
+- copper, χαλκός, m. 
+- evidence, μαρτύριον. 
+- lies on, ἐπίκειται.
+- matter, affair, πρᾶγμα. 
+- of course, δή. 
+- understood, συνῆκα.
+- with respect to, πρός.
+
+And the archer said: 'All these things are so, as I suspected. For the ducats which you supposed to be golden, having rubbed them with the touchstone, I have^[§ 56.] often seen already : and they^[§ 76.] are not golden at all, but false, made out of copper: but there is gold on the top (say 'lies on them'), so that the touchstone is of course useless with respect to such (coins). But give me the sham gold, which shall give me evidence against the thief.' And taking the ten ducats he went off quickly, as though after Thepos. But the dealer remained many days,^[§36 (b).] hoping to see the archer coming back with the jewel and the thief. But as neither came any^[§ 78.] more, at last he understood the matter: for the archer was a friend to the thief, and these had^[§ 57.] devised the affair.
+
+-------
 
 We will now add the rest of the Active Verb, the Contracted Verbs, and the Middle and Passive; but care shall be taken to use only the commoner Tenses of the Middle and Passive at starting, that the work may be progressive.
 
 The Irregular Verbs have hitherto been mostly given in the Tense required. But for the future we shall only give the Present; and if the student does not know the required Tense, he can find it (either in his own Grammar or) in the list of Irregular Verbs at the end of this book, just before the Vocabulary.
 
-## EXERCISE XXXVITI.
+## EXERCISE XXXVIII.
 
-The Lamioi and the Tagoi.
+### **The Lamioi and the Tagoi.**
 
 ### VOCABULARY.
 
-formerly, πρότερον. obey, πείθεσθαι. rule, ἄρχω. employ, χράομαι. Lamioi, Λάμιοι, violence, Bia, ἔ, drive out, ἐξ-ελαύνω, I. resist, ἀντέχειν, 1. choose, αἱροῦμαι, I. nevertheless, ov μὴν ἀλλά, ruler, ἄρχων. enraged, be, ὀργίζομαι, ἃ. call, καλέω, 1. invent, πλάσσω. im consequence of, ἐκ, g. great hopes, πολλὴ ἐλπίς, party quarrel, στάσις. destroy, παύω. majority, ot πλείονες, fame, εὔκλεια, f. well-disposed, εὔνους. satisfactorily, ἐπιεικῶς, noble, εὐγενής. ridiculous, γελοῖος,
+- formerly, πρότερον.
+- obey, πείθεσθαι.
+- rule, ἄρχω.
+- employ, χράομαι.
+- Lamioi, Λάμιοι.
+- violence, βία, f. 
+- drive out, ἐξ-ελαύνω, I.
+- resist, ἀντέχειν, I.
+- choose, αἱροῦμαι, I.
+- nevertheless, ού μὴν ἀλλά.
+- ruler, ἄρχων.
+- enraged, be, ὀργίζομαι, d.
+- call, καλέω, I.
+- invent, πλάσσω.
+- in consequence of, ἐκ, g.
+- great hopes, πολλὴ ἐλπίς.
+- party quarrel, στάσις.
+- destroy, παύω.
+- majority, οἱ πλείονες.
+- fame, εὔκλεια, f.
+- well-disposed, εὔνους.
+- satisfactorily, ἐπιεικῶς.
+- noble, εὐγενής.
+- ridiculous, γελοῖος,
+- hostile, δυσμενής.
 
-hostile, δυσμενής.
+Formerly^[μέν and δέ,§ 76.] kings ruled the Lamioi: but after a certain time the Lamioi, having driven out the kings, chose instead of them other rulers, whom they called tagoi (ταγοί). And in consequence of this there were party quarrels: and the majority were well-disposed to the tagoi, but the nobles being few were^[To be ..., often adv. α ἔχω.] hostile, and would^[= were not willing.] not obey. And the tagoi perceiving this grew angry, and employed violence, so that they were no longer able to resist. Nevertheless they were enraged with the tagoi, and invented many^[§ 33.] absurd stories about them. And they were in great hopes of^[Use of inf. § 39.] destroying the honour and fame of the *tagoi* by these stories. For no one can rule satisfactorily and properly, if he becomes^[§ 49] ridiculous to his subjects.
 
-Formerly! kings ruled the Lamioi: but after a certain time the Lamioi, having driven out the kings, chose instead of them other rulers, whom they called tagoi (rayo/). And in consequence of this there were party quarrels: and the majority were well-disposed to the tagoi, but the nobles being few were? hostile, and would' not obey. And the tagoi perceiving this grew angry, and employed violence, so that they were no longer able to resist. Nevertheless they were enraged with the tagoi, and invented many' absurd stories about them. And they were in great hopes οἵ ὅ destroying the honour and fame of the tagoi by these stories. For no one can rule satisfactorily and properly, if he becomes ® ridiculous to his subjects,
-
-1 μέν and δέ, ὃ 76. 7? To be..., often adv. a ἔχω. 3 = were not willing. 4 § 33. δ Use of inf. ὃ 39. ὁ καὶ 49,
 
 ## EXERCISE XXXT1X.
 
-The Lamoi and the Tagoi---continued.
+### **The Lamoi and the Tagoi---continued.**
 
-VOCABULARY, ridicide, καταγελάω. well, φρέαρ (-ατ-), n. in old times, πάλαι. swim, véw (inf. νεῖν). skilled, ἔμπειρος. disappear, ἀφανίζομαι. pleasure, ἡδονή. meet, περιτυγχάνω, d. connected with, περί, a. climb, ἀναβαίνω. body, σῶμα, n. up, ἐπί, a, riding, ἱππασία, f. devour, ἀναρπάζω. gymnastics, γυμναστική. gird on self, περιζώννυμαι, 1. warlike, πολεμικός. sword, ξίφος, n. sprung, γενόμενος. entangle, ἐμποδίζω, ἃ. inerperienced, ἄπειρος, g. scabbard, κολεός, τη. shoot, τοξεύω. full down, καταπίπτω, I. point, αἰχμή, f. broken his head, κατεαγὼς τῆς for purpose of, ἐπί, ἃ. κεφάλης. road, ὁδός, f. perish, ὄλλυμαι (a. ὠλόμηνλ).
+### VOCABULARY.
 
-And on account of this reason they ridiculed more easily the tagol, because the kings, being noble, were in old times skilled! in the pleasures? connected with the body, such as hunting, and riding, and gymnastics, and also warlike matters,' but the tagoi being sprung from the people were much more inexperienced! in such things. And the stories were as follows: A tagos, when shooting, turned the point of the arrow towards himself. And, a tagos going out for purpose of hunting, and seeing an elephant, thought it was (to be) a rock.4 And, a tagos, riding on the road, fell into a well; and not knowing® how to swim was drowned (say ' disappeared'). And, atagos meeting a wolf, wished to climb up a tree, and, falling down, was devoured by the wolf. And, a tagos, having girt on him a sword, and getting entangled with the scabbard, fell down, and, having broken his head,® perished.
+- ridicule, καταγελάω. 
+- well, φρέαρ (-ατ-), n. 
+- in old times, πάλαι. 
+- swim, véw (inf. νεῖν).
+- skilled, ἔμπειρος.
+- disappear, ἀφανίζομαι.
+- pleasure, ἡδονή.
+- meet, περιτυγχάνω, d.
+- connected with, περί, a.
+- climb, ἀναβαίνω.
+- body, σῶμα, n.
+- up, ἐπί, a.
+- riding, ἱππασία, f.
+- devour, ἀναρπάζω.
+- gymnastics, γυμναστική.
+- gird on self, περιζώννυμαι, I.
+- warlike, πολεμικός.
+- sword, ξίφος, n.
+- sprung, γενόμενος.
+- entangle, ἐμποδίζω, d.
+- inerperienced, ἄπειρος, g.
+- scabbard, κολεός, m. shoot, τοξεύω.
+- full down, καταπίπτω, I.
+- point, αἰχμή, f.
+- broken his head, κατεαγὼς τῆς κεφάλης.
+- for purpose of, ἐπί, d. 
+- road, ὁδός, f.
+- perish, ὄλλυμαι (a. ὠλόμην).
 
-18 365 (5). 287%, 3 Neuter, § 30. + Case after Verbs 'to be,' ete., § 38. δ 8 42. 6 § 35 (ὐ).
+And on account of this reason they ridiculed more easily the *tagoi*, because the kings, being noble, were in old times skilled^[§ 35 (b).] in the pleasures^[§ 7.] connected with the body, such as hunting, and riding, and gymnastics, and also warlike matters,^[Neuter, § 30.] but the tagoi being sprung from the people were much more inexperienced^[§ 35 (b).] in such things. And the stories were as follows: A *tagos*, when shooting, turned the point of the arrow towards himself. And, a *tagos* going out for purpose of hunting, and seeing an elephant, thought it was (to be) a rock.^[Case after Verbs 'to be,' etc., § 38.] And, a *tagos*, riding on the road, fell into a well; and not knowing^[§ 42.] how to swim was drowned (say 'disappeared'). And, a *tagos* meeting a wolf, wished to climb up a tree, and, falling down, was devoured by the wolf. And, a *tagos*, having girt on him a sword, and getting entangled with the scabbard, fell down, and, having broken his head,^[§ 35 (b).] perished.
+
 
 ## EXERCISE XL.
 
@@ -2781,11 +2915,51 @@ And on account of this reason they ridiculed more easily the tagol, because the 
 
 ### VOCABULARY.
 
-another time, ἄλλοτε. then (after), ἔπειτα. . emerald, σμάραγδος, f. finish, ἐκτελέω, 1. talent, τάλαντον. arrive, ἀφικνέομαι, I, im no wise, οὐδαμῶς, there (motion), ἐκεῖσε. leave, λείπω (a. -λιπ-). pay, ἀποδίδωμι, 1. manage business, πραγμα- risk, κίνδυνος, m. τεύομαι. know (person), γιγνώσκω, I. 1 must, Set pe, inf. honest, δίκαιος.
+- another time, ἄλλοτε.
+- then (after), ἔπειτα.
+- emerald, σμάραγδος, f.
+- finish, ἐκτελέω, I.
+- talent, τάλαντον.
+- arrive, ἀφικνέομαι, I.
+- in no wise, οὐδαμῶς.
+- there (motion), ἐκεῖσε.
+- leave, λείπω (a. -λιπ-).
+- pay, ἀποδίδωμι, I.
+- manage business, πραγματεύομαι.
+- risk, κίνδυνος, m. 
+- know (person), γιγνώσκω, I.
+- I must, δεῖ με, inf. 
+- honest, δίκαιος.
 
-And another time Thepos wanted to steal an emerald, very precious, from the dealer. And he came! to the dealer and chose his emerald, and asked him how much it was \[is\] worth: and he said ' Ten talents,' And Thepos answered as follows : 'This then I will buy from you: but that large price \[the price being so great\] I have? in no wise brought \[with me\], but the money I have left at home. And some other business I must manage in the city, and then go home: and so when I have? finished everything I will come again to you, and you yourself with me shall go to my house, carrying the emerald : and I having arrived there and taken the stone will pay you the money. And thus there will be no risk for you about the price; for you do not know me yet, nor are aware that I am an honest man.'
+And another time Thepos wanted to steal an emerald, very precious, from the dealer. And he came^[Participles, § 44.] to the dealer and chose his emerald, and asked him how much it was \[is\] worth: and he said 'Ten talents,' And Thepos answered as follows : 'This then I will buy from you: but that large price \[the price being so great\] I have^[§ 56.] in no wise brought \[with me\], but the money I have left at home. And some other business I must manage in the city, and then go home: and so when I have^[§ 44.] finished everything I will come again to you, and you yourself with me shall go to my house, carrying the emerald : and I having arrived there and taken the stone will pay you the money. And thus there will be no risk for you about the price; for you do not know me yet, nor are aware that I am an honest man.'
 
-1 Participles, § 44. > § 56. 38 44,
+
+## EXERCISE XLI.
+
+### **Thepos and the Emerald---continued.**
+
+### VOCABULARY.
+
+- be settled, συμβαίνω, I.
+- health, ὑγίεια.
+- valuable, τίμιος.
+- diseased, νοσῶν.
+- arranged (say 'it happened'), γίγνομαι.
+- mad, μαινόμενος.
+- talk, λαλέω. 
+- some such as this, τοιοῦτός τις. 
+- give trouble, πράγματα παρέχω.
+- physician, ἰατρός.
+- owe, ὀφείλω, a. 
+- in other respects, τὰ ἄλλα.
+- amusing, γελοῖος.
+- well, εὖ ἔχων.
+- painful, λυπηρός.
+- as regards, περί, g.
+- converse, διαλέγομαι.
+
+And hearing^[Tenses of Partic. § 68.] this, the dealer was pleased, and the matter was so settled. For about the most valuable things it was for the most part arranged in some such way as this. And Thepos went away and came to a famous physician, by name Goulos. And he said as follows: 'Goulos, I have a brother in other respects quite well as regards health, but in^[Dat. § 37 (f).] one matter diseased and mad. For he is always talking about ten talents, and everywhere giving trouble, and asking everybody as though they owed \[owing\] this to him. And to others the matter seems to be amusing, but to me most painful. And I will give you an example: for he will come here^[Use of Partic. § 44.] to you and converse probably about ten talents, and will ask you, who have \[having\] never seen him.'
+
 
 ## EXERCISE XLII.
 
@@ -2793,25 +2967,19 @@ And another time Thepos wanted to steal an emerald, very precious, from the deal
 
 ### VOCABULARY.
 
-be settled, συμβαίνω, I. health, ὑγίεια. valuable, τίμιος. diseased, νοσῶν. arranged (say 'it happened'), mad, μαινόμενος.
+- perceive, γιγνώσκω, I.
+- tend, θεραπεύω.
+- sort, γένος, n.
+- go with, ἕπεσθαι, I.
+- madness, μανία.
+- go on, προέρχομαι.
+- sensible, ἔμφρων (-ov-).
+- lead-the-way, ἡγοῦμαι.
+- I am out of my mind, μέμνηνα.
+- be about, μέλλω. 
+- knock, κόπτω.
 
-γίγνομαι. tulk, λαλέω. some such as this, τοιοῦτός tis. *---* give trouble, πράγματα παρέχω. physician, ἰατρός. owe, ὀφείλω, 8. in other respects, τὰ ἄλλα, amusing, γελοῖος. well, εὖ ἔχων. painful, λυπηρός. as regards, περί, g. converse, διαλέγομαι.
-
-And hearing! this, the dealer was pleased, and the matter was so settled. For about the most valuable things it was for the most part arranged in some such way as this. And Thepos went away and came to a famous physician, by name Goulos. And he said as follows: 'Goulos, I have a brother in other respects quite well as regards health, but in? one matter diseased and mad. For he is always talking about ten talents, and everywhere giving trouble, and asking everybody as though they owed \[owing\] this to him. And to others the matter seems to be amusing, but to me most painful. And I will give you an example: for he will come here to you and converse probably about ten talents, and will ask you, who have \[having\] never seen him.'
-
-1 Tenses of Partic. § 68. 2 Dat. § 37 (/). * Use of Partic. § 44.
-
-## EXERCISE XLII.
-
-### **Thepos and the Emerald---continued.**
-
-### VOCABULARY.
-
-perceive, γιγνώσκω, 1. tend, θεραπεύω. sort, γένος, Nn. go with, ἕπεσθαι, 1. madness, μανία. go On, προέρχομαι. sensible, ἔμφρων (-ov-). lead-the-way, ἡγοῦμαι. 1 am out of my mind, be about, μέλλω. μέμνηνα. knock, κόπτω.
-
-And the physician, perceiving the matter, answered as follows : 'Stranger, it is plam! to me that your brother! is diseased in? his head : for there is a sort of madness such as that: the man is often in other respects sensible, but about one thing he is out-of-his-mind. Do you then bring your brother hither to me, and I will tend him as well as possible.' And Thepos, going away to the dealer, ordered him to give him? the emerald, and to go with him to his house. And he gave him the jewel, and himself went on, leading-the-way to the house of Goulos. And Thepos was just about to knock at the door: but the dealer, perceiving that it was \[is\] the house of Goulos, and suspecting something, said to him suddenly as follows :
-
-1 Construct. of δῆλυς, § 32. 2 § 36 (d). * Reflexive, § 17. S.G. W. \] H
+And the physician, perceiving the matter, answered as follows : 'Stranger, it is plain^[Construct. of δῆλος, § 32.] to me that your brother^[Construct. of δῆλος, § 32.] is diseased in^[§ 36 (d).] his head : for there is a sort of madness such as that: the man is often in other respects sensible, but about one thing he is out-of-his-mind. Do you then bring your brother hither to me, and I will tend him as well as possible.' And Thepos, going away to the dealer, ordered him to give him^[Reflexive, § 17.] the emerald, and to go with him to his house. And he gave him the jewel, and himself went on, leading-the-way to the house of Goulos. And Thepos was just about to knock at the door: but the dealer, perceiving that it was \[is\] the house of Goulos, and suspecting something, said to him suddenly as follows :
 
 ## EXERCISE XLII.
 
