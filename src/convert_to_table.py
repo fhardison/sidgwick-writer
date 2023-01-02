@@ -18,22 +18,9 @@ buffer = []
 for x in text:
     if x.strip():
         out.append(f"- {x.strip()}.")
-    # if len(buffer) < 2:
-    #     buffer.append(x.strip() + '.')
-    # else:
-    #     out.append(f'| {" | ".join(buffer)} |')
-    #     buffer = [x.strip() + '.']
-
-# out.append(f'| {" | ".join(buffer)} |')
-
 
 
 data = '\n'.join(out)
-# ofile.write_text(f"""| | |
-# |:--|:--|
-# {data}
-# """)
-pyperclip.copy(data)
 
 if len(sys.argv) > 2:
     ofile = Path(sys.argv[2])
