@@ -66,6 +66,11 @@ p + ul {
   margin-top: 0;
 }
 
+h3 + ul {
+  column-count: 2;
+  column-gap: 2em;
+}
+
 li ul {
   margin-top:1em;
 }
