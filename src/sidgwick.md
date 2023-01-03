@@ -4077,33 +4077,49 @@ But the owl, closing her eyelids slowly and solemnly, said, 'Well, I will give y
 Once on a time there were some wonderful weavers, by name Plekioi, who came to the city of Kelos. Now Kolos was a very proud king, but he was not considered to be wise. And the Plekioi asked leave to go to the king, and show off their skill to him. And they came and spoke as follows :--- 'O most mighty king, we should^[Use of Optat. with οἴν, § 69.] be willing to do you very much good by our art; for we can weave such garments, that^[Say 'which you wearing will.'] you wearing them shall be able to discern those faithful and unfaithful of all with whom you deal. For all that are faithful and worthy of honour and capable of ruling,^[Use of Infinitive, § 39.] these will be able to see the garments clearly: but the unworthy will not see anything at all.'
 
 
-1 Use of Optat. with olv, § 69. 3 Say 'which you wearing will.' 8 Use of Infinitive, § 39.
-
-## EXERCISE XCI.
+## EXERCISE XCII.
 
 ### **The Weavers---continued.**
 
 ### VOCABULARY.
 
-too great, μείζων. one must needs, ἀνάγκη, with inf. confidently, θαρρῶν, part. 100, ἑκατόν. please=wish, θέλω. full-length, ποδήρης. be ready, θέλω. robe, πέπλος, τη. anything τε everything, πᾶν. magnificent, μεγαλοπρεπής. we care, use μέλει. visible, ὁρατός.
+- too great, μείζων.
+- one must needs, ἀνάγκη, with inf.
+- confidently, θαρρῶν, part.
+- 100, ἑκατόν.
+- please=wish, θέλω.
+- full-length, ποδήρης.
+- be ready, θέλω.
+- robe, πέπλος, m.
+- anything=everything, πᾶν.
+- magnificent, μεγαλοπρεπής.
+- we care, use μέλει.
+- visible, ὁρατός.
+- since, ἐπεί.
 
-since, ἐπεί,
+And the king, much pleased with what^[Attracted relative, § 27.] the weavers told him, said, 'I should be delighted to^[Use of Participle, § 43.] receive such clothes, and in return for such a gift I should think no price too great : accordingly ask confidently for as much as you please, seeing that^[ώς with Gen. Abs. Particle, § 46.] I am ready to pay anything.' And they replied as follows: 'O king, we give thanks to you for what^[Attacted Relative, § 27.] you have^[Tenses, § 56.] said, but for the money we care less: but since we must needs live, you shall give us each 100 staters a day. And in return for this we will weave you one full-length robe, which to the good and faithful citizens and all who are capable of rule shall seem to be most magnificent, but to the unworthy not even visible.'
 
-And the king, much pleased with what! the weavers told him, said, 'I should be delighted to? receive such clothes, and in return for such a gift I should think no price too great : accordingly ask confidently for as much as you please, seeing that? I am ready to pay anything.' And they replied as follows: 'O king, we give thanks to you for what! you have4 said, but for the money we care less: but since we must needs live, you shall give us each 100 staters a day. And in return for this we will weave you one full-length robe, which to the good and faithful citizens and all who are capable of rule shall seem to be most magnificent, but to the unworthy not even visible.'
-
-1 Attracted Relative, § 27. 3 Use of Participle, 8 43. 3 ws with Gen. Abs. Particle, § 46. 4 Tenses, § 56.
-
-## EXERCISE XCITI.
+## EXERCISE XCIII.
 
 ### **The Weavers---continued.**
 
 ### VOCABULARY.
 
-salute, ἀσπάζομαι, a. up and down, ἄνω κάτω. loom, ἱστός. interest, σπουδή. agreement, τὸ εἰρημένον. ceaseless, ἄπληστος. cloth, ὕφασμα, n. and moreover, kat δὴ καί. window, θυρίς, f. be quit, ἀπαλλαγῆναι. seated, καθημένος. afraid, δεδιώς.
+- salute, ἀσπάζομαι, a.
+- up and down, ἄνω κάτω.
+- loom, ἱστός.
+- interest, σπουδή.
+- agreement, τὸ εἰρημένον.
+- ceaseless, ἄπληστος.
+- cloth, ὕφασμα, n.
+- and moreover, kat δὴ καί.
+- window, θυρίς, f.
+- be quit, ἀπαλλαγῆναι.
+- seated, καθημένος.
+- afraid, δεδιώς.
 
-And when they had said this, and had saluted the 'king, they went off to the house and set up the loom. And the king, according to the agreement, paid to each the staters each day. And they remained many days! in the house as though? working at® the cloth. And. as' the loom stood by a great window, the passers-by all saw the weavers seated at® their work, and throwing their arms quickly up and down as though weaving a great cloak. And in the city, as was natural, there was much interest and ceaseless conversation about the matter; and, moreover, no small strife, some ὅ rejoicing that now the king would' be quit of the unfaithful men, the others afraid, and abusing the weavers,
+And when they had said this, and had saluted the king, they went off to the house and set up the loom. And the king, according to the agreement, paid to each the staters each day. And they remained many days^[§ 36 (b).] in the house as though^[Dramatic Particles, § 75.] working at^[περί (a).] the cloth. And as^[§ 47.] the loom stood by a great window, the passers-by all saw the weavers seated at^[ἐπί (d).] their work, and throwing their arms quickly up and down as though weaving a great cloak. And in the city, as was natural, there was much interest and ceaseless conversation about the matter; and, moreover, no small strife, some^[Genitive Absolute, § 35 (g).] rejoicing that now the king would^[Say 'if now ... shall be quit.'] be quit of the unfaithful men, the others afraid, and abusing the weavers.
 
-1 § 36 (δ). 3 Dramatic Particles, § 75. 8 περί (a). 4 καὶ 47. δ ἐπί (d). 5 Genitive Absolute, 8 35 (9). 7Say 'ifnow. .. shall be quit.'
 
 ## EXERCISE XCIV.
 
@@ -4111,15 +4127,24 @@ And when they had said this, and had saluted the 'king, they went off to the hou
 
 ### VOCABULARY.
 
-come into view, φανερόν γενέσ- unsparingly, ἀφθόνως. θαι. hold up, ἀνέχω, I. steward, ταμίας. all but, ὀλίγου δεῖν.
+- come into view, φανερόν γενέσθαι. 
+- unsparingly, ἀφθόνως.
+- hold up, ἀνέχω, I.
+- steward, ταμίας.
+- all but, ὀλίγου δεῖν.
+- to get on, use ἔχω, intrans.
+- inspect, διασκοπεῖν.
+- variegated, ποικίλος.
+- manufacture, ποιεῖν.
+- magnificence, μεγαλοπρέπεια.
+- not a whit, οὐδέν τι.
+- report, ἀπαγγέλλω.
+- grovel, προκεῖσθαι.
+- admire, θαυμάζω.
 
-to get on, use ἔχω, intrans, inspect, διασκοπεῖν. variegated, ποικίλος.; manufacture, ποιεῖν. magnificence, μεγαλοπρέπεια. not a whit, οὐδέν te. report, ἀπαγγέλλω.
 
-grovel, προκεῖσθαι. admire, θαυμάζω.
+And after two months, as the Plekioi were still working and nothing yet had come into view, the king sent his steward to their^[Use of Possessive, § 21.] house, as though to see (fut. part.) the work how it was getting on (pres.). And he came and inspected the loom, and saw nothing at all. And the Plekioi, standing round, showed him the cloth, how variegated and bright it was (is), and skilfully manufactured.^[Perfect or Aorist, § 64.] And he not being able to see a whit the more, praised it, however, unsparingly, and held up his hands, and all but grovelled on the ground, as though admiring the magnificence of the garment. And he went away and reported to Kolos in like manner, that the cloth was (is) most beautiful, and would (will) be complete in a short time.
 
-And after two months, as the Plekioi were still working and nothing yet had come into view, the king sent his steward to their! house, as though to see (fut. part.) the work how it was getting on (pres.). And he came and inspected the loom, and saw nothing at all. And the Plekioi, standing round, showed him the cloth, how variegated and bright it was (is), and skilfully manufactured.2 And he not being able to see a whit the more, praised it, however, unsparingly, and held up his hands, and all but grovelled on the ground, as though admiring the magnificence of the garment. And he went away and reported to Kolos in like manner, that the cloth was (is) most beautiful, and would (will) be complete in a short time.
-
-1 Use of Possessive, § 21. 2 Perfect or Aorist, § 64.
 
 ## EXERCISE XCV.
 
@@ -4127,15 +4152,17 @@ And after two months, as the Plekioi were still working and nothing yet had come
 
 ### VOCABULARY.
 
-elapse, γενέσθαι. . unworthy, ἀνάξιος. chief (men), οἱ ἄριστοι. persuade, πείθω.
+- elapse, γενέσθαι.
+- unworthy, ἀνάξιος.
+- chief (men), οἱ ἄριστοι.
+- persuade, πείθω.
+- in each detail, καθ᾽ ἕκαστον.
+- conscious in one's own heart, συνειδὼς ἑαντῷ.
+- put on, ἐνδῦναι.
+- go in procession, πομπεύω.
 
-in each detail, καθ᾽ ἕκαστον. conscious im one's own heart, συνειδὼς ἑαντῷ.
+And at last when many more days had elapsed,^[Use of articiple, § 44.] a certain one of the Plekioi came back saying that the cloth was ready.^[Accusative Infinitive, § 40.] And the chief of the officers went to look at (fut. partic.) the work. And all the weavers were present, and as before they showed off in each detail how excellent the cloak was (is). And the officers, not even themselves seeing anything, fearing however just as the steward (had done), and being conscious each in his heart how unworthy and unfaithful he was (is), did not in any wise dare to confess the truth, that they had seen^[Use Aorist.] nothing. But they praised and admired it themselves. And so by praising^[§ 45.] they persuaded the king to accept the cloak, and put it on, and^[§ 44.] go in a procession solemnly through the city.
 
-put on, ἐνδῦναι. 90 in @ procession, πομπεύω.
-
-And at last when many more days had elapsed, a certain one of the Plekioi came back saying that the cloth was ready.? And the chief of the officers went to look at (fut. partic.) the work. And all the weavers were present, and as before they showed off in each detail how excellent the cloak was (is). And the officers, not even themselves seeing anything, fearing however just as the steward (had done), and being conscious each in his heart how unworthy and unfaithful he was (is), did not in any wise dare to confess the truth, that they had seen' nothing. But they praised and admired it themselves. And so by praising' they persuaded the king to accept the cloak, and put it on, and® go in a procession solemnly through the city.
-
-1 Use of Participle, § 44. 3 Accusative Infinitive, § 40. 2 Use Aorist. 48 45. §§$ 44.
 
 ## EXERCISE XCVI.
 
@@ -4143,37 +4170,48 @@ And at last when many more days had elapsed, a certain one of the Plekioi came b
 
 ### VOCABULARY.
 
-those in office, ot ev τέλει, put round one, ἀμφιβάλλομαι,1.
+- those in office, οἱ ἐν τέλει.
+- put round one, ἀμφιβάλλομαι, I.
+- lead on, προάγω.
+- street, ὁδός, f.
+- do obeisance, προσκυνέω.
+- naked, γυμνός.
+- uncover, ἀποκαλύπτω.
+- whisper, ὑπειπεῖν.
+- sin, ἁμαρτάνω.
+- state of case, πρᾶγμα.
+- give sign, δηλόω.
+- fall into, τραπέσθαι εἰς.
+- put off, ἐκδύομαι.
+- mock, σκώπτω, a.
 
-lead on, προάγω. street, ὁδός, f.
+And the king, coming with much hope, with all those in office attending, was led on to the loom, amid the salutes and obeisance of the weavers.^['The weavers saluting and doing obeisance.' See Participles, § 44.] But when^[Use ἐπεὶ with Aorist.] the loom was uncovered, not even Kolos himself saw anything^[Dramatic Particles, § 75.] at all. But being conscious in his own heart that (ὅτι) he had sinned (aor.) many^[§ 36 (c).] (sins), and, being afraid, he gave no^[§ 36 (c).] sign, but, hiding his suspicion, praised the work, and putting off his clothes he put round him the supposed^[Dramatic Particles, § 75.] new cloth, and so marched through the street. And the people in the streets,^[§ 6.] not even themselves seeing anything, but being afraid, like the former ones,^[§ 6.] to confess it, made much noise by praising and admiring; and at last a child cried out, 'But the king is naked;' and as each whispered this to his neighbour, all discovered the state of the case, and fell into much laughter, mocking both themselves and the king,
 
-ilo obeisance, προσκυνέω. naked, γυμνός.
 
-uncover, ἀποκαλύπτω. whisper, ὑπειπεῖν.
-
-sin, ἁμαρτάνω. state of case, πρᾶγμα.
-
-give sign, δηλόω. fall into, τραπέσθαι εἰς.
-
-put off, ἐκδύομαι. mock, σκώπτω, a.
-
-And the king, coming with much hope, with all those in office attending, was led on to the loom, amid the salutes and obeisance of the weavers.! But when? the loom was uncovered, not even Kolos himself saw anything? at all. But being conscious in his own heart that (ὅτι) he had sinned (aor.) many' (sins), and, being afraid, he gave no? sign, but, hiding his suspicion, praised the work, and putting off his clothes he put round him the supposed? new cloth, and so marched through the street. And the people in the streets,5 not even themselves seeing anything, but being afraid, like the former ones,® to confess it, made much noise by praising and admiring; and at last a child cried out, 'But the king is naked ;' and as each whispered this to his neighbour, all discovered the state of the case, and fell into much laughter, mocking both themselves and the king,
-
-1 «The weavers saluting and doing obeisance.' See Participles, § 44. 2 Use ἐπεὶ with Aorist. ὃ Dramatic Particles, ἃ 75. 43 36 (0). 5. 8 6. δ δ 6.
-
-## EXERCISE XCVI1.
+## EXERCISE XCVII.
 
 ### **The Princess.**
 
 ### VOCABULARY.
 
-royal, βασιλικός. wound, τραυματίζω. insist, διισχυρίζομαι. suffer pain, ἀλγεῖν. is the case, οὕτως ἔχειν. dry, Enpos. coarse, ἄγροικος. bean, κύαμος. hear, πυνθάνομαι. couch, κλίνη. prove, ἐνδείκνυμι, 1. spread, καταπετάννυμι, I. softly, μαλακῶς. over, ὑπέρ, g.
+- royal, βασιλικός.
+- wound, τραυματίζω.
+- insist, διισχυρίζομαι.
+- suffer pain, ἀλγεῖν.
+- is the case, οὕτως ἔχειν.
+- dry, Enpos.
+- coarse, ἄγροικος.
+- bean, κύαμος.
+- hear, πυνθάνομαι.
+- couch, κλίνη.
+- prove, ἐνδείκνυμι, I.
+- spread, καταπετάννυμι, I.
+- softly, μαλακῶς.
+- over, ὑπέρ, g.
+- otherwise, εἰ δὲ μή.
 
-otherwise, εἰ δὲ μή.
+Now the Kalydonioi are said to be royal in race: and they themselves also strongly insist that^[Acc. Inf. § 40.] this is the case. And once on a time there was one of the citizens, coarse in his nature, who being vexed with the Kalydonioi, said that} the daughter of the principal man among them (of them) was not royal. And she hearing it,^[Tense of Participle, § 68.] and being indignant, wanted to prove that (ὅτι) she was (is) royal. And royal persons are easy to discern in this way, because they must lie softly: otherwise they are severely wounded and suffer pain in their body. Accordingly she bought a dry bean and laid it down on a couch, and having spread twenty very soft rugs over the bean, she lay down.
 
-Now the Kalydonioi are said to be royal in race: and they themselves also strongly insist that! this is the case. And once on a time there was one of the citizens, coarse in his nature, who being vexed with the Kalydonioi, said that} the daughter of the principal man among them (of them) was not royal. And she hearing it,? and being indignant, wanted to prove that (ὅτι) she was (is) royal. And royal persons are easy to discern in this way, because they must lie softly: otherwise they are severely wounded and suffer pain in their body. Accordingly she bought a dry bean and laid it down on a couch, and having spread twenty very soft rugs over the bean, she lay down.
-
-1 Ace. Inf. § 40. 3 Tense of Participle, § 68.
 
 ## EXERCISE XCVITI.
 
@@ -4181,11 +4219,17 @@ Now the Kalydonioi are said to be royal in race: and they themselves also strong
 
 ### VOCABULARY.
 
-ordinary, μέτριος. maid-servant, θεράπαινα. by reason of, διά, a. bloody, ἡματωμένος. fall asleep, καταδαρθάνω, 1. admit, ὁμολογέω. at dawn, ἅμα τῇ ἕῳ. verily, ἦ μήν.
+- ordinary, μέτριος.
+- maid-servant, θεράπαινα.
+- by reason of, διά, a.
+- bloody, ἡματωμένος.
+- fall asleep, καταδαρθάνω, I.
+- admit, ὁμολογέω.
+- at dawn, ἅμα τῇ ἕῳ.
+- verily, ἦ μήν.
 
-And these things she did on account of this, because of ordinary men no one would? suffer pain by reason of a bean, with? so many and so soft? rugs lying between: but royal persons must needs be wounded even so. And the maiden lying down as was said tried to sleep: but owing to the pain she could not even fall asleep. For on account of the bean that was below' she felt pain in all her body, and was disturbed all night long, not even being able to close her eyes. And at dawn her maid-servants came back, and found the wretched (girl) bloody and wounded, and nearly dead. So all admitted that® verily in truth she was royal.
+And these things she did on account of this, because of ordinary men no one would^[Opt. and ἄν, § 69.] suffer pain by reason of a bean, with^[Participle, § 35 (g).] so many and so soft^[Use of τοιοῦτος, § 24.] rugs lying between: but royal persons must needs be wounded even so. And the maiden lying down as was said tried to sleep: but owing to the pain she could not even fall asleep. For on account of the bean that was below^[Article and Adv. § 6.] she felt pain in all her body, and was disturbed all^[§ 4.] night long, not even being able to close her eyes. And at dawn her maid-servants came back, and found the wretched (girl) bloody and wounded, and nearly dead. So all admitted that^[Acc. Inf. § 40.] verily in truth she was royal.
 
-1 Opt. and dy, § 69. 3 Participle, § 35 (9). > Use of τοιοῦτος, § 24. 4 Article and Adv. 8 6. 5 § 4. 6 Acc, Inf. § 40. !
 
 ## EXERCISE XCIX.
 
@@ -4193,47 +4237,72 @@ And these things she did on account of this, because of ordinary men no one woul
 
 ### VOCABULARY.
 
-Kilioi, Κιλίοι. to be open, παρεῖναι, I. spirit, δαιμόνιον. by all means, παντάπασι. estate, land, ἀγρός. it is probable, εἰκός, acc. inf. Grymphos, Γρυμῴός. injure, βλάπτω. appear, φανῆναι, 1. risk, κινδυνεύω.
+- Kilioi, Κιλίοι.
+- to be open, παρεῖναι, I.
+- spirit, δαιμόνιον.
+- by all means, παντάπασι.
+- estate, land, ἀγρός.
+- it is probable, εἰκός, acc. inf.
+- Grymphos, Γρυμῴός.
+- injure, βλάπτω.
+- appear, φανῆναι, I.
+- risk, κινδυνεύω.
 
-The Kilioi are a wonderful race, and they think that there are many! terrible spirits. And, once upon a time a Kilios bought an estate, and found? a spirit there dwelling under ground, by name Grymphos. And once when the Kilios was asleep, Grymphos appeared to him in a dream, and spoke to him as follows: 'O Kilios, it is open to you to choose one of two things, whether you wish to be a friend to me or hostile. And I advise you to be a friend? by all means: for if you are hostile,' it is probable that I too should become bitter, and in many, ways injure your land: and this you will be more sensible not® to risk (not risking). Do you then wish to 'make an agreement with me about the land 1᾽
+The Kilioi are a wonderful race, and they think that there are many^[πολὐς, § 33.] terrible spirits. And, once upon a time a Kilios bought an estate, and found^[Use Participle.] a spirit there dwelling under ground, by name Grymphos. And once when the Kilios was asleep, Grymphos appeared to him in a dream, and spoke to him as follows: 'O Kilios, it is open to you to choose one of two things, whether you wish to be a friend to me or hostile. And I advise you to be a friend^[Case after verb 'to be,' § 38.] by all means: for if you are hostile,^[§ 49.] it is probable that I too should become bitter, and in many, ways injure your land: and this you will be more sensible not^[§ 77] to risk (not risking). Do you then wish to 'make an agreement with me about the land ?᾽
 
-1 πολύς, § 33. 2 Use Participle. 3 Case after verb ' to be,' § 38. 4 8 49. δ 8 71. 8. Interrogations, § 74.
 
 ## EXERCISE C.
 
-### **Grymphos---continued.** VOCABULARY,
+### **Grymphos---continued.**
 
-produce, καρπός. this year, τῆτες. on these terms, ἐπὶ τοῖςδε. gain, κέρδος, n. tribute, φόρος. following, vorepaios.
+### VOCABULARY,
 
-But the Kilios, already afraid, and wishing to save both himself and the produce of his land, agreed with Grymphos and said he would make a contract. But Grymphos said : 'On these terms then I am willing to become a friend to you. For from your estate you shall pay me the following tribute : this year,! I shall have of the produce all that lies (newt. part.) under the earth, being my? share: but whatever you shall find above ground, let it be your gain. And thus you? shall become rich, but I as is natural shall be left? poor. But in' the following year exactly® the opposite must be done : for to me you shall give what is above ground, but to yourself what is below.' |
 
-1 § 76. 2 § 75. 3 § 65. 4 § 37 (a). 5 πᾶν.
+- produce, καρπός.
+- this year, τῆτες.
+- on these terms, ἐπὶ τοῖςδε.
+- gain, κέρδος, n.
+- tribute, φόρος.
+- following, κινδυνεὐω.
 
-## EXERCISE Cl.
+But the Kilios, already afraid, and wishing to save both himself and the produce of his land, agreed with Grymphos and said he would make a contract. But Grymphos said : 'On these terms then I am willing to become a friend to you. For from your estate you shall pay me the following tribute : this year,^[§ 76.] I shall have of the produce all that lies (newt. part.) under the earth, being my^[§ 75.] share: but whatever you shall find above ground, let it be your gain. And thus you^[§ 75.] shall become rich, but I as is natural shall be left^[§ 65.] poor. But in^[§ 37 (a).] the following year exactly^[πᾶν.] the opposite must be done : for to me you shall give what is above ground, but to yourself what is below.'
+
+## EXERCISE CI.
 
 ### **Grymphos---coutinued.**
 
 ### VOCABULARY.
 
-arouse, ἐξεγείρω. leaf, φύλλον. half, τὸ ἡμίσυ. project above, ὑπερέχω, I. SOW, σπείρω. profitable, ὠφέλιμος. Onion, κρόμμνον. cheat, ἐξαπατάω.
+- arouse, ἐξεγείρω.
+- leaf, φύλλον.
+- half, τὸ ἡμίσυ.
+- project above, ὑπερέχω, I.
+- SOW, σπείρω.
+- profitable, ὠφέλιμος.
+- Onion, κρόμμνον.
+- cheat, ἐξαπατάω.
 
-On these terms! therefore the Kilios made a contract with Grymphos, and he immediately disappeared. And when day came, the Kilios being aroused out of sleep, and rising up from his bed first was in great perplexity, as he had promised? that he would give (fui. inf.) to Grymphos the half of his produce. But at last he devised this (scheme) so as to deceive the spirit. During? the first year he sowed corn: and thus all the fruit being above ground he had himself, Grymphos carrying off what was' below ground and useless. But in the second he sowed onions in the field: and of these the leaves only projected above the earth; and again Grymphos got nothing profitable. Accordingly being twice cheated he departed and troubled the Kilios no more.
+On these terms^[οὗτος nad ὅδε, § 23.] therefore the Kilios made a contract with Grymphos, and he immediately disappeared. And when day came, the Kilios being aroused out of sleep, and rising up from his bed first was in great perplexity, as he had promised^[Causal Participle, § 47.] that he would give (fui. inf.) to Grymphos the half of his produce. But at last he devised this (scheme) so as to deceive the spirit. During^[Acc.] the first year he sowed corn: and thus all the fruit being above ground he had himself, Grymphos carrying off what was^[§ 25.] below ground and useless. But in the second he sowed onions in the field: and of these the leaves only projected above the earth; and again Grymphos got nothing profitable. Accordingly being twice cheated he departed and troubled the Kilios no more.
 
-1 οὗτος and ὅδε, ὃ 23. 3 Causal Participle, 8 47. 3 Ace. 4 § 25.
 
-## EXERCISE Cl.
+## EXERCISE CII.
 
 ### **The Boy and the Dog.**
 
 ### VOCABULARY.
 
-carry away, ἀποκομίζω. by seaside, rapa τῇ θαλάσσῃ. abroad, θύραζε. protesting, σχετλιάζω. be minded, ἐν νῷ ἔχειν. why? τί;
+- carry away, ἀποκομίζω.
+- by seaside, παρὰ τῇ θαλάσσῃ.
+- abroad, θύραζε.
+- protesting, σχετλιάζω.
+- be minded, ἐν νῷ ἔχειν.
+- why? τί; 
+- export, ἐκφέρειν, ἐκκομίζω.
+- why, † γάρ (particle).
+- port, ἐμπόριον.
 
-export, ἐκφέρειν, ἐκκομίζω. why, t γάρ (particle). port, ἐμπόριον.
+Now, the merchants have a law, when wishing to carry away their goods abroad, to tie a tablet round them, on which is written^[Tenses, § 63.] the place whither they are minded to export them. And sometimes they export dogs and hares and cats: and they tie the tablets in like manner round^[Dative after compound Verb.] these also. And a certain citizen, who happened to be walking in the port, saw a boy with a dog standing by the seaside, and weeping and protesting in a marvellous manner. And when he asked^[Participle, § 44.] why he did (does) such things, the boy with many tears said, 'Why, this accursed dog has eaten his tablet up; nor do I know at all where on earth we are being carried to.'
 
-Now, the merchants have a law, when wishing to carry away their goods abroad, to tie a tablet round them, on which is written! the place whither they are minded to export them. And sometimes they export dogs and hares and cats: and they tie the tablets in like manner round? these also. And a certain citizen, who happened to be walking in the port, saw a boy with a dog standing by the seaside, and weeping and protesting in a marvellous manner. And when he asked? why he did (does) such things, the boy with many tears said, 'Why, this accursed dog has eaten his tablet up; nor do I know at all where on earth we are being carried to.'
-
-1 Tenses, § 63. 3 Dative after compound Verb. * Participle, 8 44.
 
 ## EXERCISE Cll.
 
