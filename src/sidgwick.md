@@ -4652,3 +4652,43 @@ There was a certain archer in Crete, very skilful in shooting,^[Article and Infi
 - sophist, σοφιστής.
 
 There was a certain youth dwelling in Krise, being the son of the magistrate of the Krisaioi. And he went abroad to Athens in order that he might learn^[Final, § 70.] philosophy from the sophists there; and when he was going away his father gave him plenty of money, so that he should be^[Use ὤστε with the Accusative and Infinitive.] able to live at Athens one year, and pay the sophists their fee. And the boy, having arrived at the city, and having met another young man who had been^[Tenses, § 57.] an acquaintance (of his) previously, asked him to advise him what he ought^[Use Present Optative of δεῖ.] to do, and in what way to live. And he gave him much strange advice \[advised many strange things\], and in return for many gifts he taught him very cleverly to borrow money. Accordingly, when the year was ending, and his father asked him if the money proved sufficient which he had received at his departure, he said, 'Certainly it proved sufficient: for it was on account of this I was able to borrow the rest.'
+
+# Note on Interrogatives and Relatives.
+
+Our words which, when, where, etc.,in English (most of them beginning with «wh-) are represented by different words in Greek according to the meaning. They are best classified as under; taking the word where for example we get the following various usages :---
+
+(1.) Interrogative direct (int. dir.). 
+
+- Where are you? <br/>ποῦ εἶ; 
+
+(2.) Interrogative indirect (int. ind.). 
+
+- I don't know where you are. <br />οὐκ οἷδα ποῦ εἶ. <br />οὺκ οἶδα ὅπου εἶ.
+
+(3.) Relative (rel.). 
+
+- The place where I found. <br >τὸ χωρίον οὗπερ<br />τὸ χωρίον ου<br /> τὸ χωρίον ὅπου
+
+And in some of them we get a fourth kind :--- 
+
+(4.) Exclamatory (excl.). 
+
+- What a fellow! <br />οἷος ἄνθρωπος.
+
+To save repetition in the Vocabulary this table may be referred to :---
+
+
+| | Direct Interrog. |  Indirect Interrog. Relative. | Exclamatory. | 
+|:--|:--|:--|:--|:--| 
+| where | ποῦ | ὅπου, ποῦ | ὅπου, οὗ, οὗτερ | --|
+| when | πότε | ὁπότε, πότε | ὅτε, ὁπότε | --- |
+| what | τίς, τί | ὅστις (ὅ,τι) τίς,τί | ὅς, ὅστις, ὅσπερ | --- |
+| what (kind) | ποῖος | ποῖος, ὁποῖος | ὁποῖος, οἷος | οἷος | 
+| how | πῶς | ὅπως, πῶς | ὅπως, ὡς | ὡς |
+| whence | πόθεν | ὁπόθεν, πόθεν | ὁπόθεν, ὅθεν | --- |
+| whither | ποῖ | ὅποι, ποῖ | ὅποι, οἷ, οἷπερ| --- |
+| whether | πότερος | πότερος, ὁπότερος | --- | ---| 
+| which | πότερος | | | 
+| who | τίς | τίς, ὅστις | ὅστις, ὃς | --- |
+| how much | πόςος | πόσος, ὁπόσος | ὁπόσος, ὅσος | ὅσος |
+

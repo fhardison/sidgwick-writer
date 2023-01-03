@@ -1,20 +1,42 @@
 # Note on Interrogatives and Relatives.
 
-Our words which, when, where, etc.,in English (most of them beginning with «wh-) are represented by different words in Greek according to the meaning. 'Fhey are best classified as under; taking the word where for example we get the following various usages :---
+Our words which, when, where, etc.,in English (most of them beginning with «wh-) are represented by different words in Greek according to the meaning. They are best classified as under; taking the word where for example we get the following various usages :---
 
-(1.) Interrogative direct (int. dir.). Where are you? ποῦ εἶ; (2.) Interrogative indirect (int. ind.). I don't know where you are. οὐκ οἷδα TOU) 5 non f : (3.) Relative (rel.). The place where I found. TO χωρίον οὗπερ ου ὅπου And in some of them we get a fourth kind :--- (4.) Exclamatory (excl.). What a fellow! οἷος ἄνθρωπος.
+(1.) Interrogative direct (int. dir.). 
 
-To save repetition in the Vocabulary this table may be
+- Where are you? <br/>ποῦ εἶ; 
 
-referred to :---
+(2.) Interrogative indirect (int. ind.). 
 
-Direct Interrog. Indirect Interrog. Relative. Exclamatory. where ποῦ ὅπου, ποῦ ες ὅπου, οὗ, οὗτρ -- ΠΩΣ πότε ὁπότε, πότε ὅτε, ὁπότε --- what tis, τί ὅστις(δ,τι) τίς,τί ὅς, ὅστις, ὅσπερ --- what (kind) ποῖος ποῖος, ὁποῖος ὁποῖος, οἷος οἷος how πῶς ὅπως, πῶς ὕπως, ὡς ὡς whence πόθεν ὁπόθεν, πόθεν ὁπόθεν, ὅθεν --- whither ποῖ ὅποι, ποῖ ὅποι, οἷ, οἷπερ ---
+- I don't know where you are. <br />οὐκ οἷδα ποῦ εἶ. <br />οὺκ οἶδα ὅπου εἶ.
 
-, whether  πότερος πότερος, ὁπότερος ΝΕ ΝΕ which TOTEPOV who τίς τίς, ὅστις , ὅστις, ὃς --
+(3.) Relative (rel.). 
 
-how much
+- The place where I found. <br >τὸ χωρίον οὗπερ<br />τὸ χωρίον ου<br /> τὸ χωρίον ὅπου
 
-, , ε , ε , td a TOTOS TOGOS, O7TOCOS οπτοσος, OVO ogo how many  ᾿ ᾿ . .
+And in some of them we get a fourth kind :--- 
+
+(4.) Exclamatory (excl.). 
+
+- What a fellow! <br />οἷος ἄνθρωπος.
+
+To save repetition in the Vocabulary this table may be referred to :---
+
+
+| | Direct Interrog. |  Indirect Interrog. Relative. | Exclamatory. | 
+|:--|:--|:--|:--|:--| 
+| where | ποῦ | ὅπου, ποῦ | ὅπου, οὗ, οὗτερ | --|
+| when | πότε | ὁπότε, πότε | ὅτε, ὁπότε | --- |
+| what | τίς, τί | ὅστις (ὅ,τι) τίς,τί | ὅς, ὅστις, ὅσπερ | --- |
+| what (kind) | ποῖος | ποῖος, ὁποῖος | ὁποῖος, οἷος | οἷος | 
+| how | πῶς | ὅπως, πῶς | ὅπως, ὡς | ὡς |
+| whence | πόθεν | ὁπόθεν, πόθεν | ὁπόθεν, ὅθεν | --- |
+| whither | ποῖ | ὅποι, ποῖ | ὅποι, οἷ, οἷπερ| --- |
+| whether | πότερος | πότερος, ὁπότερος | --- | ---| 
+| which | πότερος | | | 
+| who | τίς | τίς, ὅστις | ὅστις, ὃς | --- |
+| how much | πόςος | πόσος, ὁπόσος | ὁπόσος, ὅσος | ὅσος |
+
 
 
 
