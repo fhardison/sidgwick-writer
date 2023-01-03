@@ -4304,33 +4304,39 @@ On these terms^[οὗτος nad ὅδε, § 23.] therefore the Kilios made a con
 Now, the merchants have a law, when wishing to carry away their goods abroad, to tie a tablet round them, on which is written^[Tenses, § 63.] the place whither they are minded to export them. And sometimes they export dogs and hares and cats: and they tie the tablets in like manner round^[Dative after compound Verb.] these also. And a certain citizen, who happened to be walking in the port, saw a boy with a dog standing by the seaside, and weeping and protesting in a marvellous manner. And when he asked^[Participle, § 44.] why he did (does) such things, the boy with many tears said, 'Why, this accursed dog has eaten his tablet up; nor do I know at all where on earth we are being carried to.'
 
 
-## EXERCISE Cll.
+## EXERCISE CIII.
 
 ### **The Boeotians.**
 
 ### VOCABULARY.
 
-travel (by sea), κομίζομαι. pray, εὔχεσθαι. Aegaean, Aiyaios. unaccustomed, ἀήθης. call out, βοάω.
+- travel (by sea), κομίζομαι.
+- pray, εὔχεσθαι.
+- Aegaean, Αἰγαῖος.
+- unaccustomed, ἀήθης.
+- call out, βοάω.
 
-Two Boeotians, Isménos and Philondas, once were travelling in a boat across the Aegaean Sea. And the night being dark, and a severe storm having come on, they found themselves in great danger.! And Ismenos, fearing for his safety, called out in a loud voice? to his companion and said, ' Philondas, now indeed you must pray to the gods as heartily as possible, in order that' we may be saved.' But he said he\* was not able to pray, as for® twenty years he had prayed ® no prayer to any" god. But as Ismenos earnestly entreated, he promised to® try, even though he was® so unaccustomed. And while he was still at a loss, not knowing how he must begin, suddenly Ismenos said, 'But stop praying, and do not owe thanks to any' god: for I see the land and we are already saved.'
+Two Boeotians, Isménos and Philondas, once were travelling in a boat across the Aegaean Sea. And the night being dark, and a severe storm having come on, they found themselves in great danger.^[Use καταστῆναι ἐς] And Ismenos, fearing for his safety, called out in a loud voice^[Adj. as Pred. § 31.] to his companion and said, 'Philondas, now indeed you must pray to the gods as heartily as possible, in order that^[Sub. Opt. of purpose, § 70.] we may be saved.' But he said he^[See Nom. §§ 34, 40.] was not able to pray, as for^[See Gen. § 35 (f).] twenty years he had prayed^[Part. § 47.] no prayer to any^['any' after Neg. § 78.] god. But as Ismenos earnestly entreated, he promised to^[Tense idiom, § 43.] try, even though he was^[§ 50.] so unaccustomed. And while he was still at a loss, not knowing how he must begin, suddenly Ismenos said, 'But stop praying, and do not owe thanks to any^[Neg. § 78.] god: for I see the land and we are already saved.'
 
-1 Use καταστῆναι és.? Adj. as Pred. 8 31. 3 Subj. Opt. of purpose, § 70. 4 See Nom. 88 84, 40. 5 See Gen. § 35 (/). 6 Part. § 47.
-
-7 'any' after Neg. § 78. 8. Tense idiom, § 42.
-
-- § 50. 1 Neg. § 78.
 
 ## EXERCISE CIV.
 
-### **The Boeotian Priest. ἡ**
+### **The Boeotian Priest.**
 
 ### VOCABULARY.
 
-teach, διδάσκω. moon, σελήνη. marvel, θαῦμα, n. rise, ἀνατέλλω. rightly, ὀρθῶς. differ, διαφέρω, g. I for my part, ἔγωγε. believe, πείθομαι.
 
-The priests of the Boeotians teach their children concerning the divine marvels, in order that they may rightly learn about the gods. And once a Boeotian priest was explaining about this, and he asked the children, 'What now would! you say if I were to say? I had seen? the sun in the night?' hoping that some one would answer,' that he had seen (saw) a divine marvel. But the first child, being a rustic, said, ' I for my part should say that you saw not the sun really but the moon.' And the second said, ' But for my part I should reply that we ought not any longer to sleep, the sun having risen.' But the third said, 'But I should differ from the rest: for I should not believe you at all.'
+- teach, διδάσκω.
+- moon, σελήνη.
+- marvel, θαῦμα, n.
+- rise, ἀνατέλλω.
+- rightly, ὀρθῶς.
+- differ, διαφέρω, g.
+- I for my part, ἔγωγε.
+- believe, πείθομαι.
 
-1 Opt. with ἄν, § 69. 2 εἰ λέγοιμι. 8 Τηβηϊθῖνα Aorist : person need not be expressed. ὁ § 42, ἐλπίξω, idiom,
+The priests of the Boeotians teach their children concerning the divine marvels, in order that they may rightly learn about the gods. And once a Boeotian priest was explaining about this, and he asked the children, 'What now would^[Opt. with ἄν, § 69.] you say if I were to say^[εἰ λέγοιμι.] I had seen^[Infinitive Aorist : person need not be expressed.] the sun in the night?' hoping that some one would answer,^[§ 42, ἐλπίζω, idiom.] that he had seen (saw) a divine marvel. But the first child, being a rustic, said, ' I for my part should say that you saw not the sun really but the moon.' And the second said, ' But for my part I should reply that we ought not any longer to sleep, the sun having risen.' But the third said, 'But I should differ from the rest: for I should not believe you at all.'
+
 
 ## EXERCISE CV.
 
@@ -4338,13 +4344,18 @@ The priests of the Boeotians teach their children concerning the divine marvels,
 
 ### VOCABULARY.
 
-practise, ἀσκέω. dirty (verb), μιαίνω, elect, αἱροῦμαι. excuse one's-self, ἀπολογοῦμαι. " . ., governor, ἄρχων (-οντ-). aim at, στοχάζομαι, g. revel, κωμάζω. you ought, aperes.
+- practise, ἀσκέω.
+- dirty (verb), μιαίνω.
+- elect, αἱροῦμαι.
+- excuse one's-self, ἀπολογοῦμαι.
+- governor, ἄρχων (-οντ-).
+- aim at, στοχάζομαι, g.
+- revel, κωμάζω.
+- you ought, aperes.
+- quick-witted, ἀγχίνους.
 
-quick-witted, ἀγχίνους.
+The Kassiterioi inhabit an island, and practise many strange customs. And on that day on which they elect their governors, which always takes place at intervals of five years, noise and disorder is wont to be in the city, as the worst and most violent men of the populace revel in the streets. And there was a certain Auleides in the city, very clever and quick-witted. And this man, as he was walking quietly through the street, one of the revellers happened^[Participle with Verbs, § 43.] to hit with mud, so that all his face was dirtied. And as he was indignant, naturally, the man came up and began to excuse himself. 'For it was you,'^[Emphatic position, § 72.] said he, 'I hit, but it was the governor I was aiming at.' And Auleides said, 'You ought^[Dramatic Particles, § 75.] to have been aiming^[Present Infinitive.] at me, and have hit^[Aorist Infinitive.] the governor.'
 
-The Kassiterioi inhabit an island, and practise many strange customs. And on that day on which they elect their governors, which always takes place at intervals of five years, noise and disorder is wont to be in the city, as the worst and most violent men of the populace revel in the streets. And there was a certain Auleides in the city, very clever and quick-witted. And this man, as he was walking quietly through the street, one of the revellers happened! to hit with mud, so that all his face was dirtied. And as he was indignant, naturally, the man came up and began to excuse himself. 'For it was you,' said he, 'I hit, but it was the governor I was aiming at.' And Auleides said, 'You ought? to have been aiming' at me, and have hit® the governor.'
-
-1 Participle with Verbs, § 43. 3 Kmphatic position, § 72. 3 Dramatic Particles, § 75. 4 Present Infinitive. § Aorist Infinitive.
 
 ## EXERCISE CVI.
 
@@ -4352,11 +4363,23 @@ The Kassiterioi inhabit an island, and practise many strange customs. And on tha
 
 ### VOCABULARY.
 
-call, ποιοῦμαι. complete, τελέω. meeting, σύλλογος. wait about, περιμένω. temple, ἱερόν. lately, νεωστί. contribute, εἰσφέρω. penny, ὀβολός, τα. minister, ὑπηρέτης. sirpence, δραχμῆή. had to, ἔδει. unintentionally, ἀκονσίως. carry round, περιφέρω. intention, διάνοια.
+- call, ποιοῦμαι.
+- complete, τελέω.
+- meeting, σύλλογος.
+- wait about, περιμένω.
+- temple, ἱερόν.
+- lately, νεωστί.
+- contribute, εἰσφέρω.
+- penny, ὀβολός, m.
+- minister, ὑπηρέτης.
+- sirpence, δραχμῆή.
+- had to, ἔδει.
+- unintentionally, ἀκονσίως.
+- carry round, περιφέρω.
+- intention, διάνοια.
+- mysteries, μυστήρια.
 
-mysteries, μυστήρια.
-
-The Boeotians call meetings in (into) their temples once a month :! and when collected they contribute money for the god into a bag. And there was a certain Zethos, who? was a minister of the temple, who had to carry round the bag to those present. And when all had contributed, and the mysteries were completed, the others? went away : but Zethos saw one man waiting about, as though having something to say. Accordingly he asked him what the matter was (is): and he answered, 'Listen now: lately, when the bag was being carried round,? I had a mind to give a penny: but, without my knowing it, I gave a sixpence. And, having done this unintentionally, 1 request you to give me back the fivepence.' But the' other being unwilling, 'Never mind,' said the man, 'for the god will give me thanks for the sixpence.' But he said, 'By no means: for the god, knowing your intention, will only give you thanks for the penny.'
+The Boeotians call meetings in (into) their temples once a month:^[Genitive, § 35 (f).] and when collected they contribute money for the god into a bag. And there was a certain Zethos, who^[§ 53.] was a minister of the temple, who had to carry round the bag to those present. And when all had contributed, and the mysteries were completed, the others^[§ 76.] went away : but Zethos saw one man waiting about, as though having something to say. Accordingly he asked him what the matter was (is): and he answered, 'Listen now: lately, when the bag was being carried round,^[§ 53.] I had a mind to give a penny: but, without my knowing it,^[λανθάνω, Partic. with Verbs, § 42.] I gave a sixpence. And, having done this unintentionally, I request you to give me back the fivepence.' But the' other being unwilling, 'Never mind,' said the man, 'for the god will give me thanks for the sixpence.' But he said, 'By no means: for the god, knowing your intention, will only give you thanks for the penny.'
 
 ## EXERCISE CVI.
 
@@ -4364,37 +4387,49 @@ The Boeotians call meetings in (into) their temples once a month :! and when col
 
 ### VOCABULARY.
 
-kind-hearted, φιλάνθρωπος. mountain, ὄρος, τι. be in danger of, κινδυνεύω, quiet, ἡσυχία. inf. Megariun, Meyapevs. busybody, πολυπράγμων. Phokian, Φωκεύς. pack, φορτίον. Thebes, Θῆβαι.
+- kind-hearted, φιλάνθρωπος.
+- mountain, ὄρος, n.
+- be in danger of, κινδυνεύω. inf.
+- quiet, ἡσυχία.
+- Megariun, Μεγαρεύς.
+- busybody, πολυπράγμων.
+- Phokian, Φωκεύς.
+- pack, φορτίον.
+- Thebes, Θῆβαι.
 
-There was a certain dealer, by name Prios, in other respects an excellent man, and by nature kind-hearted, but in this sometimes tiresome, that he was wonderfully desirous of knowing things concerning! his neighbours: so that he was in danger of being called a busybody. And once when travelling with his pack to Erythrai, the heat being severe, he sat down on the mountain by the road-side under a large tree, so as to rest and take his dinner in quiet. And meanwhile, seeing a Thessalian passing by, as though from Erythrai, Prios, shouting out, asked him whether anything new had happened (say 'happened') there. But he, growing pale and appearing to be alarmed, answered as follows: 'To-day, about noon, ἃ Megarian and a Phokian murdered Amphionidas in
+There was a certain dealer, by name Prios, in other respects an excellent man, and by nature kind-hearted, but in this sometimes tiresome, that he was wonderfully desirous of knowing things concerning^[§ 6.] his neighbours: so that he was in danger of being called a busybody. And once when travelling with his pack to Erythrai, the heat being severe, he sat down on the mountain by the road-side under a large tree, so as to rest and take his dinner in quiet. And meanwhile, seeing a Thessalian passing by, as though from Erythrai, Prios, shouting out, asked him whether anything new had happened (say 'happened') there. But he, growing pale and appearing to be alarmed, answered as follows: 'To-day, about noon, a Megarian and a Phokian murdered Amphionidas in Thebes.'
 
-Thebes.'
-
-## EXERCISE CVIT/I.
+## EXERCISE CVII.
 
 ### **Prios: a Tale---continucd.**
 
 ### VOCABULARY.
 
-at a run, δρόμῳ, or τρέχων. same day, αὐθήμερον. at a friend's, rapa φίλῳ. Thebes, Θῆβαι.
+ - at a run, δρόμῳ, or τρέχων.
+ - same day, αὐθήμερον.
+ - at a friend's, rapa φίλῳ.
+ - Thebes, Θῆβαι.
 
-And saying this he went off as quick as possible at a run. And Prios, being much surprised at what! he had learnt, (as to) how? the Thessalian had heard (has heard) so quickly what happened in Thebes about midday, nevertheless was pleased at having' so great an event to tell everywhere. And arriving at Erythrai, and being about to spend that night at a friend's, he went to the house and related what had happened that same day in Thebes. And the friend replied it was? truly (δὴ) remarkable: for he® himself had not yet heard (perfect) it, though lately ® come back from Thebes: but he? (i.e. the other) knew it, having come from the opposite direction. 'And on this account,' he said, 'I wonder so much the more, because late in the day I saw Amphionidas himself alive.'
+And saying this he went off as quick as possible at a run. And Prios, being much surprised at what^[Relative attracted, § 27.] he had learnt, (as to) how^[Dramatic Particle, § 75.] the Thessalian had heard (has heard) so quickly what happened in Thebes about midday, nevertheless was pleased at having^[Participle and Verb, § 43.] so great an event to tell everywhere. And arriving at Erythrai, and being about to spend that night at a friend's, he went to the house and related what had happened that same day in Thebes. And the friend replied it was^[Acc. Infinitive, § 40.] truly (δὴ) remarkable: for he^[Nominative Infinitive, § 40.] himself had not yet heard (perfect) it, though lately^[Concess. Participle, § 50.]  come back from Thebes: but he^[Acc. Infinitive, § 40.] (i.e. the other) knew it, having come from the opposite direction. 'And on this account,' he said, 'I wonder so much the more, because late in the day I saw Amphionidas himself alive.'
 
-1 Relative attracted, § 27. 2 Dramatic Particle, § 75. 3 Participle and Verb, § 43. 4 Acc. Infinitive, 8 40. 5 Nominative Infinitive, § 40. 6 Concess. Participle, § 50.
 
-EXERCISE C1X.
+# EXERCISE CIX.
 
-Prios: a Tale---continued.
+### **Prios: a Tale---continued.**
 
 ### VOCABULARY.
 
-lies, ψευδῆ. full in with, ἐντυχεῖν, ἃ. announce, ἀγγέλλω. burden, φορτίον. no clue, οὐδὲν σαφές, Or σα- stup (detain), κατέχω. φέστερον. be put to death, ἀποθανεῖν.
+- lies, ψευδῆ.
+- full in with, ἐντυχεῖν, ἃ.
+- announce, ἀγγέλλω.
+- burden, φορτίον.
+- no clue, οὐδὲν σαφές, Or σα- stup (detain), κατέχω.
+- φέστερον.
+- be put to death, ἀποθανεῖν.
+- nor indeed, οὐδ᾽ οὖν.
 
-nor indeed, οὐδ᾽ οὖν.
+And Prios was at a loss when^[Temporal Participle, § 44.] he heard how the matter really was (is). 'For it is evident,' he said, 'that^[§ 32.] the Thessalian told me lies in announcing the man (as) dead. And yet he did not seem at all to be speaking in jest, and at the same time he appeared to be in alarm about^[περί (d).] himself.' But as no clue appeared, bidding farewell to his friend he went off at dawn towards Thebes, and when he was not far off from the city, he fell in with a certain Megarian carrying a burden on his shoulders, and fleeing towards Athens as quick as his feet could bear him.^[ὥς εἶχε ποδῶν.] And Prios, stopping him, asked him about the murder, whether in reality Amphionidas had been put to death (has died) by a Megarian and Phokian yesterday about midday. And he growing pale, and nearly falling down, said this: 'He has been killed by a Phokian : but no Megarian even^[Negative, § 78.] came near: nor indeed (was it) yesterday, but to-day about midday.'
 
-And Prios was at a loss when! he heard how the matter really was (is). 'For it is evident,' he said, 'that? the Thessalian told me lies in announcing the man (as) dead. And yet he did not seem at all to be speaking in jest, and at the same time he appeared to be in alarm about? himself.' But as no clue appeared, bidding farewell to his friend he went off at dawn towards Thebes, and when he was not far off from the city, he fell in with a certain Megarian carrying a burden on his shoulders, and fleeing towards Athens as quick as his feet could bear him. And Prios, stopping him, asked him about the murder, whether in reality Amphionidas had been put to death (has died) by a Megarian and Phokian yesterday about midday. And he growing pale, and nearly falling down, said this: 'He has been killed by a Phokian : but no Megarian even® came near: nor indeed (was it) yesterday, but to-day about midday.'
-
-1 Temporal Participle, § 44. 2 § 32. 3 περί («l). 4 ws εἶχε ποδῶν. 5 Negative, ἃ 78.
 
 ## EXERCISE CX.
 
@@ -4402,105 +4437,171 @@ And Prios was at a loss when! he heard how the matter really was (is). 'For it i
 
 ### VOCABULARY.
 
-ten thinusand, μύριοι. at nightfall, ἅμα νυκτί. Fury, Evpevides. village, κώμη. to himself, πρὸς ἑαυτόν. arise, ἀναστῆναι,
 
-country, ἀγρός.
+- ten thinusand, μύριοι.
+- at nightfall, ἅμα νυκτί.
+- Fury, Εὐμενίδες.
+- village, κώμη.
+- to himself, πρὸς ἑαυτόν.
+- arise, ἀναστῆναι.
+- country, ἀγρός.
 
-And at the same time, having said this, he ran off along the road as though! ten thousand Furies were pursuing him. And Prios, still more helpless than before about the matter, remained standing in the road, and searching for the truth. 'It is necessary therefore,' said he after a time to himself, 'to go? myself and see Amphionidas, if in reality he is dead at all.' Thinking of these things, he arrived at nightfall at a certain village, where he had to rest. And having arrived, he conversed with all who were there about the murder, telling' what had happened, and asking if any one knew (knows) anything more. And while all were silent, there arose here also a farmer, saying he had himself\* met Amphionidas a little before, journeying from the country to Thebai, and carrying a bag full of gold.
 
-1 § 46. 2 See aurés, § 16. δ 8 25. 4 Nominative Infinitive, § 40.
+And at the same time, having said this, he ran off along the road as though^[§ 46.] ten thousand Furies were pursuing him. And Prios, still more helpless than before about the matter, remained standing in the road, and searching for the truth. 'It is necessary therefore,' said he after a time to himself, 'to go^[See αὔτός, § 16.] myself and see Amphionidas, if in reality he is dead at all.' Thinking of these things, he arrived at nightfall at a certain village, where he had to rest. And having arrived, he conversed with all who were there about the murder, telling^[§ 25.] what had happened, and asking if any one knew (knows) anything more. And while all were silent, there arose here also a farmer, saying he had himself^[Nominative Infinitive, § 40.] met Amphionidas a little before, journeying from the country to Thebai, and carrying a bag full of gold.
+
 
 ## EXERCISE CXI.
 
 ### **Prios: a Tale--- continued.**
 
-VOCABULARY, a short while, βραχύ τι. seize, συλλαμβάνο, 1. find out the truth of, ἐχέγχω. ἐιιδὲ in time, use φθάνω, I. burst in, ἐπεισπίπτω, 1. before (conj.), πρίν.
+### VOCABULARY.
 
-be explained, φανερὸν or δῆλον γενέσθαι.
 
-On hearing that, Prios could stand it (endured) no longer, but, after resting a short while, he got up while it was still night,! as though? he were going to the city, and himself would find out' the truth of the matter. And having arrived a little before midday, he hastened to the house of Amphionidas in fear,! and expecting that he should' find something terrible. And bursting into the court he perceived a noise® going on, and saw a man lifting up a dagger so as to kill Amphionidas. And running up he seized the murderer just in time® before he had struck (inf.) the man, and saved his friend. Then the whole thing was explained. For three men---a Thessalian and a Megarian and a Phokian---had conspired? to® murder him.
+- a short while, βραχύ τι.
+- seize, συλλαμβάνο, I.
+- find out the truth of, ἐχέγχω.
+- ἐιιδὲ in time, use φθάνω, I.
+- burst in, ἐπεισπίπτω, I.
+- before (conj.), πρίν.
+- be explained, φανερὸν or δῆλον γενέσθαι.
 
-1 Participle, § 44. 2 § 46. 8 Future Participle. 4 § 42, 58 61. 6 φθάνω, § 43. 7 § δΊ. 8 ὥστε with Infin,
+On hearing that, Prios could stand it (endured) no longer, but, after resting a short while, he got up while it was still night,^[Participle, § 44.] as though^[§ 46.] he were going to the city, and himself would find out^[Future Participle.] the truth of the matter. And having arrived a little before midday, he hastened to the house of Amphionidas in fear,^[Participle, § 44.] and expecting that he should^[§ 42.] find something terrible. And bursting into the court he perceived a noise^[§ 51.] going on, and saw a man lifting up a dagger so as to kill Amphionidas. And running up he seized the murderer just in time^[φθάνω, § 43.] before he had struck (inf.) the man, and saved his friend. Then the whole thing was explained. For three men---a Thessalian and a Megarian and a Phokian---had conspired^[§ 57.] to^[ὥστε with Infin.] murder him.
 
-EXERCISE CXI/I.
+## EXERCISE CXII.
 
 Prios: a Tale---continued.
 
 ### VOCABULARY.
 
-murder, φόνος. become reluctant, ἀποκνέω. abandon, προδίδωμι, 1. leave in lurch, ὑπολείπω, I. job, ἔργον. defer, ἀναβάλλομαι.
+- murder, φόνος.
+- become reluctant, ἀποκνέω.
+- abandon, προδίδωμι, I.
+- leave in lurch, ὑπολείπω, I.
+- job, ἔργον.
+- defer, ἀναβάλλομαι.
 
-And the Thessalian first, becoming alarmed, went off in flight before he accomplished! the murder. But the other two,? as he had abandoned them,? were unable to accomplish their plot on that day without their companion, but were minded to attempt the job on the following day about the same time. And on the following day the Megarian had' likewise become reluctant, and so the Phokian, being left in the lurch, was forced to again defer the murder to the morrow. And the former ones® as they were fleeing, one after the other, Prios met; but the last one he happened to catch on the third day actually® attempting the deed. And thus, owing to his being a busybody,' he saved (the life of) Amphionidas.
+And the Thessalian first, becoming alarmed, went off in flight before he accomplished^[πρίν and Infinitive.] the murder. But the other two,^[Use Dual.] as he had abandoned them,^[Causal Participle, § 47.] were unable to accomplish their plot on that day without their companion, but were minded to attempt the job on the following day about the same time. And on the following day the Megarian had^[§ 57.] likewise become reluctant, and so the Phokian, being left in the lurch, was forced to again defer the murder to the morrow. And the former ones^[ἐκεῖνοι.] as they were fleeing, one after the other, Prios met; but the last one he happened to catch on the third day actually^[Use αὐτὸς somehow.] attempting the deed. And thus, owing to his being a busybody,^[§ 8.] he saved (the life of) Amphionidas.
 
-1 πρίν and Infinitive. 3 Use Dual. 3 Causal Participle, § 47. 4§ 57. 5 ἐκεῖνοι, 6 Use αὐτὸς somehow. 7§ 8.
 
-EXERCISE CXITIT.
+# EXERCISE CXIII.
 
-Enides. ## VOCABULARY. teacher, διδάσκαλος. relutive, συγγενής. prudent, σώφρων. burial, τάφος. unseemly, ἀεικής. fitting, it is, προσήκει, ἃ. dwell, οἰκέω. uncle, θεῖος, sufficient, ἱκανός. sullen of face, σκυθρωπός.
+### **Enides.**
 
-There was a teacher by name Enides, being a man indeed very prudent, but in word sometimes strange and unseemly. And with this man dwelt many young men, living there six months in the year, that they might learn philosophy. And it was not lawful for them, while dwelling with Enides, to go away, except for some sufficient cause. And once a youth came and asked the teacher to let him go away, on the plea that! a relative had died. 'For I wish,' said he, 'to be present at the burial, as it is fitting for a relation.' ' But,' he said, 'and who of your friends? is dead?' And he replied that? his uncle had lately died. But Enides, growing sullen of face, said, 'I allow you then to go away : but it would have been' better if your father had® died.'
+## VOCABULARY. 
 
-1 § 47. * Ethic d. § 37 (c). 3 Acc. Inf. § 40. 4 Ind. and Opt. with ἄν, § 69. 5 Use the Aor. Indic.
+- teacher, διδάσκαλος.
+- relutive, συγγενής.
+- prudent, σώφρων.
+- burial, τάφος.
+- unseemly, ἀεικής.
+- fitting, it is, προσήκει, d.
+- dwell, οἰκέω.
+- uncle, θεῖος.
+- sufficient, ἱκανός.
+- sullen of face, σκυθρωπός.
 
-EXERCISE CXTIV.
+There was a teacher by name Enides, being a man indeed very prudent, but in word sometimes strange and unseemly. And with this man dwelt many young men, living there six months in the year, that they might learn philosophy. And it was not lawful for them, while dwelling with Enides, to go away, except for some sufficient cause. And once a youth came and asked the teacher to let him go away, on the plea that^[§ 47.] a relative had died. 'For I wish,' said he, 'to be present at the burial, as it is fitting for a relation.' ' But,' he said, 'and who of your friends^[Ethic d. § 37 (c).] is dead?' And he replied that^[Acc. Inf. § 40.] his uncle had lately died. But Enides, growing sullen of face, said, 'I allow you then to go away : but it would have been^[Ind. and Opt. with ἄν, § 69.] better if your father had^[Use the Aor. Indic.] died.'
 
-Doctors.
 
-### VOCABULARY.
+## EXERCISE CXIV.
 
-north wind, βορέας. fetch, κομίζω. freeze, παγῆναι (aor. pass.). proper, ἐπιτήδειος. be ina bad way, δυσχερῶς medicine, φάρμακον.
-
-διακεῖσθαι. feel pain, ἀλγέω. bystanders, ot παρόντες.
-
-A Boeotian arriving at Corinth, as! there arose a north wind, and the water in the streets froze, fell down in the market-place and was ina very bad way. And the bystanders raised him up, as he was! unable to get up, and bore him to his house. And when certain persons advised to send for a Corinthian physician, the sick man did not allow them, in the idea! that there was only one wise physician, and he (otros) a Boeotian, by name Philondas. And they sent a messenger that he might fetch Philondas. And the messenger returned bringing a letter as follows: 'My friend, I cannot come to you myself, but I will send a proper medicine if I only know about the mischief, where you first felt pain.' And the sick man bade them say,? ' In the market-place of the Corinthians.'
-
-1 47, 3 Insert ὅτι, but no verb required.
-
-EXERCISE CNV.
-
-The Chian. ## VOCABULARY.
-
-Chian, Χῖος. heavy, βαρύς. broad, εὐρύς. bet a talent, περιδόσθαι περὶ cross, διαβαίνω. ταλάντου. bridge, γεφύρα. with difficulty, μόλις. undress, ἀποδύομαι. wet through, διαβεβρεγμένος. bank, ὄχθος. give in, ἀποκνεῖν.
-
-A certain Chian once journeying with a companion in Asia came to a broad river which it was necessary to cross. And as there was! no bridge, the companion was beginning to undress, as though intending to swim. But the Chian said there was no need to cross with so much trouble, for he would manage the matter easier, by throwing him to the further bank. And he said he could not throw him, being a heavy man: for he was willing to bet him a talent of gold. And this he promised, thinking he should either cross the river without trouble, or have a talent of gold. And the Chian having accepted (the bet) and taken him, threw him into the middle of the water. And as he, saved with difficulty and wet through,? asked for the gold, 'But I did not promise,' said the Chian, 'to do it the first time: come now, we must not give in, but try again.'
-
-1 § 47, 2 Tenses, § 64, 66.
-
-EXERCISE CXVI.
-
-Birds.
+### **Doctors.**
 
 ### VOCABULARY.
 
-Malaivi, Μαλαῖοι. cover, κρύπτω. shew, δηλόω. grass, πόα. whence, ὅθεν. 6. phenix, φοῖνιξ (-νικ-). construct, κατασκευάζω. rising, ἀντολαΐ, Iam wont, εἴωθα. build, οἰκοδομέω. deposit, κατατίθεσθαι. stick, κάρφος, ἢ.
+- north wind, βορέας.
+- fetch, κομίζω.
+- freeze, παγῆναι (aor. pass.).
+- proper, ἐπιτήδειος.
+- be ina bad way, δυσχερῶς διακεῖσθαι.
+- medicine, φάρμακον.
+- feel pain, ἀλγέω.
+- bystanders, οἱ παρόντες.
 
-The Malaioi tell many strange stories about the birds, showing whence they know (how)! to construct their nests. And they tell the following? (tale): At first the birds by no means were wont to make nests, but deposited their eggs either openly on the grounds, or covered only with grass. But one day there came a phoenix from the rising of the sun, and having gathered together all the birds, he began to teach them how they ought? to build houses. And taking branches and sticks, he himself in the presence' of them all proceeded ἰοῦ build a nest, very cleverly and skilfully, making it an example in order that® the rest might learn at the same time. And he thought that this would be pleasing to them, and that they would have much gratitude to him.
+A Boeotian arriving at Corinth, as^[§ 47.] there arose a north wind, and the water in the streets froze, fell down in the market-place and was ina very bad way. And the bystanders raised him up, as he was^[§ 47.] unable to get up, and bore him to his house. And when certain persons advised to send for a Corinthian physician, the sick man did not allow them, in the idea^[§ 47.] that there was only one wise physician, and he (otros) a Boeotian, by name Philondas. And they sent a messenger that he might fetch Philondas. And the messenger returned bringing a letter as follows: 'My friend, I cannot come to you myself, but I will send a proper medicine if I only know about the mischief, where you first felt pain.' And the sick man bade them say,^[Insert ὅτι, but no verb required.] 'In the market-place of the Corinthians.'
 
-1 Verbs with Inf. § 42. 2 Use of Neut. Adj. § 30. + Pres. Indic. or Optative. 4 Participle. 5 'Tenses, § 59. 6 Final, § 70.
 
-EXERCISE CXVI1.
+## EXERCISE CXV.
 
-Birds---continued.
+### **The Chian.**
 
 ### VOCABULARY.
 
-floor, ἔδαφος, n. wall, τοῖχος. dove, περιστερά. thrush, κίχλη. have proud thoughts of, fly off, ἀποπέτομαι. μέγα φρονεῖν ἐπί, ἃ. to this day, ἔτι καὶ νῦν. surely, τοι. up to, μέχρι, δ. since, ἐξ. roof, ὀροφή.
 
-continue, διατελέω.
+- Chian, Χῖος.
+- heavy, βαρύς.
+- broad, εὐρύς.
+- bet a talent, περιδόσθαι περὶ cross, διαβαίνω.
+- ταλάντου.
+- bridge, γεφύρα.
+- with difficulty, μόλις.
+- undress, ἀποδύομαι.
+- wet through, διαβεβρεγμένος.
+- bank, ὄχθος.
+- give in, ἀποκνεῖν.
 
-At first all were silent, and carefully watched him at work (working), considering it a gain if they shall have beautiful houses; but the phcenix first wove together some boughs so as to be a floor of the nest. And when he had finished? this, the dove, always having proud thoughts of herself, went away flying and calling out, 'I know surely, I know surely:' and ever since that time she only builds a floor for her eggs, but not a nest. And the phcenix none the less continued building the walls of the house: and when this was done! straightway the thrush flew off, calling out, ' Well,? well,' and most of them followed her. So that to this day the birds build up to the walls. But the swallow alone remained watching the whole work, and learned to make a roof: and therefore she alone builds a nest complete and having a roof.
+A certain Chian once journeying with a companion in Asia came to a broad river which it was necessary to cross. And as there was^[§ 47.] no bridge, the companion was beginning to undress, as though intending to swim. But the Chian said there was no need to cross with so much trouble, for he would manage the matter easier, by throwing him to the further bank. And he said he could not throw him, being a heavy man: for he was willing to bet him a talent of gold. And this he promised, thinking he should either cross the river without trouble, or have a talent of gold. And the Chian having accepted (the bet) and taken him, threw him into the middle of the water. And as he, saved with difficulty and wet through,^[Tenses, § 64, 66.] asked for the gold, 'But I did not promise,' said the Chian, 'to do it the first time: come now, we must not give in, but try again.'
 
-1 Participle. 2 εὖ,
 
-EXERCISE CX VYI/I.
+## EXERCISE CXVI.
 
-The Sea. ## VOCABULARY. salt (adj.), ἁλμυρός. moderate, μέτριος. defile, μιαίνω. threaten, ἀπειλέω.
+### **Birds.**
 
-piety, εὐσέβεια.
+### VOCABULARY.
 
-And the same Malaioi tell another tale about the sea, explaining how it became salt. For the water of the sea was at first, as they say, sweet like the rivers; but Zeus, in order that it might not be defiled by men and the other animals, devised the following! (scheme). For he gave to the king of the Malaioi a certain bag, saying it would be a great gain to him in return for his piety: for whenever he asked? for anything, and said,? 'O bag, I have need of this,' immediately, he promised, from the bag should5 appear the thing asked for. But at the same time he ordered him to be moderate in his use® of the bag, and not\* to ask for anything except what was necessary: otherwise he threatened that he should suffer many dreadful things. But the king, taking the gift, was wonderfully delighted.
+- Malaivi, Μαλαῖοι.
+- cover, κρύπτω.
+- shew, δηλόω.
+- grass, πόα.
+- whence, ὅθεν.
+- phoenix, φοῖνιξ (-νικ-).
+- construct, κατασκευάζω.
+- rising, ἀντολαί. 
+- I am wont, εἴωθα.
+- build, οἰκοδομέω.
+- deposit, κατατίθεσθαι.
+- stick, κάρφος, ἢ.
 
-1 Neuter Adjective, § 30. 7 Use Present Optative. 3 Participle, § 44. 4 Negatives, § ΤΊ. 5 Future Infinitive. See § 42. EXERCISES. Ig!
+The Malaioi tell many strange stories about the birds, showing whence they know (how)^[Verbs with Inf. § 42.] to construct their nests. And they tell the following^[Use of Neut. Adj. § 30.] (tale): At first the birds by no means were wont to make nests, but deposited their eggs either openly on the grounds, or covered only with grass. But one day there came a phoenix from the rising of the sun, and having gathered together all the birds, he began to teach them how they ought^[Pres. Indic. or Optative.] to build houses. And taking branches and sticks, he himself in the presence^[Participle.] of them all proceeded to^[Tenses, § 59.] build a nest, very cleverly and skilfully, making it an example in order that^[Final, § 70.] the rest might learn at the same time. And he thought that this would be pleasing to them, and that they would have much gratitude to him.
+
+
+## EXERCISE CXVII.
+
+### **Birds---continued.**
+
+### VOCABULARY.
+
+
+- floor, ἔδαφος, n.
+- wall, τοῖχος.
+- dove, περιστερά.
+- thrush, κίχλη.
+- have proud thoughts of, μέγα φρονεῖν ἐπί, d.
+- fly off, ἀποπέτομαι.
+- to this day, ἔτι καὶ νῦν.
+- surely, τοι.
+- up to, μέχρι, g.
+- since, ἐξ.
+- roof, ὀροφή.
+- continue, διατελέω.
+
+At first all were silent, and carefully watched him at work (working), considering it a gain if they shall have beautiful houses; but the phcenix first wove together some boughs so as to be a floor of the nest. And when he had finished? this, the dove, always having proud thoughts of herself, went away flying and calling out, 'I know surely, I know surely:' and ever since that time she only builds a floor for her eggs, but not a nest. And the phcenix none the less continued building the walls of the house: and when this was done^[Participle.] straightway the thrush flew off, calling out, 'Well,^[εὖ] well,' and most of them followed her. So that to this day the birds build up to the walls. But the swallow alone remained watching the whole work, and learned to make a roof: and therefore she alone builds a nest complete and having a roof.
+
+## EXERCISE CXVIII.
+
+### **The Sea.** 
+
+### VOCABULARY. 
+
+- salt (adj.), ἁλμυρός.
+- moderate, μέτριος.
+- defile, μιαίνω.
+- threaten, ἀπειλέω.
+- piety, εὐσέβεια.
+
+
+And the same Malaioi tell another tale about the sea, explaining how it became salt. For the water of the sea was at first, as they say, sweet like the rivers; but Zeus, in order that it might not be defiled by men and the other animals, devised the following^[Neuter Adjective, § 30.] (scheme). For he gave to the king of the Malaioi a certain bag, saying it would be a great gain to him in return for his piety: for whenever he asked^[Use Present Optative.] for anything, and said,^[Use Present Optative.] 'O bag, I have need of this,' immediately, he promised, from the bag should^[Future Infinitive. See § 42.] appear the thing asked for. But at the same time he ordered him to be moderate in his use^[Participle, § 44.] of the bag, and not^[Negatives, § 77.] to ask for anything except what was necessary: otherwise he threatened that he should^[Future Infinitive. See § 42.] suffer many dreadful things. But the king, taking the gift, was wonderfully delighted.
+
 
 ## EXERCISE CXIX.
 
@@ -4508,25 +4609,32 @@ And the same Malaioi tell another tale about the sea, explaining how it became s
 
 ### VOCABULARY.
 
-get ready, ἑτοιμάζω. salt, ἅλας, τ. banquet, δεῖπνον. pour out, ἐκ χέω, good fortune, εὐτυχία. bitter, πικρός.
+- get ready, ἑτοιμάζω.
+- salt, ἅλας, n.
+- banquet, δεῖπνον.
+- pour out, ἐκχέω, 
+- good fortune, εὐτυχία.
+- bitter, πικρός.
 
-And for a long time he used the bag very moderately, only asking for necessary things, and always receiving from it great plenty. But once he was sailing across the sea, with many companions, and as everything had! succeeded for him, for which he had? sailed out, being in a great (state of) delight he ordered the sailors to get ready a banquet to celebrate? his good fortune. And when everything was prepared, some one of the Malaioi told the king that they had (have) no salt. But he, thinking' it was necessary, asked the bag to give it, fearing however secretly somewhat, but being ashamed on account of the sailors. And immediately the bag being open proceeded to\* pour out so much salt that the ship was sunk, and those on board at the same time: nor did it cease even® then, but even to this day it lies down below pouring out salt: so that the sea has become bitter.
+And for a long time he used the bag very moderately, only asking for necessary things, and always receiving from it great plenty. But once he was sailing across the sea, with many companions, and as everything had! succeeded for him, for which he had^[Tenses, § 57 (or, if Participle, § 47).] sailed out, being in a great (state of) delight he ordered the sailors to get ready a banquet to celebrate^[ὡς ἐπὶ (d).] his good fortune. And when everything was prepared, some one of the Malaioi told the king that they had (have) no salt. But he, thinking^[Dramatic Particles, § 75.] it was necessary, asked the bag to give it, fearing however secretly somewhat, but being ashamed on account of the sailors. And immediately the bag being open proceeded to^[Tense, § 59.] pour out so much salt that the ship was sunk, and those on board at the same time: nor did it cease even^[Negatives, § 79.] then, but even to this day it lies down below pouring out salt: so that the sea has become bitter.
 
-1 Tenses, § 57 (or, if Participle, § 47). 2 ὡς ἐπὶ (d). 8. Dramatic Particles, 8 75. 4 Tense, § 59. 5 Negatives, § 78.
 
 ## EXERCISE CXX.
 
-Shooting over the Moon.
+### **Shooting over the Moon.**
 
 ### VOCABULARY.
 
-pride one's-self on, μέγα powerfully, ἰσχυρῶς. φρονεῖν ἐπί. promise, ὑπόσχεσις, f. Crete, Κρήτη. new moon, νουμηνία. Cretan, Kp. make haste, ἐπείγεσθαι.
+- pride one's-self on, φρονεῖν ἐπί.
+- μέγα powerfully, ἰσχυρῶς.
+- promise, ὑπόσχεσις, f.
+- Crete, Κρήτη.
+- new moon, νουμηνία.
+- Cretan, Κρής.
+- make haste, ἐπείγεσθαι.
+- let fly, ἀφίημι, I.
 
-let fly, ἀφίημι, I.
-
-There was a certain archer in Crete, very skilful in shooting,! but at the same time accustomed to pride himself on his art. And once in the presence of a Boeotian, the Cretan said he was able to let fly his arrow so powerfully that it should fly over the moon. And the Boeotian with a laugh said, 'I promise to pay you a talent of gold when you have done this.' For he knew of course that it was? impossible. But the Cretan having accepted his promise, bade him be present on the following night, when it happened to be\* new moon. And when they were come the moon appeared about to set : accordingly the Boeotian ordered him to make haste, on the plea that the moon would disappear directly. But he, keeping silent and quiet, when® at last she disappeared, shot his bolt at once. And having shot, he said, 'Pay the talent: for I have shot over the moon, since she is gone under the sea, but I have shot my arrow over the sea.'
-
-: Article and Infinitive, 8 8. 2 Participle, § 44. Participle, § 51. ΝΕ 4 Participle, § 43. 5 ἐπεὶ, with Aorist Indicative,
+There was a certain archer in Crete, very skilful in shooting,^[Article and Infinitive, § 8.] but at the same time accustomed to pride himself on his art. And once in the presence of a Boeotian, the Cretan said he was able to let fly his arrow so powerfully that it should fly over the moon. And the Boeotian with a laugh said, 'I promise to pay you a talent of gold when you have done this.'^[Participle, § 44.] For he knew of course that it was^[Participle, § 51.] impossible. But the Cretan having accepted his promise, bade him be present on the following night, when it happened to be^[Participle, § 43.] new moon. And when they were come the moon appeared about to set: accordingly the Boeotian ordered him to make haste, on the plea that the moon would disappear directly. But he, keeping silent and quiet, when^[ἐπεὶ, with Aorist Indicative.] at last she disappeared, shot his bolt at once. And having shot, he said, 'Pay the talent: for I have shot over the moon, since she is gone under the sea, but I have shot my arrow over the sea.'
 
 ## EXERCISE CXXI.
 
@@ -4534,11 +4642,13 @@ There was a certain archer in Crete, very skilful in shooting,! but at the same 
 
 ### VOCABULARY.
 
-magistrate, ἄρχων (-ovr-). at Athens, ᾿Αθήνῃσι. Kpion, Κρισαῖοι. fee, μισθός.
 
-to Athens, ᾿Αθήναζε. borrow, δανείζομαι. sophist, σοφιστής.
+- magistrate, ἄρχων (-οντ-).
+- at Athens, Ἀθήνῃσι.
+- Kpion, Κρισαῖοι.
+- fee, μισθός.
+- to Athens, Ἀθήναζε.
+- borrow, δανείζομαι.
+- sophist, σοφιστής.
 
-There was a certain youth dwelling in Krise, being the son of the magistrate of the Krisaioi. And he went abroad to Athens in order that he might learn! philosophy from the sophists there; and when he was going away his father gave him plenty of money, so that he should be? able to live at Athens one year, and pay the sophists their fee. And the boy, having arrived at the city, and having met another young man who had been® an acquaintance (of his) previously, asked him to advise him what he ought' to do, and in what way to live. And he gave him much strange advice \[advised many strange things\], and in return for many gifts he taught him very cleverly to borrow money. Accordingly, when the year was ending, and his father asked him if the money proved sufficient which he had received at his departure, he said, 'Certainly it proved sufficient: for it was on account of this I was able to borrow the rest.'
-
-1 Final, § 70. 2 Use wore with the Accusative and Infinitive. 3 Tenses, § 57. 4 Use Present Optative of δεῖ, N
-
+There was a certain youth dwelling in Krise, being the son of the magistrate of the Krisaioi. And he went abroad to Athens in order that he might learn^[Final, § 70.] philosophy from the sophists there; and when he was going away his father gave him plenty of money, so that he should be^[Use ὤστε with the Accusative and Infinitive.] able to live at Athens one year, and pay the sophists their fee. And the boy, having arrived at the city, and having met another young man who had been^[Tenses, § 57.] an acquaintance (of his) previously, asked him to advise him what he ought^[Use Present Optative of δεῖ.] to do, and in what way to live. And he gave him much strange advice \[advised many strange things\], and in return for many gifts he taught him very cleverly to borrow money. Accordingly, when the year was ending, and his father asked him if the money proved sufficient which he had received at his departure, he said, 'Certainly it proved sufficient: for it was on account of this I was able to borrow the rest.'
